@@ -1,0 +1,10 @@
+h3::before {
+    content: ""; display: block; height: 1px; background-color: black; margin-top: 1em; margin-bottom: 1em; }
+h3 { color:blue;}
+p:nth-child(5n) {  color:purple;  list-style-type: none;  }
+p:nth-child(5n+1) {  color:green;  list-style-type: none; }
+p:nth-child(5n+2) {  color:magenta;  list-style-type: none; }
+p:nth-child(5n+3) {  color:red;  list-style-type: none; }
+/* p:nth-child(4n+4) {  color: pink;  list-style-type: none; } */
+em { color:black!important;  font-weight: bold;  float:right } 
+/* em::after { content: ""; display: block;  } */
