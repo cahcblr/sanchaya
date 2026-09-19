@@ -1,0 +1,6 @@
+# Machine catalogs are inputs to vector/entity projections, not user-facing
+# lexical corpus content.
+.sourcegraph/ignore
+patra-darpan/catalog/**
+patra-darpan/ontology/**
+patra-darpan/entities/**

@@ -1,1 +1,5 @@
 **/.DS_Store
+
+# Patra Darpan media stays available in the worktree for later rich-result
+# serving, but is excluded from this text-first lexical snapshot.
+patra-darpan/papers/**/media/
