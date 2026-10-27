@@ -235,22 +235,22 @@ condition for *Agastya*. It is equally well possible the importance of the visib
 The above analysis helps one to get a better understanding as to how ancient should have been the tradition of PT during the time of VM. The difference in the epochs of VM and Parāśara can be visualized by the simulation of the early morning rise of *Agastya* at Ujjain shown in Fig.3 for 530 AD. The constellation of *Hasta* was well below the horizon and naturally PT statement would have been taken as incorrect by VM and by his commentator Utpala. The star that was rising at the eastern horizon at Ujjain can be easily identified as Regulus. As per BS, Sun was 7° behind the beginning of sign Virgo. That is Sun was in *Simha Rāśi*, at longitude 143° and this was quite accurate for the era of VM as per the twelve *Rāśi* zodiac taking the equinox to coincide with the first point of star *Aśvinī*. The amount of precession between the epoch of PT and that of BS would be 23º20′ which number was first computed by William Jones correctly though not with reference to rise of star *Agastya*.
 The above discussion helps us to understand that the phrase *hastasthe savitari* in (PT. 2) should not be taken in its literal sense as Sun staying at/in/near star *Hasta*. It is the star division of that name as defined by the season zodiac of (PT. 3) in which Sun is said to be stationed. This does not mean that the stars $\gamma$-Corvi (Gienah) and Aldebaran should not have been visible within a few days interval. It is the near
 
-![Fig. 1. Early morning sky picture at Kurukṣetra for 21st September -1300 with Agastya in the southern sky and constellation Hasta (Corvi) rising in the eastern sky.](media/p12_page.png)
+![Fig. 1. Early morning sky picture at Kurukṣetra for 21st September -1300 with Agastya in the southern sky and constellation Hasta (Corvi) rising in the eastern sky.](media/p12_page.webp)
 
 *Fig. 1. Early morning sky picture at Kurukṣetra for 21st September -1300 with Agastya in the southern sky and constellation Hasta (Corvi) rising in the eastern sky.*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=12, position=bottom, type=diagram -->
 
 ---
 PARA–ŚARA’S SEASON SOLAR ZODIAC 235
 
-![Fig. 2. Evening sky picture at Puṣkara for 16th April -1200 with Agastya in the southern sky near its last visibility for the year. Rohiṇī was visible in the vicinity of the date in the western sky after sun set.](media/p13_page.png)
+![Fig. 2. Evening sky picture at Puṣkara for 16th April -1200 with Agastya in the southern sky near its last visibility for the year. Rohiṇī was visible in the vicinity of the date in the western sky after sun set.](media/p13_page.webp)
 
 *Fig. 2. Evening sky picture at Puṣkara for 16th April -1200 with Agastya in the southern sky near its last visibility for the year. Rohiṇī was visible in the vicinity of the date in the western sky after sun set.*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=13, position=top, type=diagram -->
 
@@ -263,11 +263,11 @@ These tables provide a further rational basis for understanding the statements o
 ---
 236 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 3. First Visibility of Agastya (Canopus) at Ujjain on 15th August 530 AD. Constellation Hasta was well below the horizon. Star Maghā (α-Leonis) was above the horizon.](media/p14_page.png)
+![Fig. 3. First Visibility of Agastya (Canopus) at Ujjain on 15th August 530 AD. Constellation Hasta was well below the horizon. Star Maghā (α-Leonis) was above the horizon.](media/p14_page.webp)
 
 *Fig. 3. First Visibility of Agastya (Canopus) at Ujjain on 15th August 530 AD. Constellation Hasta was well below the horizon. Star Maghā (α-Leonis) was above the horizon.*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=14, position=top, type=diagram -->
 

@@ -331,10 +331,10 @@ Sriram, M. S. (2022). The Vākya system of astronomy. In K. Gopinath & S. D. Sha
 **Publisher's Note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
 
-![Fig. 11. Springer Logo](media/p11_page.png)
+![Fig. 11. Springer Logo](media/p11_page.webp)
 
 *Fig. 11. Springer Logo*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=bottom-right, type=logo -->

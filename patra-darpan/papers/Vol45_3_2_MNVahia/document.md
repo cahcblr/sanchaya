@@ -46,18 +46,18 @@ HARAPPAN GEOMETRY AND SYMMETRY 345
 
 The *swastika* symbol (Fig. 1) is one of the most common geometric shapes in the corpus. This symbol appears in the sign list of Indus script (Sign no. 148 in the concordance of Mahadevan, henceforth referred to as M77). Elsewhere
 
-<!-- figure-resolved-page-render-hidden: image=media/p03_page.png caption="Fig. 1. Swastika Image from Mohenjo daro" -->
+<!-- figure-resolved-page-render-hidden: image=media/p03_page.webp caption="Fig. 1. Swastika Image from Mohenjo daro" -->
 
 <!-- figure-meta: page=3, position=middle, type=photograph -->
 
 **M-332 a**
 (Yadav and Vahia, 2009) examples of some individual symbols with remarkable similarity to signs in M77 are shown. Moreover, the *swastika* symbol itself appears in three other forms (Figs. 2-4).
 
-![Fig. 2. One variation of swastika with open lines](media/p03_page.png)
+![Fig. 2. One variation of swastika with open lines](media/p03_page.webp)
 
 *Fig. 2. One variation of swastika with open lines*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=bottom, type=photograph -->
 
@@ -65,17 +65,17 @@ The *swastika* symbol (Fig. 1) is one of the most common geometric shapes in the
 ---
 346 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p04_page.png caption="Fig. 3. Second variation of swastika symbol." -->
+<!-- figure-resolved-page-render-hidden: image=media/p04_page.webp caption="Fig. 3. Second variation of swastika symbol." -->
 
 <!-- figure-meta: page=4, position=top, type=photograph -->
 
 **M-339 a**
 
-![Fig. 4. Third variation in swastika symbol.](media/p04_page.png)
+![Fig. 4. Third variation in swastika symbol.](media/p04_page.webp)
 
 *Fig. 4. Third variation in swastika symbol.*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=middle, type=photograph -->
 
@@ -84,11 +84,11 @@ Unlike the example given in Fig. 2, these objects rarely have holes. There are o
 ---
 HARAPPAN GEOMETRY AND SYMMETRY 347
 
-![Fig. 5. A case of swastika symbol with a complex geometrical design behind it.](media/p05_page.png)
+![Fig. 5. A case of swastika symbol with a complex geometrical design behind it.](media/p05_page.webp)
 
 *Fig. 5. A case of swastika symbol with a complex geometrical design behind it.*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=top, type=photograph -->
 
@@ -109,23 +109,23 @@ There are several designs where the designs are more in the form of grid. The si
 
 348 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 6. Basic '+' design." -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 6. Basic '+' design." -->
 
 <!-- figure-meta: page=6, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 7. One variation of '+' design." -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 7. One variation of '+' design." -->
 
 <!-- figure-meta: page=6, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 8. Second variation of '+' design." -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 8. Second variation of '+' design." -->
 
 <!-- figure-meta: page=6, position=middle, type=photograph -->
 
-![Fig. 9. Third variation of '+' design.](media/p06_page.png)
+![Fig. 9. Third variation of '+' design.](media/p06_page.webp)
 
 *Fig. 9. Third variation of '+' design.*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=middle, type=photograph -->
 
@@ -136,19 +136,19 @@ The geometrical pattern in Fig. 12 shows a measure of technological sophisticati
 ***
 HARAPPAN GEOMETRY AND SYMMETRY 349
 
-<!-- figure-resolved-page-render-hidden: image=media/p07_page.png caption="Fig. 10. Simplest grid inscription." -->
+<!-- figure-resolved-page-render-hidden: image=media/p07_page.webp caption="Fig. 10. Simplest grid inscription." -->
 
 <!-- figure-meta: page=7, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p07_page.png caption="Fig. 11. More involved grid structure." -->
+<!-- figure-resolved-page-render-hidden: image=media/p07_page.webp caption="Fig. 11. More involved grid structure." -->
 
 <!-- figure-meta: page=7, position=middle, type=photograph -->
 
-![Fig. 12. Complete geometrical grid. Note that the grid is of 6 points at each end. The spacing is also meticulously worked out with spacing error of about 10% as measured along the longest diagonal.](media/p07_page.png)
+![Fig. 12. Complete geometrical grid. Note that the grid is of 6 points at each end. The spacing is also meticulously worked out with spacing error of about 10% as measured along the longest diagonal.](media/p07_page.webp)
 
 *Fig. 12. Complete geometrical grid. Note that the grid is of 6 points at each end. The spacing is also meticulously worked out with spacing error of about 10% as measured along the longest diagonal.*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=bottom, type=photograph -->
 
@@ -161,11 +161,11 @@ there. It is noted that within the range of errors, lines in both the directions
 
 Some examples of few other kind of geometric designs on square objects are given below. These objects are also well made with a fair degree of accuracy. For the object M-350 (Fig. 13), the outer squares have a thickness of 1.5 mm. For H-119, the spacing between the lines in each of the quarters is 1.5 mm. For H-637, the line spacing is 1.0 mm between consecutive lines of the diagonal and for H-124; the four lines along the diagonal are 0.5 mm while spacing between lines of the outer box is 1.0 mm.
 
-![Fig. 13. Other geometric designs on square objects.](media/p08_page.png)
+![Fig. 13. Other geometric designs on square objects.](media/p08_page.webp)
 
 *Fig. 13. Other geometric designs on square objects.*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 
 <!-- figure-meta: page=8, position=bottom, type=photograph -->
 
@@ -180,33 +180,33 @@ Some of the most spectacular objects are circular in shape. There is at least on
 
 Several circular objects have 4-fold symmetry, dividing the circular area into 4 quadrants. There are several examples (Mr-5, Pk-15, Pk-16, Pk-17, Pk-22, Pk-23, Pk-33, Pk-35, Pk-39) of circular objects having 4-fold symmetry with a '+' sign, similar in pattern to the example given in Fig. 6 above, except on a circular format (vide Pk-29). Figs. 14-16 give examples of the same.
 
-<!-- figure-resolved-page-render-hidden: image=media/p09_page.png caption="Fig. 14. Circular object with 4-fold symmetry." -->
+<!-- figure-resolved-page-render-hidden: image=media/p09_page.webp caption="Fig. 14. Circular object with 4-fold symmetry." -->
 
 <!-- figure-meta: page=9, position=middle, type=photograph -->
 
-![Fig. 15. Object with 4 circular patterns.](media/p09_page.png)
+![Fig. 15. Object with 4 circular patterns.](media/p09_page.webp)
 
 *Fig. 15. Object with 4 circular patterns.*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=bottom, type=photograph -->
 
 ***
 352 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p10_page.png caption="Fig. 16. A 4-fold symmetric copper object with fine work. Note that this object is divided into 4 parts using a '+' sign and each quadrant is further divided into 8 marks each." -->
+<!-- figure-resolved-page-render-hidden: image=media/p10_page.webp caption="Fig. 16. A 4-fold symmetric copper object with fine work. Note that this object is divided into 4 parts using a '+' sign and each quadrant is further divided into 8 marks each." -->
 
 <!-- figure-meta: page=10, position=top, type=photograph -->
 
 Fig. 16 shows a copper object with extremely intricate working, where the material is made transparent by removing the back material. Note that the size of the object is 5.4 cm.
 The pattern given in object Sht-1 (Fig. 17) is representative of several objects (vide C-42) with similar structuring. It is particularly interesting since the symmetry seems to have been *intentionally broken* by not completing the pattern on the top and doing so partially at the bottom with a central wriggle taking it to the middle. Clearly, the artist had an idea about symmetry and chose not to make the inscription completely symmetrical.
 
-![Fig. 17. Circular object with geometric pattern and 4-fold symmetry.](media/p10_page.png)
+![Fig. 17. Circular object with geometric pattern and 4-fold symmetry.](media/p10_page.webp)
 
 *Fig. 17. Circular object with geometric pattern and 4-fold symmetry.*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=photograph -->
 
@@ -214,7 +214,7 @@ An interesting variation in this the inscription Pk-13 (Fig. 18) with 21 pits du
 
 HARAPPAN GEOMETRY AND SYMMETRY 353
 
-<!-- figure-resolved-page-render-hidden: image=media/p11_page.png caption="Fig. 18. 4-fold symmetry with 21 circular marks, 2 quadrants have 4 pits, 1 with 6 pits and 1 with 7 pits." -->
+<!-- figure-resolved-page-render-hidden: image=media/p11_page.webp caption="Fig. 18. 4-fold symmetry with 21 circular marks, 2 quadrants have 4 pits, 1 with 6 pits and 1 with 7 pits." -->
 
 <!-- figure-meta: page=11, position=top, type=photograph -->
 
@@ -222,11 +222,11 @@ HARAPPAN GEOMETRY AND SYMMETRY 353
 
 There are 2 examples of objects with 5-fold symmetry. Of these one (C-50) simply has a marking of a 5-fold star while the inscription, C-49 (with an identical pair in C-50) is interesting (Fig. 19).
 
-![Fig. 19. Inscription with attempted 5-fold symmetry.](media/p11_page.png)
+![Fig. 19. Inscription with attempted 5-fold symmetry.](media/p11_page.webp)
 
 *Fig. 19. Inscription with attempted 5-fold symmetry.*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=photograph -->
 
@@ -237,7 +237,7 @@ In this object, one side shows an animal and other side has a five pointed shape
 Only one object with excellent workmanship with 6-fold symmetry (Fig. 20), but is interestingly found, though the head of the animal is different for each of the six parts of the pattern, the pattern is symmetric with respect to the central region till the head of the animals. This is probably the only example of 6 fold symmetry. This suggests that this symmetry was not commonly used.
 354 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p12_page.png caption="Fig. 20. Object with a pattern having 6- fold symmetry." -->
+<!-- figure-resolved-page-render-hidden: image=media/p12_page.webp caption="Fig. 20. Object with a pattern having 6- fold symmetry." -->
 
 <!-- figure-meta: page=12, position=top, type=photograph -->
 
@@ -245,36 +245,36 @@ Only one object with excellent workmanship with 6-fold symmetry (Fig. 20), but i
 
 There are a large number of objects with a variety of designs having 7-fold symmetry. We reproduce only 5 of the objects of this class (Figs. 21-25), all of which show different patterns but they all have 7-fold symmetry.
 
-![Fig. 21. 7-fold symmetry in a magnificent carving.](media/p12_page.png)
+![Fig. 21. 7-fold symmetry in a magnificent carving.](media/p12_page.webp)
 
 *Fig. 21. 7-fold symmetry in a magnificent carving.*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=middle, type=photograph -->
 
 The intricate nature of Fig. 21 is breathtaking. The object diameter is 3 cm. The object is divided into 7 parts. Each part has a ring of 4 concentric circles and a filled circle in the middle. The relative sizes of the concentric circles within each part are identical to an accuracy of 1%, which is the measuring accuracy. It shows a level of consistency which is not achievable unless all the units were made from the same mould. This is confirmed by the fact that the relative distance between the centers of each part is accurate to about 5%.
 HARAPPAN GEOMETRY AND SYMMETRY 355
 
-<!-- figure-resolved-page-render-hidden: image=media/p13_page.png caption="Fig. 22. 7-Fold symmetry with pipal leaves." -->
+<!-- figure-resolved-page-render-hidden: image=media/p13_page.webp caption="Fig. 22. 7-Fold symmetry with pipal leaves." -->
 
 <!-- figure-meta: page=13, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p13_page.png caption="Fig. 23. 7-fold symmetric inscription made with circles (see also M-1654)." -->
+<!-- figure-resolved-page-render-hidden: image=media/p13_page.webp caption="Fig. 23. 7-fold symmetric inscription made with circles (see also M-1654)." -->
 
 <!-- figure-meta: page=13, position=middle, type=photograph -->
 
-![Fig. 24. 7- fold symmetry with star shape.](media/p13_page.png)
+![Fig. 24. 7- fold symmetry with star shape.](media/p13_page.webp)
 
 *Fig. 24. 7- fold symmetry with star shape.*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=bottom, type=photograph -->
 
 356 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p14_page.png caption="Fig. 25. 7-fold symmetry with star and concentric circles." -->
+<!-- figure-resolved-page-render-hidden: image=media/p14_page.webp caption="Fig. 25. 7-fold symmetry with star and concentric circles." -->
 
 <!-- figure-meta: page=14, position=top, type=photograph -->
 
@@ -284,18 +284,18 @@ Apart from this, there are several objects with 7 human or mythical figure marki
 
 One unambiguous case of an object of clear 8-fold symmetry (Fig. 26) is found. There are other unclear examples such as Pk-25 where the division is not unambiguous.
 
-![Fig. 26. Object with 4 and 8 fold symmetry.](media/p14_page.png)
+![Fig. 26. Object with 4 and 8 fold symmetry.](media/p14_page.webp)
 
 *Fig. 26. Object with 4 and 8 fold symmetry.*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 
 <!-- figure-meta: page=14, position=bottom, type=photograph -->
 
 HARAPPAN GEOMETRY AND SYMMETRY 357
 Another example of eight fold symmetry is given in Fig. 27 where there are two sets of eight markings, each making the complete pattern.
 
-<!-- figure-resolved-page-render-hidden: image=media/p15_page.png caption="Fig. 27. An inscription with a double eight- fold symmetry." -->
+<!-- figure-resolved-page-render-hidden: image=media/p15_page.webp caption="Fig. 27. An inscription with a double eight- fold symmetry." -->
 
 <!-- figure-meta: page=15, position=top, type=photograph -->
 
@@ -303,11 +303,11 @@ Another example of eight fold symmetry is given in Fig. 27 where there are two s
 
 In Fig. 21, an example of circles with several concentric rings within them is given. Objects with such concentric circles are discussed. While the object in Fig. 21 is unique, there are several examples of less exquisite objects with concentric circles. The simplest example of this kind of symbols is given in Fig. 28.
 
-![Fig. 28. Objects with concentric circles.](media/p15_page.png)
+![Fig. 28. Objects with concentric circles.](media/p15_page.webp)
 
 *Fig. 28. Objects with concentric circles.*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=middle, type=photograph -->
 
@@ -315,21 +315,21 @@ There are several examples of this kind (e.g. H-337, H-338, H-342). There are ex
 
 358 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p16_page.png caption="Fig. 29. Objects with two concentric circles." -->
+<!-- figure-resolved-page-render-hidden: image=media/p16_page.webp caption="Fig. 29. Objects with two concentric circles." -->
 
 <!-- figure-meta: page=16, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p16_page.png caption="Fig. 30. Object with concentric circles on all 3 sides." -->
+<!-- figure-resolved-page-render-hidden: image=media/p16_page.webp caption="Fig. 30. Object with concentric circles on all 3 sides." -->
 
 <!-- figure-meta: page=16, position=top, type=photograph -->
 
 There are several objects with three such rings (e.g. H-365, H-352, H-353, H-356, H-357, H-361, H-972, H-978 etc.). Some objects such as M-1260 have 4 rings on them. These concentric circles seem to be of importance since they also appear in a combination (Fig. 31).
 
-![Fig. 31. Object with several sign combinations](media/p16_page.png)
+![Fig. 31. Object with several sign combinations](media/p16_page.webp)
 
 *Fig. 31. Object with several sign combinations*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=middle, type=photograph -->
 
@@ -340,15 +340,15 @@ In contrast to Fig. 32, the objects shown in Fig. 33 have a jagged shape. Consid
 ***
 HARAPPAN GEOMETRY AND SYMMETRY 359
 
-<!-- figure-resolved-page-render-hidden: image=media/p17_page.png caption="Fig. 32. An artistic inscription." -->
+<!-- figure-resolved-page-render-hidden: image=media/p17_page.webp caption="Fig. 32. An artistic inscription." -->
 
 <!-- figure-meta: page=17, position=top, type=photograph -->
 
-![Fig. 33. Objects with sharp edges.](media/p17_page.png)
+![Fig. 33. Objects with sharp edges.](media/p17_page.webp)
 
 *Fig. 33. Objects with sharp edges.*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=middle, type=photograph -->
 
@@ -357,19 +357,19 @@ Against that, the object shown in Fig. 36 is divided into layers made with horiz
 ***
 360 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 34. Objects with multiple markings. There are a total of 32 markings with 8+6+10+8 markings in each quadrant starting with the top and counting in clockwise direction." -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 34. Objects with multiple markings. There are a total of 32 markings with 8+6+10+8 markings in each quadrant starting with the top and counting in clockwise direction." -->
 
 <!-- figure-meta: page=18, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 35. A circular object divided into a checkered pattern with 9 markings." -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 35. A circular object divided into a checkered pattern with 9 markings." -->
 
 <!-- figure-meta: page=18, position=middle, type=photograph -->
 
-![Fig. 36. Inscription with marking of 8 lines (see also C-48).](media/p18_page.png)
+![Fig. 36. Inscription with marking of 8 lines (see also C-48).](media/p18_page.webp)
 
 *Fig. 36. Inscription with marking of 8 lines (see also C-48).*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=bottom, type=photograph -->
 
@@ -377,17 +377,17 @@ Fig. 37 is a representation of a shape with several perforations. If the objects
 ***
 HARAPPAN GEOMETRY AND SYMMETRY 361
 
-<!-- figure-resolved-page-render-hidden: image=media/p19_page.png caption="Fig. 37. Object with 10 holes or 8 holes with two central additional holes for holding, as has been seen in other objects." -->
+<!-- figure-resolved-page-render-hidden: image=media/p19_page.webp caption="Fig. 37. Object with 10 holes or 8 holes with two central additional holes for holding, as has been seen in other objects." -->
 
 <!-- figure-meta: page=19, position=top, type=photograph -->
 
 Figs. 38 and 39 also demand separate attention since they are made with circular material scooped out of the shape. While the object in Fig. 41 is made with an 8 sided basic shape, with 8 perforations on the outside, 4 perforations in the middle and one at the centre, the object in Fig. 42 simply has 24 scoops on a rectangular object with no apparent pattern.
 
-![Fig. 38. Inscription with 12 circular blobs in a rough 4-fold symmetry with an additional central blob.](media/p19_page.png)
+![Fig. 38. Inscription with 12 circular blobs in a rough 4-fold symmetry with an additional central blob.](media/p19_page.webp)
 
 *Fig. 38. Inscription with 12 circular blobs in a rough 4-fold symmetry with an additional central blob.*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=middle, type=photograph -->
 
@@ -395,34 +395,34 @@ Figs. 40 and 41 indicate truly miniature objects with complex (Fig. 40) or anima
 ***
 362 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p20_page.png caption="Fig. 39. A rare oval inscription with 24 holes." -->
+<!-- figure-resolved-page-render-hidden: image=media/p20_page.webp caption="Fig. 39. A rare oval inscription with 24 holes." -->
 
 <!-- figure-meta: page=20, position=top, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p20_page.png caption="Fig. 40. A remarkable miniature inscription." -->
+<!-- figure-resolved-page-render-hidden: image=media/p20_page.webp caption="Fig. 40. A remarkable miniature inscription." -->
 
 <!-- figure-meta: page=20, position=middle, type=photograph -->
 
-![Fig. 41. A complete object with a cow like shape.](media/p20_page.png)
+![Fig. 41. A complete object with a cow like shape.](media/p20_page.webp)
 
 *Fig. 41. A complete object with a cow like shape.*
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 
 <!-- figure-meta: page=20, position=bottom, type=photograph -->
 
 HARAPPAN GEOMETRY AND SYMMETRY 363
 Fig. 42 has two geometrical patterns that are used even today as good luck signs at special functions. While one can argue on whether this is a chance occurrence or whether there is continuity in tradition, the evidence is not enough to make a firm conclusion. Fig. 43 is an example of a square tile where an intricate pattern completely fills up the square and is carefully marked on the outside.
 
-<!-- figure-resolved-page-render-hidden: image=media/p21_page.png caption="Fig. 42. A rectangular inscription with swastika and another sign." -->
+<!-- figure-resolved-page-render-hidden: image=media/p21_page.webp caption="Fig. 42. A rectangular inscription with swastika and another sign." -->
 
 <!-- figure-meta: page=21, position=middle, type=photograph -->
 
-![Fig. 43. An elegantly and intricately carved object in bass and relief. Note that the pattern fills the central region without leaving a gap.](media/p21_page.png)
+![Fig. 43. An elegantly and intricately carved object in bass and relief. Note that the pattern fills the central region without leaving a gap.](media/p21_page.webp)
 
 *Fig. 43. An elegantly and intricately carved object in bass and relief. Note that the pattern fills the central region without leaving a gap.*
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 
 <!-- figure-meta: page=21, position=middle, type=photograph -->
 
@@ -431,26 +431,26 @@ Fig. 45 is an example where animal motifs are drawn in a fundamentally different
 The last object discussed is Mr-10. It is a magnificent example of geometric design done with great care. This diameter of this object is about $5\text{ cm}$. It consists
 364 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p22_page.png caption="Fig. 44. An object with a tree pattern. The trees, on both sides of the seal have exactly 8 branches on each side." -->
+<!-- figure-resolved-page-render-hidden: image=media/p22_page.webp caption="Fig. 44. An object with a tree pattern. The trees, on both sides of the seal have exactly 8 branches on each side." -->
 
 <!-- figure-meta: page=22, position=top, type=photograph -->
 
-![Fig. 45. An object with engravings that appear to be 2 Scorpions on one side and 2 four legged animals on the other.](media/p22_page.png)
+![Fig. 45. An object with engravings that appear to be 2 Scorpions on one side and 2 four legged animals on the other.](media/p22_page.webp)
 
 *Fig. 45. An object with engravings that appear to be 2 Scorpions on one side and 2 four legged animals on the other.*
 
-<!-- figure-resolved-page-render: page=22 image=media/p22_page.png -->
+<!-- figure-resolved-page-render: page=22 image=media/p22_page.webp -->
 
 <!-- figure-meta: page=22, position=middle, type=photograph -->
 
 of 2 ‘wheel like’ patterns, the outer one with 20 spokes and the inner one with 12 spokes. The width of each of the outer and inner arcs and the radial lines that connect them for both the wheel like pattern have been measured. For the outer pattern, fluctuations in the outer arcs are about $8\%$ while that of inner arcs it is $14\%$. Fluctuations in the lines joining them are about $10\%$. In the case of the inner pattern, the outer arcs have fluctuations of the order of $12\%$ while the inner arcs have fluctuations of the order of $22\%$. The lines joining them have fluctuations of the order of $5\%$. These fluctuations on the radial side are consistent with workmanship on this size. However, the fluctuations along the arc are relatively small. In the case of the outer pattern, the length of the perimeter is $31.4\text{ cm}$. This
 HARAPPAN GEOMETRY AND SYMMETRY 365
 
-![Fig. 46. One of the most beautiful early objects from Indus period depicting 20 spokes on the outer circle and 12 spokes on inner circle. It possibly has 2 holes in the centre.](media/p23_page.png)
+![Fig. 46. One of the most beautiful early objects from Indus period depicting 20 spokes on the outer circle and 12 spokes on inner circle. It possibly has 2 holes in the centre.](media/p23_page.webp)
 
 *Fig. 46. One of the most beautiful early objects from Indus period depicting 20 spokes on the outer circle and 12 spokes on inner circle. It possibly has 2 holes in the centre.*
 
-<!-- figure-resolved-page-render: page=23 image=media/p23_page.png -->
+<!-- figure-resolved-page-render: page=23 image=media/p23_page.webp -->
 
 <!-- figure-meta: page=23, position=top, type=photograph -->
 

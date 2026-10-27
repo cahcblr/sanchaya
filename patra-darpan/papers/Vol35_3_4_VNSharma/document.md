@@ -30,11 +30,11 @@ ASTRONOMICAL INSTRUMENTS AT KOTA 235
 
 The shaft on which the three shells are mounted will hence forth be called the polar axis of the instrument. At the polar axis, two rings forming great circles of the outer shell cross one another. The planes of these rings are perpendicular to each other. A great circle intersects one of these rings at approximately $24.5^\circ$ from the poles.[^6] The ring intersected by the great circle is labeled with degree marks which increase $0^\circ$ to $18^\circ$ towards a pole from the point of intersection, and $0^\circ$ to $90^\circ$ in the direction opposite to
 
-![Fig. 1. Armillary Sphere of Rao Madho Singh Museum, Kota, Rajasthan.](media/p03_page.png)
+![Fig. 1. Armillary Sphere of Rao Madho Singh Museum, Kota, Rajasthan.](media/p03_page.webp)
 
 *Fig. 1. Armillary Sphere of Rao Madho Singh Museum, Kota, Rajasthan.*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=middle, type=photograph -->
 
@@ -46,11 +46,11 @@ As pointed out earlier, perpendicular to the solstitial colure there is another 
 ASTRONOMICAL INSTRUMENTS AT KOTA 237
 to $90^\circ$. The $90^\circ$ mark of one quadrant and the $0^\circ$ mark of the adjacent quadrant are common. The two zero markings of the equator occur at the two equinoctial points. Although the outer shell rotates freely, there is no observing ring associated with it. However, the ecliptic pole and the corresponding other pole, $180^\circ$ away, have circular holes of apporximately 1 cm diameter where an observing ring can be mounted if so desired.
 
-![Fig. 2. Armillary Sphere: Detail](media/p05_page.png)
+![Fig. 2. Armillary Sphere: Detail](media/p05_page.webp)
 
 *Fig. 2. Armillary Sphere: Detail*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=middle, type=photograph -->
 

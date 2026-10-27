@@ -140,9 +140,9 @@ CONJUNCTIONS, TRANSITS AND OCCULATIONS 521
 **Definition:** The nodes (*pātas*) of a planet are the points of intersection of its orbit with the ecliptic (as seen from the earth). Heliocentrically, the nodes $V_1$ and $V_2$ are the points of intersection of the planet’s orbit with the plane of the earth’s orbit (Fig. 1). $E_1 V_1 S V_2 E_2$ is the line of nodes.
 The latitude of a planet is a function of the sum of the planet’s mean longitude and its *pāta*. Here it should be noted that Bhāskara II uses the word *pāta* to mean ($360^\circ$ - the ascending node). However Gaṇeśa Daivajña calls the ascending node itself as *pāta*.
 
-![The orbital plane of Venus is inclined to that of the earth. The points, $V_1$ and $V_2$ are called nodes. The line joining them is called the line of nodes. [Courtesy: Transit of Venus by Dr B.S. Shylaja]](media/p07_page.png)
+![The orbital plane of Venus is inclined to that of the earth. The points, $V_1$ and $V_2$ are called nodes. The line joining them is called the line of nodes. [Courtesy: Transit of Venus by Dr B.S. Shylaja]](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=middle, type=diagram -->
 
@@ -174,11 +174,11 @@ Bhāskara II explains the method of obtaining the latitudes of planets in his *K
 क्षेपघ्नी चलकर्णहृत्त्रि विहता स्यादङ्गुलाद्य: शर: ॥
 - *Karaṇakutūhalam*, Ch. 6, śl. 10
 
-![Fig. 2. The perpendicular $PM = \beta$ from the position $P$ of a planet on its orbit to the ecliptic is the planet’s latitude. Here $N$ is the node and $i$ is the inclination of the planet’s orbit.](media/p08_page.png)
+![Fig. 2. The perpendicular $PM = \beta$ from the position $P$ of a planet on its orbit to the ecliptic is the planet’s latitude. Here $N$ is the node and $i$ is the inclination of the planet’s orbit.](media/p08_page.webp)
 
 *Fig. 2. The perpendicular $PM = \beta$ from the position $P$ of a planet on its orbit to the ecliptic is the planet’s latitude. Here $N$ is the node and $i$ is the inclination of the planet’s orbit.*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 
 <!-- figure-meta: page=8, position=bottom, type=diagram -->
 
@@ -274,11 +274,11 @@ $$THDUR = \frac{\sqrt{(D')^2 - \beta^2}}{\dot{m}}\ nāḍīs$$
 CONJUNCTIONS, TRANSITS AND OCCULATIONS 527
 The tracks of Venus’ transits across the Sun’s disc over a period of seven centuries from 1388 to 2011 AD are shown in Fig.3.
 
-![Fig. 3. Tracks of Venus during transits from 1388 to 2012 A.D.⁶](media/p13_page.png)
+![Fig. 3. Tracks of Venus during transits from 1388 to 2012 A.D.⁶](media/p13_page.webp)
 
 *Fig. 3. Tracks of Venus during transits from 1388 to 2012 A.D.⁶*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=middle, type=diagram -->
 
@@ -580,11 +580,11 @@ where $PAR = \text{difference of the parallaxes of the Moon and Guru} = 60'.4$
 ---
 CONJUNCTIONS, TRANSITS AND OCCULATIONS | 541
 
-![Fig. 4. Double Occultation of Venus and Jupiter on April 23, 1998](media/p27_page.png)
+![Fig. 4. Double Occultation of Venus and Jupiter on April 23, 1998](media/p27_page.webp)
 
 *Fig. 4. Double Occultation of Venus and Jupiter on April 23, 1998*
 
-<!-- figure-resolved-page-render: page=27 image=media/p27_page.png -->
+<!-- figure-resolved-page-render: page=27 image=media/p27_page.webp -->
 
 <!-- figure-meta: page=27, position=top, type=photograph -->
 
@@ -703,7 +703,7 @@ $$Śara = \frac{\text{Maximum } śara \times Bhujajy\bar{a}}{Ś\bar{i}ghrakar\d{
 (cancelling the $trijy\bar{a}\ R$ both in the numerator and the denominator).
 It is interesting to note that among Indian astronomers the Kerala astronomer, Nīlakaṇṭha Somayāji (1500 A.D.) was the first to explain clearly the *geocentric* latitude of a planet (see M.S.Sriram[^12]). In his cited paper M.S.Sriram has clearly explained the relation between the heliocentric and the geocentric latitudes of a planet considering the Keplerian model.
 
-![Fig. 5. Heliocentric and geocentric latitudes of a planet.[^12]](media/p33_page.png)
+![Fig. 5. Heliocentric and geocentric latitudes of a planet.[^12]](media/p33_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=547 corrected_page=33 strategy=printed-page-offset -->
 

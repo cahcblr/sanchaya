@@ -202,11 +202,11 @@ subsequent papers that the authors intend to write in due course.
 
 As indicated earlier, the treatment of cyclic quadrilateral by Nārāyaṇa in his *Gaṇitakaumudī* is quite elaborate. In Fig. 1, $ABCD$ is the cyclic quadrilateral with the sides $AB$, $BC$, $CD$, and $DA$ denoted by $s_1, s_2, s_3$, and $s_4$ respectively. For convenience, and with no loss of generality, we can assume that the base $s_1$ to be the largest side and the face $s_3$ to be the shortest one. This is just a convention adopted for demonstration. Let the diagonals $AC$ and $BD$ be $d_1$ and $d_2$. $O$ is center of the circumcircle.
 
-![Fig. 1. An inequilateral cyclic quadrilateral](media/p07_page.png)
+![Fig. 1. An inequilateral cyclic quadrilateral](media/p07_page.webp)
 
 *Fig. 1. An inequilateral cyclic quadrilateral*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
@@ -326,15 +326,15 @@ Following the definition of the third diagonal, Nārāyaṇa presents three prop
 1. The three diagonals are all equal in an equilateral or equitrilateral cyclic quadrilateral.
 ***
 
-<!-- figure-resolved-page-render-hidden: image=media/p10_page.png caption="Fig. 2. Cyclic quadrilateral with interchanged sides $s_3$ and $s_4$ and the third diagonal $d_3$" -->
+<!-- figure-resolved-page-render-hidden: image=media/p10_page.webp caption="Fig. 2. Cyclic quadrilateral with interchanged sides $s_3$ and $s_4$ and the third diagonal $d_3$" -->
 
 <!-- figure-meta: page=10, position=top-left, type=diagram -->
 
-![Fig. 3. An equilateral cyclic quadrilateral](media/p10_page.png)
+![Fig. 3. An equilateral cyclic quadrilateral](media/p10_page.webp)
 
 *Fig. 3. An equilateral cyclic quadrilateral*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=top-right, type=diagram -->
 
@@ -381,7 +381,7 @@ In the case of a kite, the two diagonals are unequal and are perpendicular to ea
 
 [^4]: It may be mentioned that the text *Gaṇitayuktibhāṣā* (Ramasubramanian et al., 2009, p. 114 and p. 242) uses this kind of interpretation.
 
-<!-- figure-resolved-page-render-hidden: image=media/p11_page.png caption="Fig. 4. An equitrilateral cyclic quadrilateral" -->
+<!-- figure-resolved-page-render-hidden: image=media/p11_page.webp caption="Fig. 4. An equitrilateral cyclic quadrilateral" -->
 
 <!-- figure-meta: page=11, position=top-left, type=diagram -->
 
@@ -392,7 +392,7 @@ It may be noted that expression (23) is the same as the diagonal of the rectangl
 **Case A: The equidichastic quadrilateral is a rectangle**
 Here again there are two possibilities. (i) swapping the face with any of the two sides and (ii) swapping the face with the base. In the first case, by swapping the face with any of the two sides, the resultant figure would be a kite which is depicted in Fig. 6b. In the second case, by swapping the face with the base, the resultant figure would be identical to the rectangle in Fig. 6a. Thus, by swapping the sides, the third diagonal that is generated will be either equal to (22) or (23).
 
-<!-- figure-resolved-page-render-hidden: image=media/p11_page.png caption="Fig. 6. An equidichastic cyclic quadrilateral" -->
+<!-- figure-resolved-page-render-hidden: image=media/p11_page.webp caption="Fig. 6. An equidichastic cyclic quadrilateral" -->
 
 <!-- figure-meta: page=11, position=top-right, type=diagram -->
 
@@ -408,11 +408,11 @@ Now, we consider equibilateral (*dvisama*) cyclic quadrilateral as depicted in F
 $$s_1 = b; \quad s_2 = s_4 = a; \quad \text{and} \quad s_3 = c.$$ (26)
 When its face is interchanged with the base as shown in Fig. 7b, it is equivalent to a simple rotation of the figure, and hence the magnitudes of the diagonals remain
 
-![Fig. 5. An equitrilateral cyclic quadrilateral with interchanged faces](media/p11_page.png)
+![Fig. 5. An equitrilateral cyclic quadrilateral with interchanged faces](media/p11_page.webp)
 
 *Fig. 5. An equitrilateral cyclic quadrilateral with interchanged faces*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=bottom, type=diagram -->
 
@@ -432,11 +432,11 @@ $$d_1 = \frac{ab + ac}{\sqrt{a^2 + bc}}$$ (30)
 
 $$d_2 = d_3 = \sqrt{a^2 + bc}.$$ (31)
 
-![Fig. 7. An equibilateral cyclic quadrilateral where the face is interchanged with sides](media/p12_page.png)
+![Fig. 7. An equibilateral cyclic quadrilateral where the face is interchanged with sides](media/p12_page.webp)
 
 *Fig. 7. An equibilateral cyclic quadrilateral where the face is interchanged with sides*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=top, type=diagram -->
 
@@ -459,11 +459,11 @@ $s_1(s_4 - s_2) - s_3(s_4 - s_2) = 0$
 or, $(s_1 - s_3)(s_4 - s_2) = 0$. (32)
 For (32) to be satisfied, either $s_1 = s_3$ or $s_4 = s_2$. But $s_1 \neq s_3$ and $s_4 \neq s_2$. This means $d_1 \neq d_2$.
 
-![Fig. 8. An inequilateral cyclic quadrilateral when the faces are interchanged](media/p13_page.png)
+![Fig. 8. An inequilateral cyclic quadrilateral when the faces are interchanged](media/p13_page.webp)
 
 *Fig. 8. An inequilateral cyclic quadrilateral when the faces are interchanged*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=middle, type=diagram -->
 
@@ -489,11 +489,11 @@ The phrase employed by Brahmagupta to express the above formula is
 भुजयोगार्धचतुष्टयभुजोनघातात् पदं सूक्ष्मम् ।
 *bhujayogārdhacatuṣṭayabhujonaghātāt padaṃ sūkṣmam |*
 
-![Fig. 9. The different orientations of the quadrilateral by interchanging face with the sides](media/p14_page.png)
+![Fig. 9. The different orientations of the quadrilateral by interchanging face with the sides](media/p14_page.webp)
 
 *Fig. 9. The different orientations of the quadrilateral by interchanging face with the sides*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 
 <!-- figure-meta: page=14, position=top, type=diagram -->
 
@@ -529,21 +529,21 @@ This result is also explicitly mentioned in *Gaṇitayuktibhāṣā* (Ramasubram
 In the case of a non-inequilateral (*aviṣama*) [quadrilateral], the diagonal multiplied by the flank side (*pārśvabhuja*) and divided by twice the perpendicular is the circumradius (*hṛdaya*). ...
 The term *aviṣama* used by Brahmagupta signifies a non-inequilateral quadrilateral. This could in principle mean any of the figures: equilateral, equitrilateral, equidichastic, or equibilateral quadrilateral. In order to demonstrate the rule given by Brahmagupta, we consider an equibilateral quadrilateral $ABCD$ as shown in Fig. 11. The verse talks of the product of a flank side (*pārśvabhuja*) and the diagonal (*karṇa*). For this, we consider the segments $AB$ and $AC$ respectively. It also speaks of a perpendicular (*avalambaka*). Though one could in principle conceive of any of the two avalambakas $DE$ and $AF$, intuitively one would opt for the latter, (though unstated) as this is the one that is connected to the meeting point of the diagonal and the flank side.
 
-![Fig. 10. A triangle inscribed in a circle](media/p15_page.png)
+![Fig. 10. A triangle inscribed in a circle](media/p15_page.webp)
 
 *Fig. 10. A triangle inscribed in a circle*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=top-right, type=diagram -->
 
 264 Indian Journal of History of Science (2023) 58:250–270
 
-![Fig. 11. Schematic sketch of an equibilateral quadrilateral to demonstrate Brahmagupta's circumradius formula](media/p16_page.png)
+![Fig. 11. Schematic sketch of an equibilateral quadrilateral to demonstrate Brahmagupta's circumradius formula](media/p16_page.webp)
 
 *Fig. 11. Schematic sketch of an equibilateral quadrilateral to demonstrate Brahmagupta's circumradius formula*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=top, type=diagram -->
 
@@ -593,15 +593,15 @@ which is the same as the expression (37) given by Nārāyaṇa.
 
 The diagonals that intersect in a quadrilateral divide each other into two segments. Nārāyaṇa presents certain relations to find the dimensions of these segments.
 
-<!-- figure-resolved-page-render-hidden: image=media/p17_page.png caption="Fig. 12. A cyclic quadrilateral with additional verticals drawn" -->
+<!-- figure-resolved-page-render-hidden: image=media/p17_page.webp caption="Fig. 12. A cyclic quadrilateral with additional verticals drawn" -->
 
 <!-- figure-meta: page=17, position=top, type=diagram -->
 
-![Fig. 13. A cyclic quadrilateral with its diagonals marked with segments](media/p17_page.png)
+![Fig. 13. A cyclic quadrilateral with its diagonals marked with segments](media/p17_page.webp)
 
 *Fig. 13. A cyclic quadrilateral with its diagonals marked with segments*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=top, type=diagram -->
 
@@ -694,11 +694,11 @@ $$ l_1 = \frac{s_4 d_2}{D}. \tag{53} $$
 
 From (37) and (50), we have
 
-![Fig. 14. A cyclic quadrilateral with its altitudes and segments of diameters](media/p19_page.png)
+![Fig. 14. A cyclic quadrilateral with its altitudes and segments of diameters](media/p19_page.webp)
 
 *Fig. 14. A cyclic quadrilateral with its altitudes and segments of diameters*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=top, type=diagram -->
 
@@ -744,11 +744,11 @@ $$ k_1 k_4; \quad k_2 k_4; \quad k_2 k_3; \quad \text{and} \quad k_1 k_3. \tag{5
 
 Let the areas of the four triangles $EAB, EBC, ECD,$ and $EDA$ be $\Delta_1, \Delta_2, \Delta_3,$ and $\Delta_4$ respectively.
 
-![Fig. 15. Area of a triangle formed by the segments of diagonals](media/p20_page.png)
+![Fig. 15. Area of a triangle formed by the segments of diagonals](media/p20_page.webp)
 
 *Fig. 15. Area of a triangle formed by the segments of diagonals*
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 
 <!-- figure-meta: page=20, position=top, type=diagram -->
 

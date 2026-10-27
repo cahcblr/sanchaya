@@ -66,7 +66,7 @@ Fig. 1 shows a map of the Orion region of the sky with all stars visible to the 
 ŚIVA ICONOGRAPHY INSPIRED BY THE STARS | 275
 ---|---
 
-![Fig. 1: Orion Region of the Sky – Current Epoch](media/p05_page.png)
+![Fig. 1: Orion Region of the Sky – Current Epoch](media/p05_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=275 corrected_page=5 strategy=printed-page-offset -->
 <!-- figure-meta: page=275, position=top, type=diagram -->
@@ -87,16 +87,16 @@ Orion. This strengthens the identification of the stars of the Orion constellati
 There is an abundance of iconographic forms of Śiva in stone, which are distributed throughout South Asia. Each one is sculpted at a different epoch, the whole effort spanning more than two millennia. The early versions of the myths themselves go back four millennia! For an objective study it is necessary to select a homogeneous set of sculptures made at the same epoch and compared with the Orion star field of that epoch.
 The *Kailāśanātha* Temple in Kanchipuram, India (Fig.2) is a remarkable temple for more reasons than one. Located in the out-skirts of the temple town that boasts of 108 temples, it is not a large temple. But as you drive down the dusty road, its elegance accentuated by a lonely palm tree, immediately strikes you. Built by the *Pallava* king Rājasimha in the late seventh century AD, it is the first structural temple in South India which has a distinctive style for its temples. All existing temples predating it are cave temples or monolithic ones carved out of rock as in Mahabalipuram, India. It has an original architectural style that has influenced later south Indian temples. The shear size and exuberance of the numerous sculptures takes your breath away. Srinivasan[^5], using archaeometallurgical techniques, has shown that the *Naṭarāja* bronze in the Victoria Albert museum belongs to the *Pallava* era. Thus selecting sculptures in the first structural temple of south India built by a *Pallava* king is appropriate. The temple is dedicated to Śiva as *Kailāśanātha*. The technique of
 
-![Fig. 2. Kailāśanātha Temple, Kanchipuram](media/p06_page.png)
+![Fig. 2. Kailāśanātha Temple, Kanchipuram](media/p06_page.webp)
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 <!-- figure-meta: page=6, position=bottom, type=photograph -->
 ŚIVA ICONOGRAPHY INSPIRED BY STARS 277
 placing slab upon slab of sand stone in place to achieve larger than life sizes and then sculpting the sand stone is unique. The delicate detail in the end product shows that the skill and effort must have been of a high order. The theme that runs through the temple is *Śiva Līlā* – ‘the games of Śiva’. Almost all the major forms of Śiva are sculpted in the main and/or 58 sub-shrines that form the temple. The sculptures in this seventh century *Pallava* temple will form a homogeneous set of sculptures for comparison with the Orion star field.
 
-![Fig.3. Gaṅgādhara (WL), Kailāśanātha Temple; notice the two dogs in the Panel](media/p07_page.png)
+![Fig.3. Gaṅgādhara (WL), Kailāśanātha Temple; notice the two dogs in the Panel](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 <!-- figure-meta: page=7, position=middle, type=photograph -->
 278 INDIAN JOURNAL OF HISTORY OF SCIENCE
 One of the dramatic sculptures in this temple is that of *Gaṅgādhara* displayed in the west lateral niche of the main shrine. Fig. 3 shows the main panel of this sculpture. The main protagonists of the myth *Gaṅgādhara*, *Pārvatī* and *Gaṅgā* are clearly shown. In addition two dogs that are part of the *Bhairava* myth are also shown. This feature was first noted by Lockwood et al[^6] in many *Pallava-Gaṅgādhara* sculptures. Recall that Canis major and Canis minor flank the celestial equator and the Milky way in the sky. This correspondence has also been proposed by Venkatram[^7]. This is a direct pointer to the influence of celestial cartography in the sculpture. There are three other *Gaṅgādhara* panels in this temple, but none of them shows the two dogs, being narrower panels. The sculptures associated with this myth have therefore been taken for study first. Table 1 lists all the sculpture panels selected for study. Some forms other than *Gaṅgādhara* are also repeated in more than one panel. Only the best preserved one is selected in this study. The one in the north subshrine no.48 is in very poor condition.
@@ -155,9 +155,9 @@ The star fields and the sculpture have been compared at four levels:
 
 ŚIVA ICONOGRAPHY INSPIRED BY STARS 281
 
-![Fig. 4 (a) Gangādhara Sculpture scaled with stars of Orion Field (left) and Random comparison field centred on $\gamma$ geminorum (right); (b) Orion in French Edition of Atlas Celeste of Flamsteed (1776). Notice the star group formed by ($\phi_{1}, \phi_{2}$ and $\lambda$) at the ear lobe of the figure.](media/p11_page.png)
+![Fig. 4 (a) Gangādhara Sculpture scaled with stars of Orion Field (left) and Random comparison field centred on $\gamma$ geminorum (right); (b) Orion in French Edition of Atlas Celeste of Flamsteed (1776). Notice the star group formed by ($\phi_{1}, \phi_{2}$ and $\lambda$) at the ear lobe of the figure.](media/p11_page.webp)
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 <!-- figure-meta: page=11, position=middle, type=photograph -->
 282 INDIAN JOURNAL OF HISTORY OF SCIENCE
 brighter than $4^{\text{th}}$, $5^{\text{th}}$ and $6^{\text{th}}$ magnitude successively. This is done for both the Orion and the test field. Although this is only a qualitative assessment it illustrates the difference between the match with the Orion and the test field very clearly.
@@ -201,9 +201,9 @@ Table 2: Summary of Matching between Star Field and Sculpture Image Level II Res
 **Level I comparison:** Seven of the nine sculptures listed in Table 1 have been compared at this level. Two *Gangādhara* sculptures that have deteriorated considerably have been excluded from further comparison. For each sculpture the stars superposed on the sculpture have been joined to form an outline of the sculpture at each category of limiting brightness. This has
 284 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 5: Comparison with Gangādhara -- Outlines formed by stars of progressively fainter limiting magnitudes: (a) Field Centred on $\epsilon$ Orionis, (b) Field Centred on $\gamma$ Geminorum](media/p14_page.png)
+![Fig. 5: Comparison with Gangādhara -- Outlines formed by stars of progressively fainter limiting magnitudes: (a) Field Centred on $\epsilon$ Orionis, (b) Field Centred on $\gamma$ Geminorum](media/p14_page.webp)
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 <!-- figure-meta: page=14, position=top, type=photograph -->
 been done for both the Orion field and test field stars. Fig. 5 shows the outlines formed when the stars brighter than $4^{\text{th}}$, $5^{\text{th}}$ and $6^{\text{th}}$ magnitude stars of both fields are superposed on the *Gangādhara* sculpture in the north lateral niche of the main shrine. This sculpture is the best preserved one. It is very clear that the
 Table 3: Summary of Matching between Star Field and Sculpture Image - Level III Results
@@ -239,9 +239,9 @@ The following is especially noteworthy as shown in Fig.6.
 3. The stars used to depict *Gangā* at the entry point located in the Milkyway
 4. The stars used to depict droplets of *Gangā* after being tamed flowing out of the *Gangādhara*'s locks. These again follow the Milkyway.
 
-![Fig. 6. Section of Gangādhara Sculpture superposed with star map](media/p16_page.png)
+![Fig. 6. Section of Gangādhara Sculpture superposed with star map](media/p16_page.webp)
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 <!-- figure-meta: page=16, position=bottom, type=photograph -->
 ***
 ŚIVA ICONOGRAPHY INSPIRED BY STARS                              287
@@ -251,9 +251,9 @@ The overlap of all stars with important features and shape is 100% for *Bhīkṣ
 ***
 288                              INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 7. Section of Bhīkṣāṭana Sculpture superposed with star map, (a) The four stars originally counted as not falling on any feature, delineate the faintly sculpted and erased, back hair of Bhīkṣāṭana outlined in white; (b) The three stars originally counted as not falling on any feature, delineate the faintly sculpted forms of Ṛṣi Patnīs lining up behind the first one.](media/p18_page.png)
+![Fig. 7. Section of Bhīkṣāṭana Sculpture superposed with star map, (a) The four stars originally counted as not falling on any feature, delineate the faintly sculpted and erased, back hair of Bhīkṣāṭana outlined in white; (b) The three stars originally counted as not falling on any feature, delineate the faintly sculpted forms of Ṛṣi Patnīs lining up behind the first one.](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=middle, type=photograph -->
 ***
 ŚIVA ICONOGRAPHY INSPIRED BY STARS                              289
@@ -262,9 +262,9 @@ The overlap of all stars with important features and shape is 100% for *Bhīkṣ
 
 The sculptures of *Gangādhara* (WL), *Gangādhara* (NL) and *Kālarimūrti* are included in level 3 analysis. The images of the selected sculptures are passed through a sequence of digital filters to extract the outline of the sculpture and its features. A $1^\circ \times 1^\circ$ grid is superposed on the extracted image (Fig. 8a). The total number of squares $N$ covering the entire sculpture is counted. The number $n$ of squares not occupied by any feature or outline of the sculpture is also counted. The ratio $n/N$ gives the fraction of the total number of stars that will not fall within $0.75^\circ$ of a feature or outline of the sculpture, when a random set of stars is overlaid on the sculpture. For the *Gangādhara* (WL) sculpture 7.6% or the squares are empty. So we should find a mismatch figure of 7.6% of a random set of stars. For the test field the mismatch figure is 6.8% close to the figure for a random set. The mismatch for the
 
-![Fig. 8.  (a) Contour of Gangādhara sculpture with a 1° grid superposed; (b) Contour of Gangādhara sculpture scaled and matched with stars of Orion](media/p19_page.png)
+![Fig. 8.  (a) Contour of Gangādhara sculpture with a 1° grid superposed; (b) Contour of Gangādhara sculpture scaled and matched with stars of Orion](media/p19_page.webp)
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 <!-- figure-meta: page=19, position=bottom, type=diagram -->
 ***
 290                              INDIAN JOURNAL OF HISTORY OF SCIENCE
@@ -282,9 +282,9 @@ If the star positions have formed a template for designing the sculptures, it is
 
 ŚIVA ICONOGRAPHY INSPIRED BY STARS 291
 
-![Fig. 9. Cumulative percentage of stars falling within a prescribed value of angular displacement from the feature as function of the displacement. Diamonds - *Gaṅgādhara*; Squares - *Kālarimūrti*; Squares - *Bhīkṣatana*. The accuracies of the Ptolemy and Tyco catalogues are shown on the plot for reference](media/p21_page.png)
+![Fig. 9. Cumulative percentage of stars falling within a prescribed value of angular displacement from the feature as function of the displacement. Diamonds - *Gaṅgādhara*; Squares - *Kālarimūrti*; Squares - *Bhīkṣatana*. The accuracies of the Ptolemy and Tyco catalogues are shown on the plot for reference](media/p21_page.webp)
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 <!-- figure-meta: page=21, position=top, type=graph -->
 
 ## SEARCH FOR TEXTUAL SUPPORT

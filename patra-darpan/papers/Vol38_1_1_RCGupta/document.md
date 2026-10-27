@@ -117,11 +117,11 @@ Interestingly, ancient mathematics of the *kuṇḍas* can provide many good exa
 8 INDIAN JOURNAL OF HISTORY OF SCIENCE
 be used to achieve greater accuracy in the calculations and construction of *kuṇḍas*. It can also be used to point out some fallacies. For instance Kulkarni[^20] is wrong in saying that the petal on LK (of the right $\Delta$ ELK) can be obtained by drawing semicircles on ME and ET (see Fig. 1) because these will not touch at E as shown (but rather intersect there).
 
-![Fig. 1. Diagram of a kuṇḍa petal construction showing triangle ELK with curved arcs ME and ET.](media/p08_page.png)
+![Fig. 1. Diagram of a kuṇḍa petal construction showing triangle ELK with curved arcs ME and ET.](media/p08_page.webp)
 
 *Fig. 1. Diagram of a kuṇḍa petal construction showing triangle ELK with curved arcs ME and ET.*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 
 <!-- figure-meta: page=8, position=top, type=diagram -->
 

@@ -119,11 +119,11 @@ Though the word *grantha* has various connotations, in this context, it means 32
 > In this (book), including *sūtra* and *uddeśya*, the measure is one thousand *anuṣṭups* [32000 syllables].
 Thus we see that the commentary, *Bījapallava*, is approximately 4.5 times larger in size than the text *Bījagaṇita*, along with his own *vāsanā* by Bhāskara.[^8]
 
-![Fig. 4. Academic lineage of Kṛṣṇa Daivajña](media/p04_page.png)
+![Fig. 4. Academic lineage of Kṛṣṇa Daivajña](media/p04_page.webp)
 
 *Fig. 4. Academic lineage of Kṛṣṇa Daivajña*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=top, type=diagram -->
 
@@ -151,11 +151,11 @@ The verse can be interpreted in two distinct ways due to the dexterous usage of 
 
 ***
 
-![Fig. 5. Family lineage of Kṛṣṇa Daivajña](media/p05_page.png)
+![Fig. 5. Family lineage of Kṛṣṇa Daivajña](media/p05_page.webp)
 
 *Fig. 5. Family lineage of Kṛṣṇa Daivajña*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=top, type=diagram -->
 
@@ -260,11 +260,11 @@ Kṛṣṇa Daivajña observes that, in terms of directionality, the *ṛṇāb�
 *ṛṇagatā ābādhā digvaiparītyena ityartha iti |*
 The *ābādhā* on the negative side is because of the opposition in direction.
 
-![Fig. 8. Illustration of ṛṇābādhodāharaṇam in the Līlāvatī](media/p08_page.png)
+![Fig. 8. Illustration of ṛṇābādhodāharaṇam in the Līlāvatī](media/p08_page.webp)
 
 *Fig. 8. Illustration of ṛṇābādhodāharaṇam in the Līlāvatī*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 
 <!-- figure-meta: page=8, position=top, type=diagram -->
 
@@ -278,11 +278,11 @@ In the earlier geometric example, the concept of the negative in the context of 
 There is [essentially] one line. [Having marked a point in that line], the other direction is said to be the opposite direction, much like how east is opposite to west, or south is opposite to the north and so on. Thus among the eastern and the western regions, if one is designated as positive, then the other is considered negative.
 Here, *ṛṇatva* (negativeness) is introduced by invoking the concept of displacement along the opposite (*viparīta*) directions in a line, by considering segments along the line in opposite direction, having chosen a point of reference in that line as ‘origin’. This, dating back to circa 1150 AD, could be deemed as “the first occurrence of the “number line”, of using positive and negative numbers as coordinates on either side of an origin.”[^14] Having discussed the notion of negativity in connection with the displacement along a line in the opposite directions, the commentator next proceeds to conceptualise the negative using observational astronomy (Fig. 4).
 
-![Fig. 9. Illustration of the negative visualised with the aid of number line and cardinal directions](media/p09_page.png)
+![Fig. 9. Illustration of the negative visualised with the aid of number line and cardinal directions](media/p09_page.webp)
 
 *Fig. 9. Illustration of the negative visualised with the aid of number line and cardinal directions*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=top, type=diagram -->
 
@@ -357,7 +357,7 @@ To further elucidate Kṛṣṇa Daivajña’s exposition on negative numbers, i
 
 Normally we learn in schools that two negative signs next to each other turn into a positive sign. This is usually learned as a mathematical rule without much of an explanation. The explanation that is at times offered is—think of removing a negative thought or reversing a loss that was incurred.
 
-<!-- figure-resolved-page-render-hidden: image=media/p12_page.png caption="Fig. 5. Location of *pattana* and Prayāgrāj with respect to Vārāṇasī" -->
+<!-- figure-resolved-page-render-hidden: image=media/p12_page.webp caption="Fig. 5. Location of *pattana* and Prayāgrāj with respect to Vārāṇasī" -->
 
 <!-- figure-meta: page=12, position=top, type=diagram -->
 
@@ -368,11 +368,11 @@ Proceeding with the finale of the discussion, he brilliantly elucidates why and 
 Therefore, the segment up to that reference point, beyond which the direction is determined from a different point to the first reference point, is in the opposite direction. Hence, it is said “*saṃśodhyamānaṃ svamṛṇatvameti svatvaṃ kṣayastadyutiruktavacca*.” Thus is the difference between positive and negative (*dhanarṇayorantaraṃ*) explained. This is the same for the positive as well. One travels $10\text{ yojanas}$ from Kāśī, and the other travels seven *yojanas*. It is known to all that their difference is three *yojanas*. And it is westward from the one who has travelled $10\text{ yojanas}$, and eastward from the one who has travelled seven *yojanas*.
 This operation applies equally to positive directions. In Fig. 6 consider Vārāṇasī ($V$), also famously known as Kāśī, to be the initial point. If two travellers, $A$ and $B$, cover a distance of 10 and seven *yojanas* eastwards from Kāśī, then the difference in the magnitude of distance covered by them, $VA$ and $VB$ respectively, is clearly three *yojanas*. It is to be noted that these three *yojanas* is westward from the point of view of traveller $A$ who covered $10\text{ yojanas}$, and eastward from the point of view of traveller $B$ who covered seven *yojanas*.
 
-![Fig. 6. The route map of two passengers travelling eastwards from Vārāṇasī](media/p12_page.png)
+![Fig. 6. The route map of two passengers travelling eastwards from Vārāṇasī](media/p12_page.webp)
 
 *Fig. 6. The route map of two passengers travelling eastwards from Vārāṇasī*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=middle, type=diagram -->
 

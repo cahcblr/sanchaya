@@ -67,15 +67,15 @@ $$anyasminnapi\ kāle\ bhavanti\ atha\ utpāta\ rūpāṇi$$
 On a full moon day the Sun and the Moon are on opposite sides of the earth. The Sun’s rays fall on one side of the earth, facing the Sun, and a shadow will be cast on the other side. When the Moon enters the shadow of the earth, a lunar eclipse occurs. This happens when the Sun and the Moon are in *opposition* i.e., the difference between the celestial longitudes of the Sun and the Moon is 180 $^\circ$.
 However, a lunar eclipse does not occur on every full-moon day. This is so because the plane of the Moon’s orbit is inclined at about 5 $^\circ$ with the ecliptic. If the Moon’s orbit were in the plane of the ecliptic, then there would have been a lunar eclipse every full-moon day. Generally on a full-moon day the Moon will be either far above or far below the plane of the ecliptic and hence fails to pass through the shadow of the earth. But, on that full-moon day, when the Moon does pass through the earth’s shadow, a lunar eclipse occurs.
 
-<!-- figure-resolved-page-render-hidden: image=media/p04_page.png caption="Fig. 1. Nodes of the Moon" -->
+<!-- figure-resolved-page-render-hidden: image=media/p04_page.webp caption="Fig. 1. Nodes of the Moon" -->
 
 <!-- figure-meta: page=4, position=middle, type=diagram -->
 
-![Fig. 2. Earth's shadow-cone and the lunar eclipse](media/p04_page.png)
+![Fig. 2. Earth's shadow-cone and the lunar eclipse](media/p04_page.webp)
 
 *Fig. 2. Earth's shadow-cone and the lunar eclipse*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=bottom, type=diagram -->
 
@@ -104,11 +104,11 @@ $EX_1 = d_2 =$ semi-diameter of the Moon
 $\beta_1 = AX_1 =$ Latitude of the Moon (*Śara*)
 when the Moon's centre is at $X_1$.
 
-![Fig. 3: Half-duration of lunar eclipse](media/p06_page.png)
+![Fig. 3: Half-duration of lunar eclipse](media/p06_page.webp)
 
 *Fig. 3: Half-duration of lunar eclipse*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=middle, type=diagram -->
 

@@ -39,11 +39,11 @@ THE *MANDA* PUZZLE IN INDIAN ASTRONOMY 319
 It may be worthwhile to reiterate a phrase we used in the previous paragraph – as seen from the Earth. Note that both the observed planet (say Mars) and our observation point (the Earth) are in motion. Therefore the motion of Mars that we perceive from Earth is relative to us and not its actual motion in space. What does this imply for the *Śīghra*? We say that Mars is at its *Śīghra* point when it is travelling at its fastest relative to us (i.e. as seen from the Earth). It may or may not actually be moving at its fastest speed in space at that point in time. The next couple of figures will explain this further.
 Fig. 1 shows the orbits of a typical superior planet (Mars) and the Earth. The Earth, being closer to the Sun, revolves faster around it than does Mars. As a result the Earth periodically overtakes Mars. This overtaking produces two curious effects as seen from the Earth – (1) the Conjunction and (2) the Opposition.
 
-![Fig. 1. Superior Planet in Orbit.](media/p03_page.png)
+![Fig. 1. Superior Planet in Orbit.](media/p03_page.webp)
 
 *Fig. 1. Superior Planet in Orbit.*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=bottom, type=diagram -->
 
@@ -55,11 +55,11 @@ Fig. 2 shows the equivalent situation for an inferior planet (Venus). The inferi
 ---
 THE *MANDA* PUZZLE IN INDIAN ASTRONOMY 321
 
-![Fig. 2. Inferior Planet in Orbit.](media/p05_page.png)
+![Fig. 2. Inferior Planet in Orbit.](media/p05_page.webp)
 
 *Fig. 2. Inferior Planet in Orbit.*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=top, type=diagram -->
 
@@ -77,11 +77,11 @@ The planetary system of the ancient Indians, like that of the ancient Greeks, is
 The perturbing agents in longitude are the *Manda* and the *Śīghra*, while that in latitude is the *Pāta*. In the present paper we will not be discussing latitudinal perturbations. To obtain the true longitude of a planet at any time we simply apply a perturbation correction to the mean speed. In summary, the Indian planetary model is all about determining the corrections to be made to the mean position of the planet at any instant of time.
 As shown in Fig. 3, the *Manda* and *Śīghra* are imagined as perturbing entities located in the orbit of a planet. As the Planet nears the *Manda* location it experiences a slowing-down effect. At the *Śīghra*, the opposite occurs – the planet experiences a speeding-up effect. The farther the planet is from either of these locations, the less perturbation it experiences. Thus the distance of the mean planet from these entities plays an important part in determining the perturbing effect.
 
-![Fig. 3. The Manda and Śīghra.](media/p07_page.png)
+![Fig. 3. The Manda and Śīghra.](media/p07_page.webp)
 
 *Fig. 3. The Manda and Śīghra.*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
@@ -149,11 +149,11 @@ In Table 1 we observed that the Sun and the Moon belong to the first group of he
 
 THE MANDA PUZZLE IN INDIAN ASTRONOMY 327
 
-![Fig. 4. Movement of the Moon’s Apogee.](media/p11_page.png)
+![Fig. 4. Movement of the Moon’s Apogee.](media/p11_page.webp)
 
 *Fig. 4. Movement of the Moon’s Apogee.*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=top, type=diagram -->
 
@@ -187,11 +187,11 @@ Let us illustrate this for the planet Mars. We consider three test cases using d
 The $4^{\text{th}}$ process merely translates this heliocentric longitude of the planet into the geocentric equivalent. The reader may note that this is exactly how modern astronomy computes the actual position of a planet (Meeus 2000). The heliocentric longitude of the planet is first determined and then converted to geocentric longitude.
 330 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 5. Comparison of the $3^{\text{rd}}$ process result for a Superior Planet.](media/p14_page.png)
+![Fig. 5. Comparison of the $3^{\text{rd}}$ process result for a Superior Planet.](media/p14_page.webp)
 
 *Fig. 5. Comparison of the $3^{\text{rd}}$ process result for a Superior Planet.*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 
 <!-- figure-meta: page=14, position=top, type=graph -->
 
@@ -215,11 +215,11 @@ The results are spectacular! The optimized *Manda* values that result in the mos
 
 332 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 6. Comparing the Aphelion with Optimized *Manda* for the Superior Planets.](media/p16_fig01.png)
+![Fig. 6. Comparing the Aphelion with Optimized *Manda* for the Superior Planets.](media/p16_fig01.webp)
 
 *Fig. 6. Comparing the Aphelion with Optimized *Manda* for the Superior Planets.*
 
-<!-- figure-resolved-extracted: page=16 image=media/p16_fig01.png -->
+<!-- figure-resolved-extracted: page=16 image=media/p16_fig01.webp -->
 
 <!-- figure-meta: page=16, printed_page=332, position=top, type=graph -->
 
@@ -245,11 +245,11 @@ Let us now repeat something we did for the superior planets. Recall that for the
 ---
 334 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 7. Comparison of the $3^{\text{rd}}$ process result for an Inferior Planet.](media/p18_fig01.png)
+![Fig. 7. Comparison of the $3^{\text{rd}}$ process result for an Inferior Planet.](media/p18_fig01.webp)
 
 *Fig. 7. Comparison of the $3^{\text{rd}}$ process result for an Inferior Planet.*
 
-<!-- figure-resolved-extracted: page=18 image=media/p18_fig01.png -->
+<!-- figure-resolved-extracted: page=18 image=media/p18_fig01.webp -->
 
 <!-- figure-meta: page=18, printed_page=334, position=top, type=graph -->
 
@@ -263,11 +263,11 @@ We are now ready to make a guesstimate and come up with a hypothesis. We say tha
 
 $$Manda_{\text{inferior}} = \text{APSA} = (\text{Earth-based Solar apogee} + \text{Planet-based Solar apogee}) / 2$$
 
-![Fig. 8. The Average-Planet-Solar-Apogee (APSA).](media/p19_fig01.png)
+![Fig. 8. The Average-Planet-Solar-Apogee (APSA).](media/p19_fig01.webp)
 
 *Fig. 8. The Average-Planet-Solar-Apogee (APSA).*
 
-<!-- figure-resolved-extracted: page=19 image=media/p19_fig01.png -->
+<!-- figure-resolved-extracted: page=19 image=media/p19_fig01.webp -->
 
 <!-- figure-meta: page=19, printed_page=335, position=bottom, type=diagram -->
 
@@ -299,11 +299,11 @@ How does the APSA error vary with time? To answer this question we calculate the
 
 THE MANDA PUZZLE IN INDIAN ASTRONOMY 337
 
-![Fig. 9. Variation of the APSA with time for Inferior Planets.](media/p21_page.png)
+![Fig. 9. Variation of the APSA with time for Inferior Planets.](media/p21_page.webp)
 
 *Fig. 9. Variation of the APSA with time for Inferior Planets.*
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 
 <!-- figure-meta: page=21, position=top, type=graph -->
 
@@ -315,11 +315,11 @@ Let us move on to another test for the APSA hypothesis. Recall that for the supe
 Though we have covered quite a bit of ground on the *Manda*, we still have one more item to discuss before we close this investigation. This is an item we have already seen, namely, the rate of motion of the *Manda* as given
 338 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 10. Comparing the APSA with Optimized Manda for the Inferior Plane.](media/p22_page.png)
+![Fig. 10. Comparing the APSA with Optimized Manda for the Inferior Plane.](media/p22_page.webp)
 
 *Fig. 10. Comparing the APSA with Optimized Manda for the Inferior Plane.*
 
-<!-- figure-resolved-page-render: page=22 image=media/p22_page.png -->
+<!-- figure-resolved-page-render: page=22 image=media/p22_page.webp -->
 
 <!-- figure-meta: page=22, position=top, type=graph -->
 
@@ -328,11 +328,11 @@ Since we now have definite clues on the *Manda*’s physical meaning, let us exa
 The reader may ask why different intervals ($500, 1000, 2000$ years) were chosen for averaging different planets. The reason is that there are in reality a great many variations in time for the aphelion, especially for Jupiter
 THE MANDA PUZZLE IN INDIAN ASTRONOMY 339
 
-![Fig. 11. Modern Rates of Movement of the Apogee/Aphelion.](media/p23_page.png)
+![Fig. 11. Modern Rates of Movement of the Apogee/Aphelion.](media/p23_page.webp)
 
 *Fig. 11. Modern Rates of Movement of the Apogee/Aphelion.*
 
-<!-- figure-resolved-page-render: page=23 image=media/p23_page.png -->
+<!-- figure-resolved-page-render: page=23 image=media/p23_page.webp -->
 
 <!-- figure-meta: page=23, position=top, type=graph -->
 

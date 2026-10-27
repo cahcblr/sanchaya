@@ -25,31 +25,31 @@ To the Historians of Science, D M Bose (1885-1975) is known for his monumental w
 A somewhat unexpected letter was received at the INSA office in 1973 from T J Trenn of the University of Regensburg in West Germany searching for the real identity of D M Bose! He was compiling a historical analysis of cloud chamber technique and was confused by different variants in spelling of D M Bose’s name in published papers in early years of his research asking whether “Debendra= Devendra= Devendramohan= Devendra Mohan= D M Bose!” ‘is the one and same person’? The letter reproduced below (Fig. 1.) is also significant to understand the high calibre of research D M Bose did in the areas of nuclear physics.
 D M Bose was an exceptional physicist, like his colleagues and contemporary scientists like C V Raman (1888-1970), S K Mitra (1890-1963), M N Saha (1893-1956), and S N Bose (1894-1974). Unlike his contemporaries he proceeded for his higher education abroad immediately after obtaining the M.A. degree in 1906 from Presidency College at Calcutta. He worked with Sir J J Thomson and C T R Wilson at the Cavendish Laboratory and obtained a B.Sc. degree with Honours in Physics from the Royal College of Science in 1912. After his return to India in 1913, he joined City College in Calcutta for a brief period and was invited to join the newly founded physics department of Calcutta University. He was in this university till 1937 and joined Bose Institute as its Director in 1938 after the demise of his maternal uncle Sir Jagadis Chandra Bose (1858-1937).[^2]
 
-![Fig. 1. Fascimile of the letter received by INSA showing different names used by D M Bose in his publications in earlier years](media/p02_page.png)
+![Fig. 1. Fascimile of the letter received by INSA showing different names used by D M Bose in his publications in earlier years](media/p02_page.webp)
 
 *Fig. 1. Fascimile of the letter received by INSA showing different names used by D M Bose in his publications in earlier years*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 
 <!-- figure-meta: page=2, position=top, type=photograph -->
 
 During his work in England and Germany, D M Bose came in contact with many reputed physicists of that time like Ernest Rutherford, C T R Wilson, Albert Einstein, Erich Regener, Arnold Sommerfeld, Walther Nernst, Max Born, Max Planck, Heinrich Ruben and others [the last two were D M Bose’s Ph.D. guides (see Fig. 2). In Berlin he worked with E Regener, a student of Ruben and Planck. Regener later established his name in the fields of radioactivity and cosmic rays. Contrary to known belief that D M Bose did his Ph.D. with Erich Regener, it has been revealed for the first time in this article that his official Ph.D. guides were Heinrich Ruben and Max Planck. A copy of the Ph.D. granting certificate is reproduced here for the first time (Fig. 2).
 
-![Fig. 2. D M Bose’s Ph.D. granting certificate](media/p03_page.png)
+![Fig. 2. D M Bose’s Ph.D. granting certificate](media/p03_page.webp)
 
 *Fig. 2. D M Bose’s Ph.D. granting certificate*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=top, type=photograph -->
 
 In Berlin, D M Bose improved Wilson’s cloud chamber, and with it he made the H- and $\gamma$-particles visible. In fact, it was a land-mark achievement, which was praised by his contemporaries.[^3] For instance, K W F Kohlrausch (1884-1953) stated that D M Bose was the first to be successful in making the H-particles visible, whereas J C McLennan and H V Mercer failed(Kohlrausch, 1928). To quote another example, the Austrian Marietta Blau (1894-1970) recognised Bose to be the first scientist who observed H-rays with cloud chamber. This brought her to the idea of visualizing cosmic rays with emulsion (Blau, 1925). It seems that according to bye-laws it was allowed to publish parts of a thesis only under special conditions. One of the chapters according to the Dean of the Department was allowed to publish due to priority reasons. “Chapter III. A (a) under the title “Visualization of the ionization tracks of H-particles, which are produced by the alpha particles after collisions with H- atoms”, was published in “*Physikalische Zeitschrift*” in 1916 on pages 388-390 with the permission granted by H. Ruben.
 
-![Fig. 3. Plaque with D M Bose’s name with Niels Bohr, Max Born and others at the Museum Como (Courtesy Dr. Veronica Magini, University of Bergamo, Italy)](media/p04_page.png)
+![Fig. 3. Plaque with D M Bose’s name with Niels Bohr, Max Born and others at the Museum Como (Courtesy Dr. Veronica Magini, University of Bergamo, Italy)](media/p04_page.webp)
 
 *Fig. 3. Plaque with D M Bose’s name with Niels Bohr, Max Born and others at the Museum Como (Courtesy Dr. Veronica Magini, University of Bergamo, Italy)*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=top, type=photograph -->
 
@@ -103,15 +103,15 @@ According to the annual reports of the Bose Research Institute, in the beginning
 There is an interesting story related to the investigation of cosmic rays using photographic plates. In the Science Congress session in 1938, H J Taylor and W Bothe discussed the investigation on the tracks of ionizing particles recorded in photographic plates and this discussion led D M Bose to study cosmic rays using photographic plates (Mitra, 1985). D M Bose and B Choudhuri started using Ilford R$_2$ and new halftone photographic plates for the study of cosmic rays at different altitudes ($2130 \text{ m}$ and $3660 \text{ m}$). They exposed photo-plates to cosmic rays for 5 months. After pain-staking experiments for couple of years they observed “double tracks” using Blau-Wambacher technique, which had not been mentioned before. Later they observed five and 12 star multiple (Bose, 1940; Chowdhry, 1944-46)(Fig. 4). One had an angle of $24$ and other $35$ degree. Their calculated kinetic energy was $2$ and $4 \text{ MeV}$ respectively (Fig. 5). The effect was attributed to mesotrons. Their results were in agreement with W Heisenberg’s theory of scattering and collision processes between mesotrons and protons (Heisenberg, 1939), and Meitner-Leibnitz’s formula for kinetic energy of slow mesotrons (Meier-Leibnitz, 1939). The next sets of observations were made for 202 days. This time the plates were kept under water, in air and in a lead box. The authors studied the mean grain spacing and curvature of tracks due to protons of known energy, and cosmic rays. From the comparison of the two they concluded that heavy ionisation tracks were mainly due to mesotrons (Bose, 1941). H J Bhabha and W Heitler, and W Heisenberg had given different theories of multiple shower production by scattering due to cosmic particles. Bose and Choudhuri were careful about giving their opinion on them. They concluded:
 > “We have, …, tried to verify one consequence of the new theory proposed by Bhabha, according to which the following reaction is possible: $p + p \Rightarrow p_2 + n$ [proton-proton interaction], the minimum energy required is $35 \text{ MeV}$., and the cross-section for such a process is $3.2 \times 10^{-25} \text{ cm}^2$, which is expected to occur when a fast proton traverses about $45 \text{ cm}$. of water. We have examined the plate kept under $20 \text{ cm}$ of water for 202 days for tracks of such double-charge protons. The latter will ionize like $\alpha$-particles, and in order to distinguish them from the latter we have looked for such dense tracks of length greater than $10 \text{ cm}$ of air. In an area of $1.05 \text{ cm}^2$, no such track was observed. The negative result may be due to the small number of high-energy protons presented in the cosmic ray.”
 
-<!-- figure-resolved-page-render-hidden: image=media/p09_page.png caption="Fig. 4. Ionisation track obtained Ilford Plates. Left: Pair track, Right: 12 star multiple (see Bose, 1940)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p09_page.webp caption="Fig. 4. Ionisation track obtained Ilford Plates. Left: Pair track, Right: 12 star multiple (see Bose, 1940)" -->
 
 <!-- figure-meta: page=9, position=bottom, type=photograph -->
 
-![Fig. 5. Number of stars N vs. Energy E (see Bose, 1940)](media/p09_page.png)
+![Fig. 5. Number of stars N vs. Energy E (see Bose, 1940)](media/p09_page.webp)
 
 *Fig. 5. Number of stars N vs. Energy E (see Bose, 1940)*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=top, type=graph -->
 
@@ -119,11 +119,11 @@ Bose et al’s next publication deals with the estimation of the mass of the sec
 > “The results obtained are important in other respect; it has enabled us to verify our previous surmise that the star-like tracks found in our photographic plates are due to secondary mesotrons showers produced chiefly by cosmic ray neutrons. This and the presence in such showers of three-, four- and five-star tracks in approximately equal numbers are results which do not appear to be capable of interpretation in terms of existing theories.”
 In the succeeding publication, for new calculations, all the tracks were grouped together for which the mean grain size was within a defined ranges, like $3-2, 4-3, \dots, 6-5 \text{ }\mu$. Apart from that, in order to get a better calibration curve, three more photographic plates were exposed to neutron radiation from a Radium-Beryllium source. The recalculated values for the mass of mesotron for plates in air, under $20 \text{ cm}$. of water and under roof of thickness $2.5 \text{ ft.}$ were $217 \pm 30, 336 \pm 19.5$ and $313 \pm 18.6$ respectively. However, the best value, that is, $186 \text{ m}_e$ was obtained from the curvatures of the pair tracks in the emulsion. They found that “… from a knowledge of the mean grain spacing along the track-length and their multiple scattering, the average mass of these particles, found in plates exposed under air, can be estimated; ….” (Bose, 1942). They were unable to calculate more such values as the range of the most of the star-tracks were short in emulsion. Still they were satisfied with the results, which supported their previous assumption that the multiple mesotron production is due to a single neutron as predicted by Heisenberg’s theory. According to J F Carlson and M Schein, a proton
 
-![Fig. 6. Calibration curve showing the mean grain spacing and the initial energy of protons (see Bose, 1941)](media/p10_page.png)
+![Fig. 6. Calibration curve showing the mean grain spacing and the initial energy of protons (see Bose, 1941)](media/p10_page.webp)
 
 *Fig. 6. Calibration curve showing the mean grain spacing and the initial energy of protons (see Bose, 1941)*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=bottom, type=graph -->
 
@@ -140,44 +140,44 @@ was responsible for such a process, but neutron may play an equal role. This was
 From the study of other five photographic plates, Bose found that the smoothing out effect was not as general as observed before. All the plates showed maximum for $n = 3$. However, in the case of plate under paraffin it was not so. The maximum was pronounced under lead plate of thickness 1.5 cm. From the study of the mesotrons’ spectra, Bose gave a qualitative explanation of the peculiar form of the low energy mesotron spectra in the range $10^8$–$10^9$ eV. Details of the mass of mesotron and its nature were published in the *Transactions of the Bose Research Institute* and *Indian Journal of Physics*. For instance, B Choudhuri wrote on the penetration of ionizing particles through photographic emulsion, and discussed relation between the mean grain spacing along the tracks of $\alpha$-particles and protons (Chaudhury, 1942-43). In 1944, she proposed a method for the estimation of the average mass of ionizing particles producing single tracks (Choudhuri, 1944). Photographic plates were exposed for 150 and 163 days at an altitude of 12,000 feet. The average mass for different groups of particle in the two cases was found to be $214m_e$ and $219m_e$ respectively. Considering the experimental error, the value was approximately close to the expected value of $200m_e$. But when the plates were under water or paraffin layers (20 cm thickness), the respective average masses were $314m_e$ and $514m_e$. Similar studies were made using mud and wood at an altitude of 14,500 feet. After an exposure for 209 days, the observed average mass was $331m_e$. About the discrepancies, Choudhuri wrote that it “indicates the presence of a comparatively larger number of proton tracks. The cause of this effect has to be ascribed to the presence of fast primary cosmic ray penetrating particles like neutrons and protons which traversing the hydrogenous substances produce recoil protons of energy of the order of $10^6$ eV to $10^7$ eV.”
 The experiments were repeated with lead plates of thickness in the range of 0.5 to 5 cm. She found that the maximum transition effect, as observed by B Rossi is at 1.5 cm, and that the effect decreases. From that she concluded: “the soft component of primary radiation undergoes multiplication in traversing the lead plates, and
 
-![Fig. 7. Mesotron frequency distribution for air and lead plates (see Bose, 1942-43)](media/p11_page.png)
+![Fig. 7. Mesotron frequency distribution for air and lead plates (see Bose, 1942-43)](media/p11_page.webp)
 
 *Fig. 7. Mesotron frequency distribution for air and lead plates (see Bose, 1942-43)*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=top, type=graph -->
 
 the secondaries formed thereby cause the emission of heavy ionizing particle either in the lead plates or in the emulsion of the photographic plates.” Though their own results and that of others were close to the theoretical values, they were not fully satisfied and suggested the scientific community to find more reliable techniques (Bose, 1944).
 In 1943, J Hamilton, W Heitler and H W Peng (Hamilton, 1943) applied the so-called quantum theory of damping to explain the production of mesons by proton-proton collisions. One of their conclusions was that “cosmic-ray mesons are in fact identical with the quanta predicted by Yukawa.” In the meantime, a cloud chamber was built at Bose Institute primarily by the initiative of M S Sinha, a student of D M Bose whom he brought along with him from Calcutta University when he assumed the charge of Bose Institute in 1938. It is to be noted in this connection that Sinha was the first person to build a completely mechanized counter-controlled cloud chamber in India. Cloud chamber with its large volume happened to be another important tool to investigate cosmic rays of higher energies. Using the cloud chamber ‘burst production’ in gaseous media by cosmic rays was reported by Sinha (Sinha, 1943)(Fig. 8). About the origin of the burst Sinha was of the opinion that it may be a) due to a cascade process representing an extreme type of fluctuation effect b) the simultaneous generation of a large number of high energy electrons c) an explosion process of a type investigated by Heisenberg, but nothing definite can be said about the mechanism of the process. Sinha (1942-43) reconfirmed (Fig. 9) the view of some scientists that the “Rossi curve for bursts is similar to that for small showers, the only difference being that the contribution from the hard component is comparatively large”. In the same article, Sinha produced some photographs, which showed the phenomenon like burst, mesotron tracks which terminated inside the cloud chamber. He reported (Sinha, 1942-43) the presence of 12 mesotrons in a single shower, which was not observed so far (Fig. 10). This seemed to confirm Heisenberg’s conception of multiple mesotron generation in a single act.
 
-<!-- figure-resolved-page-render-hidden: image=media/p12_page.png caption="Fig. 8. Bursts in a clod chamber (Sinha, 1943)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p12_page.webp caption="Fig. 8. Bursts in a clod chamber (Sinha, 1943)" -->
 
 <!-- figure-meta: page=12, position=bottom-left, type=photograph -->
 
-![Fig. 9. Number of particles recorded every 25 hours (labelled 1), and number of mesotrons recorded every 100 hours (labelled 2) (Sinha, 1942-43)](media/p12_page.png)
+![Fig. 9. Number of particles recorded every 25 hours (labelled 1), and number of mesotrons recorded every 100 hours (labelled 2) (Sinha, 1942-43)](media/p12_page.webp)
 
 *Fig. 9. Number of particles recorded every 25 hours (labelled 1), and number of mesotrons recorded every 100 hours (labelled 2) (Sinha, 1942-43)*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=bottom-right, type=graph -->
 
 It was known that the showers consist of soft (lower in energy) and penetrating components, and soft components produce showers, which further produce such particles in absorber. Rossi gave a curve to predict such a phenomenon. As the soft particles are of low energy, it would be expected that all soft components of the shower will be absorbed by a certain thickness of the absorber. Contrary to expectations, some scientists observed that, it was not so. In a thickness of between 17 and 18 cm, the second maximum was observed. Thus there was controversy about the phenomenon. M S Sinha studied the cascade- and bursts processes for lead absorbers up to 20 cm thickness. They were exposed to radiation between 87 to 188 hours. The existence of the second maxima was reconfirmed (Fig. 11). In the meantime D M Bose et al. (1944) observed the frequency distribution curve for occurrence of multiples of mesons and ‘cascade production of mesons’ (Fig. 12).
 
-<!-- figure-resolved-page-render-hidden: image=media/p13_page.png caption="Fig. 10. Tracks of Energetic electrons (above), Approximately 12 mesotrons obtained in a single shower (bottom) (Sinha, 1942-43)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p13_page.webp caption="Fig. 10. Tracks of Energetic electrons (above), Approximately 12 mesotrons obtained in a single shower (bottom) (Sinha, 1942-43)" -->
 
 <!-- figure-meta: page=13, position=top-left, type=photograph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p13_page.png caption="Fig. 11. Observation of second maxima in Rossi curve (Sinha, 1943). Curve 1: Coincidence rate; Curve 2: when the side–showers (that is, those which had not passed through the solid angle defined by the top absorber) and blanks (were photographs which do not contain particles, they can account for the expansion of the chamber by tripping the counter) are excluded the second maximum is slightly flattened; Curve 3: Frequency of cascade after the side-showers are excluded" -->
+<!-- figure-resolved-page-render-hidden: image=media/p13_page.webp caption="Fig. 11. Observation of second maxima in Rossi curve (Sinha, 1943). Curve 1: Coincidence rate; Curve 2: when the side–showers (that is, those which had not passed through the solid angle defined by the top absorber) and blanks (were photographs which do not contain particles, they can account for the expansion of the chamber by tripping the counter) are excluded the second maximum is slightly flattened; Curve 3: Frequency of cascade after the side-showers are excluded" -->
 
 <!-- figure-meta: page=13, position=top-right, type=graph -->
 
-![Fig. 12. Production of mesons by cascade process (Bose, 1944). Group 1: Tracks originated outside the cloud chamber; Group 2: Tracks observed with the chamber, whereas the left hand side track of group 2 was absorbed in the lead plate of thickness 2.2 cm. Group 3 - Four tracks which start as a pair. They do not scatter while traversing the lead plate. They produce knock-out electrons](media/p13_page.png)
+![Fig. 12. Production of mesons by cascade process (Bose, 1944). Group 1: Tracks originated outside the cloud chamber; Group 2: Tracks observed with the chamber, whereas the left hand side track of group 2 was absorbed in the lead plate of thickness 2.2 cm. Group 3 - Four tracks which start as a pair. They do not scatter while traversing the lead plate. They produce knock-out electrons](media/p13_page.webp)
 
 *Fig. 12. Production of mesons by cascade process (Bose, 1944). Group 1: Tracks originated outside the cloud chamber; Group 2: Tracks observed with the chamber, whereas the left hand side track of group 2 was absorbed in the lead plate of thickness 2.2 cm. Group 3 - Four tracks which start as a pair. They do not scatter while traversing the lead plate. They produce knock-out electrons*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=bottom, type=photograph -->
 
@@ -196,11 +196,11 @@ It is a natural question as why D M Bose is not well known in the Indian scienti
 <!-- decode-chunk: pages=16-18 source_sha256=39f647a3bb13e768bbb18de52073e0dcb1478cde3e3013be4a9c2ac2392c62a9 -->
 towards improving Bose Institute in Kolkata, an institute founded by his uncle Jagadis Chandra Bose.
 
-![Fig. 13. D M Bose (on the right) with Niels Bohr delivering lecture at Bose Institute Auditorium in Kolkata](media/p16_page.png)
+![Fig. 13. D M Bose (on the right) with Niels Bohr delivering lecture at Bose Institute Auditorium in Kolkata](media/p16_page.webp)
 
 *Fig. 13. D M Bose (on the right) with Niels Bohr delivering lecture at Bose Institute Auditorium in Kolkata*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=16, position=top, type=photograph -->
 

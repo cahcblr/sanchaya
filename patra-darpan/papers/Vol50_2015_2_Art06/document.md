@@ -332,9 +332,9 @@ As per the standard procedure laid down in Indian astronomical works, once the m
 
 RATIONALE FOR VĀKYAS PERTAINING TO THE SUN IN KARAṆAPADDHATI 255
 
-![Fig. 1. Obtaining the mandasphuṭa in the epicycle model](media/p11_page.png)
+![Fig. 1. Obtaining the mandasphuṭa in the epicycle model](media/p11_page.webp)
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 <!-- figure-meta: page=11, position=top, type=diagram -->
 in modern astronomy is the ‘equation of centre’. Conversely, the mean longitude can be obtained from the true longitude by applying the ‘mandaphala’ inversely to it.
 The method given in *Karaṇapaddhati* for finding the mandaphala of any planet including the Sun can be explained with the help of an epicycle model represented in Fig. 1. The mean planet $P_0$ is assumed to be moving on a ‘deferent’ circle centered around $O$ (centre of the earth), whose radius, $OP_0 = R$ ($trijy\bar{a}$). $O\Gamma$ represents the direction of *Meṣādi* or the first point of Aries. $OU$ is in the direction of the apogee or ‘mandocca’, whose longitude is given by $\angle \hat{\Gamma}OU = \theta_m$. The longitude of the mean planet $P_0$, or the ‘mean longitude’ is given by $\angle \hat{\Gamma}OP_0 = \theta_0$. Draw a circle of radius $r$ around the mean planet, $P_0$. This is the epicycle. The true planet $P$ is located on the epicycle such that $PP_0 = r$ is parallel to $OU$ (the direction ‘mandocca’). The true longitude of the planet is given by $\angle \hat{\Gamma}OP = \theta$. Join $OP$ and draw $PT$ perpendicular to the line $OP_0$, extended further. The difference between the mean longitude, $\theta_0$ and the longitude of the mandocca, $\theta_m$ is given by

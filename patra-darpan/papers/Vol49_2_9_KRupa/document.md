@@ -36,9 +36,9 @@ Makaranda has made quite a few innovations in the procedures for planetary posit
 
 The word *kanda* in Sanskrit literally means “root” (of a tree or plant) and the word *vallī* means creeper. For finding the *tithi* details at the beginning of a given *Śālivāhana śaka* year, *MKS* gives the *kanda* and *vallī* comprising the weekday number (*vāra saṅkhyā*) and the time in *daṇḍa* and *palas* (also called *ghaṭī* and *vighaṭī* or *nāḍī* and *vināḍī*).
 
-![Fig. 2.1. Thithikanda for śaka (16 yrs.int.) and śakāvaśeṣa (see Tables 2.1, 2.2), a folio from MKS](media/p02_page.png)
+![Fig. 2.1. Thithikanda for śaka (16 yrs.int.) and śakāvaśeṣa (see Tables 2.1, 2.2), a folio from MKS](media/p02_page.webp)
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 <!-- figure-meta: page=2, position=top, type=photograph -->
 In Table 2.1 that follows, the first topmost row contains the Śā. Śa years with an interval of 16 years, starting with 1544 (1622 A D) and continuing with 1560, 1576, …. upto 1944 (2022 A D). Incidentally, while the text says that the commencing year is śaka 1400 (1478 AD), the table for *tithikanda*, in the published version of *MKS*, starts from 1544(1622 AD). This may be because the published work is based on Viśvanātha’s manuscript composed during the first quarter of 17th century. In the second row *tithi* numbers 27, 24, 21, …. are given. The third row contains the *vāra* (weekday number) *ghaṭī* and *palas*. The fourth and the last row has *vallī* followed again by *ghaṭī* and *palas*.
 **Note:** 1 *ghaṭī* = 1 *nāḍī* = 1 *daṇḍa* = 60 *palas* = 24 minutes
@@ -460,9 +460,9 @@ We notice in Table 9.3 that (i) $MKS$ and $TYGMS$ give the $mandaphala$ of Kuja 
 For example, for $MK=40^{\circ}$ in Table 9.3 the $mandaphala$ values according to $TYGMS$ and $MKS$ are respectively 449 and 414 $kalās$. The main reason for this is that, in $SS$ the true position of a star planet is obtained by applying successively four corrections. Among these the $manda$ correction is applied twice in between the two $śīghra$ corrections. On the other hand, $MKS$ simplifies the procedure by reducing only to three corrections. Here the $manda\ saṃskāra$ is applied only once between the two $śīghra\ saṃskāras$. In the process $Makaranda$ has consolidated the two $manda$ corrections of $SS$ into a single equation in $MKS^{16}$. This makes the $mandaphala$ value of $MKS$ differ from those of $SS$ and the other related tables.
 198
 
-![Fig. 9.1. Variation of $MP$ of the planets against $MK$.](media/p13_page.png)
+![Fig. 9.1. Variation of $MP$ of the planets against $MK$.](media/p13_page.webp)
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 <!-- figure-meta: page=13, position=top, type=graph -->
 In Fig. 9.1, the variation of the $mandaphala$ ($MP$) with the $mandakendra$ ($MK$, the anomaly from the apogee) is shown graphically for the five planets. The behaviour of the graphs is sinusoidal with $MP = 0^{\circ}$ for $MK = 0^{\circ}, 180^{\circ}$ and reaching the maximum at $MK = 90^{\circ}$
 
@@ -540,9 +540,9 @@ The $śīghraparidhis$ for Kuja, Budha and Śukra are greater at the end of the 
 A sample folio from $PRB$, displaying Śani’s $śīghraphalas$ for $SK = 36^{\circ}$ to $84^{\circ}$ is shown in Fig. 9.2. The numerals are in Kannada script. From this folio of $PRB$ an extract of the $śīghraphala$ values for $SK = 42^{\circ}$ to $44^{\circ}$ are reproduced in Table 9.5.
 Among the five $tārāgrahas$, Śukra (Venus) has the maximum $śīghraparidhi$ and hence we choose to tabulate its values according to the
 
-![Fig. 9.2. śīghrapadaka of Śani, a folio from Pratibhāgī ms](media/p14_page.png)
+![Fig. 9.2. śīghrapadaka of Śani, a folio from Pratibhāgī ms](media/p14_page.webp)
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 <!-- figure-meta: page=14, position=bottom, type=photograph -->
 200
 Table 9.5: A sample of $śīghraphalas$ of Śani according to $PRB$
@@ -582,9 +582,9 @@ Table 9.6: $Śīghraphala$ of Śukra
 
 MAKARANDA SĀRIṆĪ AND ALLIED SAURAPAKṢA TABLES | 201
 
-![Fig. 9.3. Śukra’s (Karkādi) śīghraphala, a folio from TYGMS](media/p16_page.png)
+![Fig. 9.3. Śukra’s (Karkādi) śīghraphala, a folio from TYGMS](media/p16_page.webp)
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 <!-- figure-meta: page=16, position=top, type=photograph -->
 **Table 9.7: A sample of śīghraphalas of Śukra (Karkādi) according to TYGMS**
 
@@ -632,9 +632,9 @@ In Fig. 9.4, the variation of *śīghraphala* ($SP$) the with the *śīghra* ano
 
 An important phenomenon to which two separate chapters are devoted in the siddhantic texts is eclipse (*grahaṇa*, *uparāga*). In fact, the benchmark for the validation of the parameters and procedures was the observation of lunar and
 
-![Fig. 9.4. Variation of $SP$ with $SK$ for planets](media/p17_page.png)
+![Fig. 9.4. Variation of $SP$ with $SK$ for planets](media/p17_page.webp)
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 <!-- figure-meta: page=17, position=bottom, type=graph -->
 ---
 MAKARANDA SĀRIṆĪ AND ALLIED SAURAPAKṢA TABLES | 203
@@ -659,9 +659,9 @@ $1 \text{ Aṅgula (Aṅg.)} = 60 \text{ pratyaṅgula (pra.)}$
 | **Pāta bimba** Aṅg | 29 | 28 | 28 | 27 | 27 | 26 | 25 | 25 | 24 | 24 | 24 |
 | **Pāta bimba** pra. | 34 | 54 | 16 | 38 | 02 | 27 | 53 | 20 | 49 | 48 | 48 |
 
-![Fig. 10.1. Tables of bimbas and dhanu, folio from Makaranda sāriṇī](media/p18_page.png)
+![Fig. 10.1. Tables of bimbas and dhanu, folio from Makaranda sāriṇī](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=bottom, type=photograph -->
 ---
 204 | INDIAN JOURNAL OF HISTORY OF SCIENCE
@@ -748,9 +748,9 @@ $Bhujāmśa\ of\ sāyana\ Sun = 8^R 22^\circ 06' 14'' - 6^R = 82^\circ 06' 14''$
 Dividing the $bhujāmśa$ by 6, the quotient is 13 and the remainder $4^\circ 06' 14''$. Now, from the table for $krānti$ (declination), under entries 13 and 14 in the top row against the $koṣṭhaka$ readings are respectively $3 | 54 | 26$ and $3 | 58 | 36$ in $ghaṭīs$. Now, by the rule of proportions, the $krānti$ for the above obtained $bhujāmśa$ of the $sāyana$ Sun comes out as $3 | 57 | 20\ gh$. Multiplying this result by 6, we get $krānti$ degrees ($bhāgāḥ$) as $23^\circ 44'$. Since $sāyana\ Sun > 6\ rāśis$, declination $\delta$ is negative i.e. $\delta = - 23^\circ 44'$. Note that classical Indian astronomers always took the Sun’s maximum declination as $24^\circ$.
 A folio from TYGMS giving Sun’s $krānti$ is shown in fig. 10.2.
 
-![Fig. 10.2. Krānti (declination) table of the Sun, a folio from TYGMS](media/p21_page.png)
+![Fig. 10.2. Krānti (declination) table of the Sun, a folio from TYGMS](media/p21_page.webp)
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 <!-- figure-meta: page=21, position=middle, type=photograph -->
 **Table 10.4:** A sample of Sun’s $krānti$ according to TYGMS
 

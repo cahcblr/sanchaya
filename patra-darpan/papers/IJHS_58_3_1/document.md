@@ -99,11 +99,11 @@ All these are in the context of the rates of motion of planets. However, a recen
 
 159 Indian Journal of History of Science (2023) 58:157–170
 
-![Fig. 3. Vyatīpāta and vaidhṛta](media/p03_page.png)
+![Fig. 3. Vyatīpāta and vaidhṛta](media/p03_page.webp)
 
 *Fig. 3. Vyatīpāta and vaidhṛta*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=3, position=top, type=diagram -->
 
@@ -346,11 +346,11 @@ $$R^2 \sin^2 \epsilon \cos^2 \lambda_m \pm \text{Product of the Sum and the diff
 
 The above term is referred to as $saṃskṛta\text{-}krānti\text{-}kōṭivarga$. The square-root of this is $R \sin \epsilon \cos \lambda_s$, which
 
-![Fig. 6. Springer Logo](media/p06_page.png)
+![Fig. 6. Springer Logo](media/p06_page.webp)
 
 *Fig. 6. Springer Logo*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=6, position=bottom, type=photograph -->
 
@@ -434,11 +434,11 @@ $$= \frac{800}{R} \times \left[ \frac{1}{2} R \sin \epsilon \cos \lambda_m + R \
 
 Now,
 
-![Fig. 7. Springer Logo](media/p07_page.png)
+![Fig. 7. Springer Logo](media/p07_page.webp)
 
 *Fig. 7. Springer Logo*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=7, position=bottom, type=photograph -->
 
@@ -510,11 +510,11 @@ $$D = |R \sin \epsilon \sin \lambda_s - R \sin \epsilon \sin \lambda_s|.$$
 
 [^5]: The term “this” refers to the *kōṭijakrānti* of the Moon which is equal to $R \sin \epsilon \cos \lambda_m$.
 
-![Fig. 8. Springer Logo](media/p08_page.png)
+![Fig. 8. Springer Logo](media/p08_page.webp)
 
 *Fig. 8. Springer Logo*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=8, position=bottom, type=photograph -->
 
@@ -597,11 +597,11 @@ $$= \pm \left[ \left| \frac{dR \sin \delta'_m(t)}{dt} + R \cos \epsilon \frac{d\
 Here, the ‘+’ sign is applicable if $\frac{dR \sin \delta_s(t)}{dt}$ is negative (Sun in even quadrant) and ‘-’ sign is applicable if $\frac{dR \sin \delta_s(t)}{dt}$ is positive (Sun in odd quadrant).
 Now, applying (17) and (16) in (15), we have
 
-![Fig. 9. Springer Logo](media/p09_page.png)
+![Fig. 9. Springer Logo](media/p09_page.webp)
 
 *Fig. 9. Springer Logo*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=9, position=bottom, type=photograph -->
 
@@ -657,11 +657,11 @@ The expressions for $\Delta\lambda_s$ and $\Delta\lambda_m$ which are to be subt
 
 It is well known that the derivative of the sine function is used for computing the instantaneous velocity (*tātkālikagati*) of planets in Indian astronomical texts from *Laghumānasa* onwards. In this paper, we have reported the use of the derivative for finding the rates of change of the declinations of the Sun and the Moon in two Kerala texts of the late sixteenth and early seventeenth century, namely *Karaṇottama* of Acyuta Piṣāraṭi in Sanskrit, and a Malayāḷam text,
 
-![Fig. 10. Springer Logo](media/p10_page.png)
+![Fig. 10. Springer Logo](media/p10_page.webp)
 
 *Fig. 10. Springer Logo*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=10, position=bottom, type=photograph -->
 <!-- /decode-chunk -->

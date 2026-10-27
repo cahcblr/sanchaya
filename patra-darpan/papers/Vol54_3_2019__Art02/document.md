@@ -381,9 +381,9 @@ The second rule is for determining the height of a tall building or tree with th
 > [b] If there is any remainder, we multiply it by 60, divide it by our shadow length, multiply the quotient by 7, then divide it by 60, we add its quotient to the first quotient. It is the height of the object.
 > [c] If there is any remainder which is more than [height of] the object, we subtract a half from the sum. If it is equal to or less than it, we do not make the subtraction.
 
-![[a] In the figure above, let AB be the high object and BC its shadow. DE represents the height of a man; it is 7 feet, and EC is his shadow. The value 7 is significant because the height of a man is supposed to be 7 times the length of his own feet. ABC and DEC are similar right triangles. Therefore,](media/p11_page.png)
+![[a] In the figure above, let AB be the high object and BC its shadow. DE represents the height of a man; it is 7 feet, and EC is his shadow. The value 7 is significant because the height of a man is supposed to be 7 times the length of his own feet. ABC and DEC are similar right triangles. Therefore,](media/p11_page.webp)
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=bottom, type=diagram -->
 

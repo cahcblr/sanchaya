@@ -74,9 +74,9 @@ A few words on the meaning of the fire ritual are in order here. In the words of
 
 18 SUBHASH C. KAK
 
-![Fig. 1. The Plan for the Altars. A: Āhavanīya; G: Gārhapatya; D: Dakṣiṇāgni; UV: Uttaravedi; Dh: Dhiṣṇya hearths, which include Ag: Agnīdhra and M: Mārjālīya; H: Havirdhāna shed](media/p18_page.png)
+![Fig. 1. The Plan for the Altars. A: Āhavanīya; G: Gārhapatya; D: Dakṣiṇāgni; UV: Uttaravedi; Dh: Dhiṣṇya hearths, which include Ag: Agnīdhra and M: Mārjālīya; H: Havirdhāna shed](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 
 ASTRONOMY OF THE ŚATAPATHA BRĀHMAṆA [^19]
@@ -131,12 +131,12 @@ The *mahādevi* altars were generally made in five layers of bricks reaching to 
 [^36]: Sen, S.N. & Bag, A.K., *The Śulbasūtras*, Indian National Science Academy, 1983.
 
 22 SUBHASH C. KAK
-<!-- figure-resolved-page-render-hidden: image=media/p08_page.png caption="Fig. 2. The basic bird altar" -->
+<!-- figure-resolved-page-render-hidden: image=media/p08_page.webp caption="Fig. 2. The basic bird altar" -->
 <!-- figure-meta: page=8, position=top, type=diagram -->
 
-![Fig. 3. Variant of the basic bird altar](media/p08_page.png)
+![Fig. 3. Variant of the basic bird altar](media/p08_page.webp)
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 <!-- figure-meta: page=8, position=middle, type=diagram -->
 defined the total area of $7^{1/2}$ square $puruṣas$ at the end of the first construction. On the second construction, the area of the altar was increased by one square $puruṣa$ to a total of $8^{1/2}$ square $puruṣas$. Further constructions successively increased the area by one square $puruṣa$ at each step until one came to the "one-hundred-and-one-[and-a-half]-fold" altar. In the construction of the larger altars, the same shape as the basic altar is required and this requires solution of several geometric problems, including that of the theorem of the diagonal. It is important to note that the total number of altars to be built in a sequence is 95.
 
@@ -183,9 +183,9 @@ Mitchiner[^17], in his review of Cunningham's analysis, has suggested that the *
 1. From Father Liber (Bacchus) to Alexander the Great, they reckon the number of their kings to have been 154, and they reckon (the time as) 6451 years and 3 months. [Pliny in *Naturalis Historia* 6.59.60][^43].
 <p style="text-align:center;">E</p>
 
-![Fig. 4. The gārhapatya](media/p11_page.png)
+![Fig. 4. The gārhapatya](media/p11_page.webp)
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 <!-- figure-meta: page=11, position=bottom, type=diagram -->
 
 26 SUBHASH C. KAK

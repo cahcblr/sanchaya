@@ -107,11 +107,11 @@ Assuming that the celestial longitude of Canopus is $90^\circ$ and the celestial
 
 86 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 1. Rising of Canopus](media/p04_page.png)
+![Fig. 1. Rising of Canopus](media/p04_page.webp)
 
 *Fig. 1. Rising of Canopus*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=4, position=top, type=diagram -->
 
@@ -296,11 +296,11 @@ A star is said to be circumpolar when viewed from a particular terrestrial latit
 
 90 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 3. The motion of stars as viewed by a Northern Hemisphere observer](media/p08_page.png)
+![Fig. 3. The motion of stars as viewed by a Northern Hemisphere observer](media/p08_page.webp)
 
 *Fig. 3. The motion of stars as viewed by a Northern Hemisphere observer*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=8, position=top, type=diagram -->
 

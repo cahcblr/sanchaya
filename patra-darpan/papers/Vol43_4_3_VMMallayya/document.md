@@ -24,11 +24,11 @@ Indian astronomers and mathematicians are found to have made remarkable contribu
 
 (i) Corresponding to an arc of a circle of radius $R$ subtending an angle $\theta$ at the centre, the Indian sine known as *kramajyā* or *jyā* is given by $jy\bar{a} (R\theta) = R \sin \theta$ and the Indian cosine called *koṭijyā* is given by $ko\d{t}ijy\bar{a} (R\theta) = R \cos \theta$. Another function which is the versed sine termed *utkramajyā* is given by $R - R \cos \theta$. In fig.1, consider the circular arc $BOW = 2s$ with mid point $O$ subtending an angle $2\theta$ at the centre $K$. Then the arc $BO$ will be equal to $s$ and will subtend an angle $\theta$ at $K$. The half chord $BJ$ is the $kramajy\bar{a}$ or $jy\bar{a}$ of $s$ and the upright $KJ$ on it is the $ko\d{t}ijy\bar{a}$ of $s$. The arrow-like protruding part $JO$ is the $utkramajy\bar{a}$ of $s$. Since $\angle BKO = \theta$ , $jy\bar{a} (s) = BJ = R \sin \theta$, $ko\d{t}ijy\bar{a} (s) = KJ = R \cos \theta$, and $utkramajy\bar{a} (s) = JO = KO - KJ = R - R \cos \theta$.
 
-![Fig. 1](media/p03_page.png)
+![Fig. 1](media/p03_page.webp)
 
 *Fig. 1*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=top, type=diagram -->
 

@@ -240,48 +240,48 @@ Thus, the middle register covering the *śruti* interval $[1, 2]$ corresponds to
 of the particular *rāga* within the time interval of its exposition and also as discriminated from another *rāga*. More importantly, from a historical view point, this is a modern generalization of the *svara* counting method first demonstrated by Kallinātha six centuries ago. The variation of the pitch in Fig. 2 is continuous and hence for proper comparison between two ragas the figures have to be normalized such that the area under the curve is unity. This will be in fact an estimate of the first order probability density function of the continuous random variable **Svara** of that particular *Rāga*. Each *Rāga* will be characterized by one such multimodal probability density function with several peaks. It must be noted that this is only a first order mathematical description or model with no claims for completeness in explaining *rāga* music in all its delicate intricacies. Like with any stochastic process joint density functions of higher order and time wise variation of statistical properties greatly matter.
 Among the structural characters of a *rāga*, apart from the ten properties stated by Bharata, *antaramārga* (internal path) is considered important by all authors. This is a very general phrase and only some vague information of this is available in SR and the commentaries. Roughly speaking this allows use of *svaras* displaced from their assigned positions to be used in between other *svaras* as though they have *alpatva* (low probability) character. Seen from the perspective of a stochastic process *antaramārga* may be referring to internal relation among *svaras* in time. The simplest measure of this second order property is the autocorrelation function. How is this *antaramārga* concept brought into the education of music students? This is where Śārṅgadeva highlights the importance of *vāggeyakāras* who are accomplished scholars having the ability to compose songs, set them to *rāga* music and also sing, for the sustenance of the classical tradition. Thus the *nibaddha-saṅgīta* or composed music for which the *svara-prastāra* is made available by tradition is indispensable not only for training purposes but also for the theory of *rāga* music. We have seen the example of Rāga Ṣāḍjī already. SR provides several such examples with samples of *ālāpana* also as a sequence of *svaras*. One can analyse these to some extent by assigning *śruti* values to the *svaras*. Out of curiosity in Fig. 3(a) the time series of the *gīti* in the Rāga Ṣāḍjī given in SR as per Table 1 is plotted by taking the short syllable as a reference (*mātrā*) time unit. The autocorrelation of the *rāga* as it evolves in time is shown in Fig. 3(b).
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 3 (a) Time series of the song in Rāga Ṣāḍjī" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 3 (a) Time series of the song in Rāga Ṣāḍjī" -->
 
 <!-- figure-meta: page=18, position=top-left, type=graph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 3(b) Autocorrelation" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 3(b) Autocorrelation" -->
 
 <!-- figure-meta: page=18, position=top-right, type=graph -->
 
 It is observed that the *prastāra* is strongly correlated with the autocorrelation decaying very slowly. It would be interesting to compare the above with simple songs currently in use. Saint Purandaradāsa (c 1550 CE) considered the grandsire of Karnatic music systematized teaching at the elementary level to begin with *sarale-varase*, *janti-varase*, and *alamkāra* series. He also composed hundreds of songs in different *rāgas*, many of which are popular to this day. His *gīti* compositions *śrī-gaṇanātha* and *kereya nīranu* in the Rāga Malahari are the very first songs that students learn even now. These are shown in Fig 4 (a) and Fig 5 (a) as time series plotted with the prescribed *svaras*. The points are joined by lines to get a visual impression of the *svara* pattern. Fig 4(b) and Fig 5(b) show the autocorrelation function which for up to two steps appears to be decreasing geometrically but later shows slow decay, but faster than the song of Śārṅgadeva above.
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 4(a) Śrī Gaṇanātha…time series plot" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 4(a) Śrī Gaṇanātha…time series plot" -->
 
 <!-- figure-meta: page=18, position=middle-left, type=graph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 4 (b) Autocorrelation" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 4 (b) Autocorrelation" -->
 
 <!-- figure-meta: page=18, position=middle-right, type=graph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 5(a) Kereya Nīranu…time series plot" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 5(a) Kereya Nīranu…time series plot" -->
 
 <!-- figure-meta: page=18, position=bottom-left, type=graph -->
 
-![Fig 5(b) Auocorrelation](media/p18_page.png)
+![Fig 5(b) Auocorrelation](media/p18_page.webp)
 
 *Fig 5(b) Auocorrelation*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=bottom-right, type=graph -->
 
 These types of songs are simple, without *gamaka* embellishment and speed variations. These can be faithfully presented even on keyboard instruments using the nominal *svara* positions. These are introduced in music classes after training in the strictly deterministic and periodic *alaṅkāra* strings. The point to be noted is that the autocorrelation decreases in two different ways caused by two different internal arrangements among the same *svara* groups indicating the two songs to be sample presentations of the same *rāga* among many other possibilities.
 Next, in the graded order of complexity students are trained in *swarajate* and *varṇa* compositions. In Figure 5 (a,b) the time series and autocorrelation for a *varṇa* composition in the Rāga Hamsadhwani are shown. These results are by their very nature approximate since the time series is artificially constructed with discrete *svara* positions as given in printed text books and class notes. Nevertheless, one can get an idea of possible second order property of a *rāga*. Here also after two or three steps, the autocorrelation decreases too slowly, indicating long time memory in the composition as far as the song structure is concerned.
 
-<!-- figure-resolved-page-render-hidden: image=media/p19_page.png caption="Fig. 5(a) Hamsadhwani Varṇa Time series." -->
+<!-- figure-resolved-page-render-hidden: image=media/p19_page.webp caption="Fig. 5(a) Hamsadhwani Varṇa Time series." -->
 
 <!-- figure-meta: page=19, position=middle-left, type=graph -->
 
-![Fig. 5(b) Autocorrelation](media/p19_page.png)
+![Fig. 5(b) Autocorrelation](media/p19_page.webp)
 
 *Fig. 5(b) Autocorrelation*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=middle-right, type=graph -->
 

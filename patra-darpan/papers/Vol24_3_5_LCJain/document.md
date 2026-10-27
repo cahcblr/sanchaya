@@ -49,31 +49,31 @@ In what follows, we adopt the same system of abbreviations and ancient as well a
 | *Ābādhā* | | Time-lag | $1_t$ |
 | *Antaḥkoṭā koṭi Sāgaras* | श्र को २ सा | Inter-crore-squared-sea | $((10^7)^2) \bullet C$ |
 | *Asaṃkhyāta* or *Asaṃkhyeya* (in different context) | रि | Innumerate or Innumerable | $a'$ |
-| *Asaṃkhyāta Loka* (in different context) | i) ![symbol-1](media/p02_page.png)<!-- figure-meta: page=2, position=bottom, type=diagram --> <br> ii) ![symbol-2](media/p02_page.png)<!-- figure-meta: page=2, position=bottom, type=diagram --> | Innumerate Universe<br>Innumerate Universe | $a''$<br>$a'''$ |
+| *Asaṃkhyāta Loka* (in different context) | i) ![symbol-1](media/p02_page.webp)<!-- figure-meta: page=2, position=bottom, type=diagram --> <br> ii) ![symbol-2](media/p02_page.webp)<!-- figure-meta: page=2, position=bottom, type=diagram --> | Innumerate Universe<br>Innumerate Universe | $a''$<br>$a'''$ |
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 
-(Note : The symbol for *asaṃkhyeya* or *asaṃkhyāta* has been given in printed texts from 1919 in the form ![symbol-3](media/p03_page.png)<!-- figure-meta: page=3, position=top, type=diagram --> whereas in various manuscripts of the relevant texts it appears as ![symbol-4](media/p03_page.png)<!-- figure-meta: page=3, position=top, type=diagram -->.
+(Note : The symbol for *asaṃkhyeya* or *asaṃkhyāta* has been given in printed texts from 1919 in the form ![symbol-3](media/p03_page.webp)<!-- figure-meta: page=3, position=top, type=diagram --> whereas in various manuscripts of the relevant texts it appears as ![symbol-4](media/p03_page.webp)<!-- figure-meta: page=3, position=top, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 ---
 SYSTEM THEORY IN JAINA SCHOOL OF MATHEMATICS 165
 
 | Term | Ancient symbol | Synonym | Working Symbol |
 | :--- | :--- | :--- | :--- |
-| *Āvali* (in different contexts) | i) ![symbol-5](media/p03_page.png)<!-- figure-meta: page=3, position=top, type=diagram --><br>ii) ![symbol-6](media/p03_page.png)<!-- figure-meta: page=3, position=top, type=diagram --> | Trail | $R'$<br>$R''$ |
+| *Āvali* (in different contexts) | i) ![symbol-5](media/p03_page.webp)<!-- figure-meta: page=3, position=top, type=diagram --><br>ii) ![symbol-6](media/p03_page.webp)<!-- figure-meta: page=3, position=top, type=diagram --> | Trail | $R'$<br>$R''$ |
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 | *Karma-sthiti* | क | Functional-life-time | $K$ |
-| *Saṃkhyāta* or *Saṃkhyeya* (in different contexts) | i) ![symbol-7](media/p03_page.png)<!-- figure-meta: page=3, position=top, type=diagram --><br>ii) ![symbol-8](media/p03_page.png)<!-- figure-meta: page=3, position=top, type=diagram --> | Numerate | $s'$<br>$s''$ |
+| *Saṃkhyāta* or *Saṃkhyeya* (in different contexts) | i) ![symbol-7](media/p03_page.webp)<!-- figure-meta: page=3, position=top, type=diagram --><br>ii) ![symbol-8](media/p03_page.webp)<!-- figure-meta: page=3, position=top, type=diagram --> | Numerate | $s'$<br>$s''$ |
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
-(Note : In printed texts s appears as ![symbol-9](media/p03_page.png)<!-- figure-meta: page=3, position=middle, type=diagram --> whereas in manuscripts as ![symbol-10](media/p03_page.png)<!-- figure-meta: page=3, position=middle, type=diagram -->).
+(Note : In printed texts s appears as ![symbol-9](media/p03_page.webp)<!-- figure-meta: page=3, position=middle, type=diagram --> whereas in manuscripts as ![symbol-10](media/p03_page.webp)<!-- figure-meta: page=3, position=middle, type=diagram -->).
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 ## OPERATIONAL SYMBOLISM
 
@@ -93,17 +93,17 @@ In the following we brief the remaining symbolism from the *Artha-saṃdṛṣ�
 ### Addition (*Saṅkalana*) :[^17]
 
 The word *saṅkalana* denotes the addition of a set with another set. Here the word for set is *rāśi* in the manuscript. Whatever is to be added to a set is to be written above the set. Alternately, after having written the additively positive set above the original set (*mūla rāśi*), the addition is denoted by the shape of a tail (*puñchaḍī*).
-For example, the symbol for a lac as increased by unity is ![symbol-11](media/p04_page.png)<!-- figure-meta: page=4, position=bottom, type=diagram --> or ![symbol-12](media/p04_page.png)<!-- figure-meta: page=4, position=bottom, type=diagram -->.
+For example, the symbol for a lac as increased by unity is ![symbol-11](media/p04_page.webp)<!-- figure-meta: page=4, position=bottom, type=diagram --> or ![symbol-12](media/p04_page.webp)<!-- figure-meta: page=4, position=bottom, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
-The universe point set (*loka pradeśa rāśi*) as increased by two is ![symbol-13](media/p04_page.png)<!-- figure-meta: page=4, position=bottom, type=diagram -->.
+The universe point set (*loka pradeśa rāśi*) as increased by two is ![symbol-13](media/p04_page.webp)<!-- figure-meta: page=4, position=bottom, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
-The symbol for the infinite as increased by the universe-cubed point-set (*ghana-loka-pradeśa-rāśi*) is ![symbol-14](media/p04_page.png)<!-- figure-meta: page=4, position=bottom, type=diagram -->.
+The symbol for the infinite as increased by the universe-cubed point-set (*ghana-loka-pradeśa-rāśi*) is ![symbol-14](media/p04_page.webp)<!-- figure-meta: page=4, position=bottom, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 Note that the infinite here is the constructed proper infinite which is used to give the proper value-idea of the existential set.
 ---
@@ -115,13 +115,13 @@ To this, when the time-fluent (*kāla-dravya*) whose measure is the same as that
 $$ \frac{\begin{matrix} ३ \\ \equiv \end{matrix}}{\text{१६।ख}} $$
 
 Further, a set which is slightly greater than the original value of its own, is denoted by placing a vertical bar above the set.
-For example, the set slightly greater than its original value in case of infinite is denoted by ![symbol-15](media/p05_page.png)<!-- figure-meta: page=5, position=middle, type=diagram -->.
+For example, the set slightly greater than its original value in case of infinite is denoted by ![symbol-15](media/p05_page.webp)<!-- figure-meta: page=5, position=middle, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
-Ordinarily, whenever two or more sets are to be mixed, two or more vertical lines are placed above the original set. For example, when two sets are to be mixed with the numerate, the addition is denoted by ![symbol-16](media/p05_page.png)<!-- figure-meta: page=5, position=middle, type=diagram -->.
+Ordinarily, whenever two or more sets are to be mixed, two or more vertical lines are placed above the original set. For example, when two sets are to be mixed with the numerate, the addition is denoted by ![symbol-16](media/p05_page.webp)<!-- figure-meta: page=5, position=middle, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 In the *Tiloyapaṇṇattī*, however, the word *dhaṇa* has been used as a symbol for addition.[^18]
 In the printed books, the tail has been reduced to the size of a horizontal bar. For example, log of log of linear finger point set to the base two (*aṅgula pradeśa rāśi varga śalākā rāśi*) as increased by unity is denoted by[^19]
@@ -131,17 +131,17 @@ $$ \frac{\text{१—}}{\text{व २}} $$
 ### Substraction (*Vyavakalana*) :
 
 The word *vyavakalana* denotes the subtraction of a set. Whatever set (*rāśi*) is to be subtracted, is written above the original set and from it the tail (*pūñchaḍī*) is attached and a small circle (*bindu*) is placed above.
-For example, the symbol for a crore (*koṭi*) as decreased by unity is denoted by ![symbol-17](media/p05_page.png)<!-- figure-meta: page=5, position=bottom, type=diagram -->.
+For example, the symbol for a crore (*koṭi*) as decreased by unity is denoted by ![symbol-17](media/p05_page.webp)<!-- figure-meta: page=5, position=bottom, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
-The symbol for the infinite as decreased by unity is ![symbol-18](media/p05_page.png)<!-- figure-meta: page=5, position=bottom, type=diagram -->.
+The symbol for the infinite as decreased by unity is ![symbol-18](media/p05_page.webp)<!-- figure-meta: page=5, position=bottom, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
-The symbol for the universe cubed (*ghana loka*) as decreased by two is denoted by ![symbol-19](media/p05_page.png)<!-- figure-meta: page=5, position=bottom, type=diagram -->.
+The symbol for the universe cubed (*ghana loka*) as decreased by two is denoted by ![symbol-19](media/p05_page.webp)<!-- figure-meta: page=5, position=bottom, type=diagram -->.
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 [^1]: Jain, L.C., System Theory in Jaina School of Mathematics, *Indian Journal of History of Science*, **14**, 31-65, 1979. For an easy introduction, *cf.* Jain, L.C. and Jain, A., *Philosopher Mathematicians*, DJICR, Hastinapur, 1985.
 
@@ -343,11 +343,11 @@ The above operations are called parikarmāṣṭaka.
 "caturāśītiva(sa)".
 The eighty-fourth year of inscription seems to be related with the Jaina's *Vīra Nirvāṇa Saṃvat*, which may be 527 B.C. or still earlier. Ojha and Vidyabhusana, both have speculated the inscription year as 443 B.C. Its script appears to be earlier than that of Aśoka. It contains the accented alphabet *Vī*
 
-![Fig. 11. symbol for Vī](media/p11_page.png)
+![Fig. 11. symbol for Vī](media/p11_page.webp)
 
 *Fig. 11. symbol for Vī*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle-right, type=diagram -->
 
@@ -371,11 +371,11 @@ Jain has already contributed a paper giving many examples of the small circle as
 Here **ल ॥ ५ ॥ ४ ॥ ३** denote the product $la \times 5 \times 4 \times 3$.
 If **ल** or one lac is subtracted from the above, then the remaining quantity is written as **ल ५ ४ ३** with a tail-like symbol:
 
-![Fig. 12. symbol for lac less one lac](media/p12_page.png)
+![Fig. 12. symbol for lac less one lac](media/p12_page.webp)
 
 *Fig. 12. symbol for lac less one lac*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=middle, type=diagram -->
 
@@ -662,13 +662,13 @@ SYSTEM THEORY IN JAINA SCHOOL OF MATHEMATICS 179
 
 [^43]: *Vide MSJ*, leaf 716, and leaf 717(i). Cf. also *MSU*, the introductory prelude to the Artha-Saṃdṛṣṭi of the Gommaṭasāra. Note that in the *MSU* there is use of only one tail (pūñchaḍī), and the small circle is quite clearly shown. For example, for subtracting twelve lacs from the product of
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="l-5-4-3" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="l-5-4-3" -->
 
     <!-- figure-meta: page=18, position=top, type=diagram -->
 
     that is, factors, then the following symbolism has been used :
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="l-tail-5-4-3" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="l-tail-5-4-3" -->
 
     <!-- figure-meta: page=18, position=top, type=diagram -->
 
@@ -676,17 +676,17 @@ SYSTEM THEORY IN JAINA SCHOOL OF MATHEMATICS 179
 
 <!-- figure-unresolved: figure=18-3 page_meta=missing chunk_pages=16-18 -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="l-tail-8-3" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="l-tail-8-3" -->
 
     <!-- figure-meta: page=18, position=middle, type=diagram -->
 
     Further, if innumerate is to be subtracted from the product of the innumerate universe, then the following symbolism has been used :
 
-    ![innumerate-subtraction](media/p18_page.png)
+    ![innumerate-subtraction](media/p18_page.webp)
 
 *innumerate-subtraction*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
     <!-- figure-meta: page=18, position=middle, type=diagram -->
 

@@ -414,21 +414,21 @@ Table 4. Planetary positions for sequence 1493-1478 B.C.
 | 20.9.1478 | Bhar-Kṛtt | P.bhādra | Jyeṣṭha | Jyeṣṭha-Anūrādhā | Kārtika Kṛṣṇaṣṭamī |
 | 12.10.1478 | Bhar-Kṛtt | U.bhādra | P.āṣāḍha | Jyeṣṭha-Mūlā | Kārtika Pūrṇimā |
 
-![Fig. 2a. Sky Chart for 20.9.1478 BC 5.30 AM (LT)](media/p25_page.png)
+![Fig. 2a. Sky Chart for 20.9.1478 BC 5.30 AM (LT)](media/p25_page.webp)
 
 *Fig. 2a. Sky Chart for 20.9.1478 BC 5.30 AM (LT)*
 
-<!-- figure-resolved-page-render: page=25 image=media/p25_page.png -->
+<!-- figure-resolved-page-render: page=25 image=media/p25_page.webp -->
 
 <!-- figure-meta: page=25, position=bottom, type=diagram -->
 
 inaccurate or taking Mars to be *vakra* could be a poetic fancy. It is clear from the figures that the un-named planet said to be afflicting star *Citrā* in p.p.1
 
-![Fig. 2b. Sky Chart for 20.9.1478 BC 19 hrs. (LT)](media/p26_page.png)
+![Fig. 2b. Sky Chart for 20.9.1478 BC 19 hrs. (LT)](media/p26_page.webp)
 
 *Fig. 2b. Sky Chart for 20.9.1478 BC 19 hrs. (LT)*
 
-<!-- figure-resolved-page-render: page=26 image=media/p26_page.png -->
+<!-- figure-resolved-page-render: page=26 image=media/p26_page.webp -->
 
 <!-- figure-meta: page=26, position=middle, type=graph -->
 
@@ -438,15 +438,15 @@ should have been Mercury. This also matches with the further reliable statement 
 
 The above results point out that the text is internally consistent with respect to eclipses and the first planetary position of Saturn and Mars.
 
-<!-- figure-resolved-page-render-hidden: image=media/p27_page.png caption="Fig. 3a. Sky Chart for 12.10.1478 BC 5.39 AM (LT)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p27_page.webp caption="Fig. 3a. Sky Chart for 12.10.1478 BC 5.39 AM (LT)" -->
 
 <!-- figure-meta: page=27, position=top, type=graph -->
 
-![Fig. 3b. Sky Chart for 12.10.1478 BC 5.55 AM (LT)](media/p27_page.png)
+![Fig. 3b. Sky Chart for 12.10.1478 BC 5.55 AM (LT)](media/p27_page.webp)
 
 *Fig. 3b. Sky Chart for 12.10.1478 BC 5.55 AM (LT)*
 
-<!-- figure-resolved-page-render: page=27 image=media/p27_page.png -->
+<!-- figure-resolved-page-render: page=27 image=media/p27_page.webp -->
 
 <!-- figure-meta: page=27, position=bottom, type=graph -->
 
@@ -456,23 +456,23 @@ However, the problem of the other statements from p.p.4 onwards remains to be so
 
 The results of Table 3 and Table 4 are self-explanatory. Eight sequences of triplets have been identified as being compatible with the eclipses of the MB text. The least controversial p.p.1, mentions Mars as being between *Jyeṣṭhā* and *Anūrādhā*. This observation fits in with only one of the eight solutions namely, 20.9.1478 BC. The sky chart for this date is also shown in Fig. 2a, and Fig. 2b. This clearly confirms that the eclipse observations of MB could have been possible only in the period 1493-1443 BC. It may be emphasized here that the two lengthy, but ambiguous, positions p.p.4 and p.p.5 have not been used to identify the above epoch as the historic period of the observations. In the identified year 1478 BC of the war not only a compatible double eclipse (SE2) was possible (Fig. 1) but also the planetary positions p.p.1 (Fig. 2a, 2b) and p.p.2; p.p.3 were satisfied (Fig. 3a, 3b). The controversial positions p.p.4 and p.p.5 also get reasonably well confirmed, if they are taken to belong to another year. Table 4 again indicates 19.3.1493 BC (SE1) as the most likely date of observation for p.p.5. Both Saturn and Jupiter were near *Viśākhā* as mentioned (Fig. 4b). There was no planet in the *Kṛttikā* cluster. This may be in order, since the text only mentions a comet like planet in *Kṛttikā*. From the same figure, it is seen that
 
-<!-- figure-resolved-page-render-hidden: image=media/p29_page.png caption="Fig. 4a. Sky Chart for 19.3.1493 BC 5.30 AM (LT)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p29_page.webp caption="Fig. 4a. Sky Chart for 19.3.1493 BC 5.30 AM (LT)" -->
 
 <!-- figure-meta: page=29, position=top, type=graph -->
 
-![Fig. 4b. Sky Chart for 19.3.1493 BC 9.30 AM (LT)](media/p29_page.png)
+![Fig. 4b. Sky Chart for 19.3.1493 BC 9.30 AM (LT)](media/p29_page.webp)
 
 *Fig. 4b. Sky Chart for 19.3.1493 BC 9.30 AM (LT)*
 
-<!-- figure-resolved-page-render: page=29 image=media/p29_page.png -->
+<!-- figure-resolved-page-render: page=29 image=media/p29_page.webp -->
 
 <!-- figure-meta: page=29, position=bottom, type=graph -->
 
-![Fig. 4c. Retrograde motion of Venus and Mars during 19.12.1494 BC-19.3.1493 BC.](media/p30_page.png)
+![Fig. 4c. Retrograde motion of Venus and Mars during 19.12.1494 BC-19.3.1493 BC.](media/p30_page.webp)
 
 *Fig. 4c. Retrograde motion of Venus and Mars during 19.12.1494 BC-19.3.1493 BC.*
 
-<!-- figure-resolved-page-render: page=30 image=media/p30_page.png -->
+<!-- figure-resolved-page-render: page=30 image=media/p30_page.webp -->
 
 <!-- figure-meta: page=30, position=top, type=graph -->
 

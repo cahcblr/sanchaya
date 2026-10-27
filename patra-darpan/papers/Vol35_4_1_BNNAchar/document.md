@@ -88,7 +88,7 @@ Table 1. Full Moon Days, Nakṣatras, and Months in 2927 BC
 | 10 November | 10 November | 1:21 | $Ārdra$ | $Pauṣa$ |
 | 9 December | 10 December | 19:34 | $Puṣya$ | $Māgha$ |
 
-![Figure 1. Star Map at Delhi on 11 October 2927 BC at 1: 00 am. Full moon at $Kṛttikā$ $nakṣatra$.](media/p07_page.png)
+![Figure 1. Star Map at Delhi on 11 October 2927 BC at 1: 00 am. Full moon at $Kṛttikā$ $nakṣatra$.](media/p07_page.webp)
 
 *Figure 1. Star Map at Delhi on 11 October 2927 BC at 1: 00 am. Full moon at $Kṛttikā$ $nakṣatra$.*
 
@@ -96,7 +96,7 @@ Table 1. Full Moon Days, Nakṣatras, and Months in 2927 BC
 
 <!-- figure-meta: page=301, position=middle, type=diagram -->
 
-![Figure 2. Star Map at Delhi on 19 March 2927 BC at 3: 00 am. Full moon at $Viśākhā$ $nakṣatra$. Full Moon oculting $Viśākhā$ ($\alpha$, Librae).](media/p08_page.png)
+![Figure 2. Star Map at Delhi on 19 March 2927 BC at 3: 00 am. Full moon at $Viśākhā$ $nakṣatra$. Full Moon oculting $Viśākhā$ ($\alpha$, Librae).](media/p08_page.webp)
 
 *Figure 2. Star Map at Delhi on 19 March 2927 BC at 3: 00 am. Full moon at $Viśākhā$ $nakṣatra$. Full Moon oculting $Viśākhā$ ($\alpha$, Librae).*
 
@@ -128,7 +128,7 @@ Table 2. Nakṣatras and Deities of the Months in the Caitrādi Scheme
 | $Māgha$ | $Maghā$ | $Pitṛ$ |
 | $Phālguṇa$ | $Phālguṇī$ | $Aryamān$, $Bhaga$ |
 
-![Figure 3. Graph of Number of Occurrences of Full Moon vs. Nakṣatra in one Period of 19 years. Nakṣatras are labelled from 1 to 27 starting with Kṛttikā.](media/p10_page.png)
+![Figure 3. Graph of Number of Occurrences of Full Moon vs. Nakṣatra in one Period of 19 years. Nakṣatras are labelled from 1 to 27 starting with Kṛttikā.](media/p10_page.webp)
 
 *Figure 3. Graph of Number of Occurrences of Full Moon vs. Nakṣatra in one Period of 19 years. Nakṣatras are labelled from 1 to 27 starting with Kṛttikā.*
 
@@ -149,11 +149,11 @@ Dikshit estimated that Spica would have a longitude of $150^{\circ}$ at about 18
 ---
 306 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Figure 4. Star Map at Delhi on 12 March 1822 BC at 6: 10 am. Full moon at Citrā. Citrā at a longitude of $150^{\circ}$.](media/p12_page.png)
+![Figure 4. Star Map at Delhi on 12 March 1822 BC at 6: 10 am. Full moon at Citrā. Citrā at a longitude of $150^{\circ}$.](media/p12_page.webp)
 
 *Figure 4. Star Map at Delhi on 12 March 1822 BC at 6: 10 am. Full moon at Citrā. Citrā at a longitude of $150^{\circ}$.*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=middle, type=diagram -->
 

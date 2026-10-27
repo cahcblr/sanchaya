@@ -45,11 +45,11 @@ Let us look at what Dvārakānātha Yajvā and Vyaṅkaṭeśvara Dīkṣita, co
 448 INDIAN JOURNAL OF HISTORY OF SCIENCE
 bricks of the type described above, probably because 225 plus 64 make 289, a squared number $17^2$.[^2] Hence the direction of arranging 289 bricks in the form of a square so that each side contains 17 bricks. This is done in two stages; at first 256 bricks are arranged in a square so that each side contains 16 bricks, and then 33 bricks, —17 plus 16, are placed along two adjoining sides. In this way the square $ABCD$ is formed (Fig. 1).
 
-![Fig. 1. Construction of the chariot wheel (rathacakra) fire-altar](media/p04_page.png)
+![Fig. 1. Construction of the chariot wheel (rathacakra) fire-altar](media/p04_page.webp)
 
 *Fig. 1. Construction of the chariot wheel (rathacakra) fire-altar*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=middle, type=diagram -->
 
@@ -72,27 +72,27 @@ Such a conclusion is borne out by the description of the *Samūhya* and *Paricā
 
 450 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 2. BS Droṇa citi (circular)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 2. BS Droṇa citi (circular)" -->
 
 <!-- figure-meta: page=6, position=top-left, type=diagram -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 3. BS Kūrma citi (circular)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 3. BS Kūrma citi (circular)" -->
 
 <!-- figure-meta: page=6, position=top-right, type=diagram -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 4. BS Rathacakra citi (without spokes)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 4. BS Rathacakra citi (without spokes)" -->
 
 <!-- figure-meta: page=6, position=middle-left, type=diagram -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 5. BS and AS Paricāyya/ Upacāyya citi" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 5. BS and AS Paricāyya/ Upacāyya citi" -->
 
 <!-- figure-meta: page=6, position=middle-right, type=diagram -->
 
-![Fig. 6. BS sārathacakra citi (with spokes)](media/p06_page.png)
+![Fig. 6. BS sārathacakra citi (with spokes)](media/p06_page.webp)
 
 *Fig. 6. BS sārathacakra citi (with spokes)*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=bottom, type=diagram -->
 

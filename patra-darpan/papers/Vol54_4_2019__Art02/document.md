@@ -34,11 +34,11 @@ In this article, we will first analyze the complete set of daily-motion algorith
 The Indian planetary model employs the epicycle for its basis. In this respect, it is similar to the Greek, Islamic and early European models. The Indian epicycle, however, differs from the rest in a curious way. While the other epicycles are of constant size, the radius of the Indian epicycle changes with motion. That is, the epicycle expands and contracts as it moves on the deferent circle. Thus, it is sometimes called the pulsating Indian epicycle.
 Figure 1 shows a schematic of the basic Indian epicycle model. The earth ($E$) is located at the center of the larger circle, the deferent. The smaller circle, called the epicycle, moves on the deferent in a CCW (counter-clockwise) manner, at an angular rate that equals the planet’s mean motion. The mean planet is situated at the center of the epicycle at $C$. The actual planet ($P$) revolves around the epicycle in one of two ways —CW (clock-wise) for the *manda* model and CCW for the *śīghra* model (Figure 1 depicts the *manda* model). The angular rate of motion of the actual planet on the epicycle equals the relative rate of motion between the mean planet and the apsis (apogee for the *manda* and conjunction for the *śīghra* models respectively).
 
-![Figure 1 The Indian epicycle model.](media/p02_page.png)
+![Figure 1 The Indian epicycle model.](media/p02_page.webp)
 
 *Figure 1 The Indian epicycle model.*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 
@@ -50,15 +50,15 @@ One other item to consider is the effect of epicycle pulsation — the phenomeno
 In modern astronomical terms, the *manda* correction is related to the correction for the equation-of-center of a planet’s orbit. Thus, the *manda* location for all the planets coincides with the aphelion of those planets, while for the Sun and the Moon it equates to the apogee of their orbits (Narayanan 2012). The equation-of-center is in turn dependent on the eccentricity of the orbit. Thus, we may expect the size of the *manda* epicycle to reflect the relative magnitude of eccentricity of the planetary orbit. This surmise is borne out in Figure 3a which shows the orbital eccentricity and relative sizes of the *manda* epicycle for the Sun, Moon and the five planets. For the inner planets Mercury and Venus, the numerical comparison of eccentricity to epicycle-size is not as good as that of the outer planets, though the trend is matched. This is expected, since the orbit of these two inner planets does not enclose the earth. For a discussion on the *manda* of the inner planets refer to the article mentioned above (Narayanan 2012).
 The *śīghra* correction, on the other hand, is related to the conversion of heliocentric coordinates to geocentric. Thus, we may expect the *śīghra* epicycle dimension to depend upon the ratio of orbital radii of the planet in question and the earth. This conjecture is borne out admirably in Figure 3b which shows the ratio of the mean orbital radii of the five planets and the relative sizes of their *śīghra* epicycles. Note that the ratio of orbital radii for the two sets of planets, inner and outer, is reversed. The reason, though not complex, is beyond the scope of the current article.
 
-<!-- figure-resolved-page-render-hidden: image=media/p04_page.png caption="Figure 2: (a) Relative sizes of manda epicycles. (b) Relative sizes of śīghra epicycles." -->
+<!-- figure-resolved-page-render-hidden: image=media/p04_page.webp caption="Figure 2: (a) Relative sizes of manda epicycles. (b) Relative sizes of śīghra epicycles." -->
 
 <!-- figure-meta: page=4, position=top, type=graph -->
 
-![Figure 3: (a) Correlating planetary orbital eccentricity with manda epicycles. (b) Correlating planetary orbital radii with śīghra epicycles.](media/p04_page.png)
+![Figure 3: (a) Correlating planetary orbital eccentricity with manda epicycles. (b) Correlating planetary orbital radii with śīghra epicycles.](media/p04_page.webp)
 
 *Figure 3: (a) Correlating planetary orbital eccentricity with manda epicycles. (b) Correlating planetary orbital radii with śīghra epicycles.*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=middle, type=graph -->
 
@@ -152,15 +152,15 @@ There is one other observation with regard to the $manda$ daily-motion. In the 4
 
 The *śīghra* daily-motion algorithm is derived from the dynamics of the *śīghra* epicycle and is similar to the *manda* calculation. There are, however, two major differences
 
-<!-- figure-resolved-page-render-hidden: image=media/p07_page.png caption="Fig. 4. Schematic for analysis of manda daily-motion." -->
+<!-- figure-resolved-page-render-hidden: image=media/p07_page.webp caption="Fig. 4. Schematic for analysis of manda daily-motion." -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
-![Fig. 4. Schematic for analysis of śīghra daily-motion.](media/p07_page.png)
+![Fig. 4. Schematic for analysis of śīghra daily-motion.](media/p07_page.webp)
 
 *Fig. 4. Schematic for analysis of śīghra daily-motion.*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
@@ -263,11 +263,11 @@ The *śīghra* daily-motion, as described in section 3.2, is a measure of the da
 
 For computational purposes we have taken the true daily-motion to be the sum of the $manda$ and *śīghra* daily motions. The true daily-motion was calculated for the five visible planets for various intervals ranging from 400 days to 2000 days and the results are depicted in Figures 7a – 7e. The actual daily-motion is also shown for comparison. In addition, the $manda$ and *śīghra* daily-motions are presented as well for reference purposes. A few things stand out in these Figures. The variation in magnitude of the $manda$ daily-motion appears small when compared to the *śīghra* variation. Another observation is that while the *śīghra* daily-motion occasionally becomes negative (retrograde), the $manda$ daily-motion is always positive (prograde). It can be seen in these figures that the calculated
 
-![Fig. 5.  (a) Manda and $L_3$ daily-motions for Mercury. (b) Manda and $L_3$ daily-motions for Venus. (c) Manda and actual heliocentric daily-motions for mars. (d) Manda and actual heliocentric daily-motions for Jupiter. (e) Manda and actual heliocentric daily-motions for Saturn.](media/p10_page.png)
+![Fig. 5.  (a) Manda and $L_3$ daily-motions for Mercury. (b) Manda and $L_3$ daily-motions for Venus. (c) Manda and actual heliocentric daily-motions for mars. (d) Manda and actual heliocentric daily-motions for Jupiter. (e) Manda and actual heliocentric daily-motions for Saturn.](media/p10_page.webp)
 
 *Fig. 5.  (a) Manda and $L_3$ daily-motions for Mercury. (b) Manda and $L_3$ daily-motions for Venus. (c) Manda and actual heliocentric daily-motions for mars. (d) Manda and actual heliocentric daily-motions for Jupiter. (e) Manda and actual heliocentric daily-motions for Saturn.*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=graph -->
 
@@ -299,11 +299,11 @@ IJHS | VOL 54.4 | DECEMBER 2019 ARTICLES
 
 <!-- figure-unresolved: figure=6d page_meta=missing chunk_pages=11-15 -->
 
-![Fig. 6. Modern value of the śīghra and $L_4$ correction daily-motions for Saturn.](media/p11_page.png)
+![Fig. 6. Modern value of the śīghra and $L_4$ correction daily-motions for Saturn.](media/p11_page.webp)
 
 *Fig. 6. Modern value of the śīghra and $L_4$ correction daily-motions for Saturn.*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=graph -->
 
@@ -377,11 +377,11 @@ IJHS | VOL 54.4 | DECEMBER 2019 ARTICLES
 
 <!-- figure-unresolved: figure=7e page_meta=missing chunk_pages=11-15 -->
 
-![Fig. 7. Calculated and actual daily-motion for the Sun.](media/p13_page.png)
+![Fig. 7. Calculated and actual daily-motion for the Sun.](media/p13_page.webp)
 
 *Fig. 7. Calculated and actual daily-motion for the Sun.*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=middle, type=graph -->
 
@@ -396,11 +396,11 @@ ARTICLES IJHS | VOL 54.4 | DECEMBER 2019
 
 <!-- figure-unresolved: figure=7g page_meta=missing chunk_pages=11-15 -->
 
-![Fig. 7. Calculated and actual daily-motion for the Moon (with Sun Correction).](media/p14_page.png)
+![Fig. 7. Calculated and actual daily-motion for the Moon (with Sun Correction).](media/p14_page.webp)
 
 *Fig. 7. Calculated and actual daily-motion for the Moon (with Sun Correction).*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 
 <!-- figure-meta: page=14, position=top, type=graph -->
 

@@ -398,11 +398,11 @@ $$\begin{aligned} T^- &= T_{L_e} + T_{L_{e^0}} \\ &= \zeta T_r L_{e^0} + T_{L_{e
 
 [^37]: Cf. ibid., p. 30.
 
-![Figure 1: Geometrical representation of equation (3.50)](media/p16_page.png)
+![Figure 1: Geometrical representation of equation (3.50)](media/p16_page.webp)
 
 *Figure 1: Geometrical representation of equation (3.50)*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 
@@ -612,11 +612,11 @@ $$ (L)^2 \div \left[ L + \frac{L}{2} \right] = --- = L - \frac{L}{3} \quad \dots
 
 The equation (3.50) has been represented geometrically in Fig. 1. It cannot be said whether it is an original Indian contribution.
 
-![Fig. 1. caption](media/p16_page.png)
+![Fig. 1. caption](media/p16_page.webp)
 
 *Fig. 1. caption*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 
@@ -629,11 +629,11 @@ MATHEMATICAL TOPICS OF THE *Dhavalā* TEXTS 101
 Here, in Fig. 1.
 Fig. ABCD — Fig. ABFE = Fig. EFCD = Fig. EGHD — Fig. FGHC
 
-![Fig. 2. caption](media/p17_page.png)
+![Fig. 2. caption](media/p17_page.webp)
 
 *Fig. 2. caption*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=top, type=diagram -->
 

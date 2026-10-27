@@ -323,9 +323,9 @@ How can we count up to higher cardinals? Let us look at the numberlines (Figs. 1
 As is evident, Fig.1 and Fig. 2, represent the linear and logarithmic numberlines, respectively. A slightly different way to interpret
 ---
 322 INDIAN JOURNAL OF HISTORY OF SCIENCE
-<!-- figure-resolved-page-render-hidden: image=media/p12_page.png caption="Fig. 1. Linear number line from $-\\infty$ to $+\\infty$ with $\\aleph_0$ marked." -->
+<!-- figure-resolved-page-render-hidden: image=media/p12_page.webp caption="Fig. 1. Linear number line from $-\\infty$ to $+\\infty$ with $\\aleph_0$ marked." -->
 <!-- figure-meta: page=12, position=top, type=diagram -->
-<!-- figure-resolved-page-render-hidden: image=media/p12_page.png caption="Fig. 2. Logarithmic number line showing powers of 2." -->
+<!-- figure-resolved-page-render-hidden: image=media/p12_page.webp caption="Fig. 2. Logarithmic number line showing powers of 2." -->
 <!-- figure-meta: page=12, position=middle, type=diagram -->
 the logarithmic numberline to base 2 is to say that it is made of the power set of terms on the linear numberline. Thus corresponding to 2 on the linear numberline there is $2^2$, its powerset on the logarithmic numberline and corresponding to -1 on the linear numberline we have $2^{-1}$ ($\frac{1}{2^1}$), its powerset on the logarithmic numberline. While this notion is easy to understand for terms on the RHS of Fig. 2, the power set of negative integers is not intuitively plain (“In mathematics you don’t understand things. You get used to them”) (Newmann quoted in Zukov, 1984) However, this procedure affords us a way to generate more numberlines and possibly more Approachable Śunyas.
 > With Devās on one side and Asurās on the other
@@ -336,12 +336,12 @@ The next power set-generated numberline is given in Fig. 3
 Further, doing power set operation on the terms of Fig. 3 results in the next numberline shown in Fig. 4
 The exercise can be continued endlessly in this manner. Let us construct Table. 11 to look at these numberlines more closely.
 Column 10 of Table 11 give the list of ‘countable infinity’ in each case. Thus in the case of row 1, we count 1, 2, 3… , and reach $\aleph_0$ after $\aleph_0$ steps. Similarly, in case of row 2, we count as $2$ ($2^1$), $4$ ($2^2$), $8$ ($2^3$)… and reach $2^{\aleph_0}$ ($\aleph_1$) – assuming the Continuum Hypothesis – after $\aleph_0$ steps. In case of row 3, we proceed as $4$ ($2^2$), $16$ ($2^4$), $256$ ($2^8$)… and reach $\aleph_2$ after $\aleph_0$ steps. Finally, in case of row 4, the counting sequence is
-<!-- figure-resolved-page-render-hidden: image=media/p12_page.png caption="Fig. 3. Power set-generated number line leading to $\\aleph_1$." -->
+<!-- figure-resolved-page-render-hidden: image=media/p12_page.webp caption="Fig. 3. Power set-generated number line leading to $\\aleph_1$." -->
 <!-- figure-meta: page=12, position=bottom, type=diagram -->
 
-![Fig. 4. Power set-generated number line leading to $\aleph_2$.](media/p12_page.png)
+![Fig. 4. Power set-generated number line leading to $\aleph_2$.](media/p12_page.webp)
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 <!-- figure-meta: page=12, position=bottom, type=diagram -->
 ---
 HISTORICAL NOTE: APPLICATION OF APPROACHABLE ŚUNYA 323
@@ -466,9 +466,9 @@ But proof is one thing and understanding is another. Therefore let us seek to un
 Why is it that $1 - 0.999\dots = \frac{1}{2^{\aleph_0}}$? How is it that the real numbers begin with $\frac{1}{10^{\aleph_0}} = \frac{1}{2^{\aleph_0}}$ and continue as $\frac{2}{10^{\aleph_0}}, \frac{3}{10^{\aleph_0}}$ etc.? How to understand that $k^{\aleph_0} = \frac{1}{2^{\aleph_0}}$ where $0 < k < 1$?
 To understand these in an even simpler manner, let us construct a variation of the Cantor set where we remove the middle $\frac{8}{10}$ from the available intervals.
 
-![Fig. 5. Variation of the Cantor set removing the middle 8/10. Points 0, 0.1, 0.9, 1 are marked.](media/p18_page.png)
+![Fig. 5. Variation of the Cantor set removing the middle 8/10. Points 0, 0.1, 0.9, 1 are marked.](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 **Fig. 5**
 We start with the interval 0 to 1 and are left with the intervals 0 to 0.1 and 0.9 to 1 after the first instance (Fig. 5). It can be seen that the length of each of these remaining intervals is $\frac{1}{10}$ of the original interval. We will initially concentrate only on the extreme left (EL) and extreme right (ER) intervals. In the next instance, the intervals on the EL become 0 to 0.01 and the interval on the ER becomes 0.99 to 1. These intervals are obviously $\frac{1}{10^2}$ of the original interval. Let us look at the Table: 14 for more details and clarity:
@@ -518,9 +518,9 @@ We started with the interval 0 to 1 and produced $2^{\aleph_0}$ intervals of $\f
 We can even start with an interval of 10 (0 to 10). From this point of view, the interval 0 to 1 is the left hand portion of the first iteration of the interval 0 to 10. After that the remaining iterations will go on as in Table. 15. Thus the total number of iterations gone through will be $\aleph_0 + 1 = \aleph_0$. So the interval 0 to 10 will contain as many intervals as the interval 0 to 1 after $\aleph_0$ iterations. Further, $\aleph_0 + \aleph_0 = \aleph_0$. Therefore, if we begin with the interval 0 to $10^{\aleph_0}$ also, we will be left with $2^{\aleph_0}$ intervals of $\frac{1}{10^{\aleph_0}}$ after $\aleph_0$ iterations. But as mentioned in Section: 6, $10^{\aleph_0} = 2^{\aleph_0}$ is the upper limit of the countable numbers with place value notation. And so we can see that whether we start with the whole of the numberline or a tiny length of it and subject it to eight-by-ten Cantor set iteration, we will get $2^{\aleph_0}$ intervals of $\frac{1}{10^{\aleph_0}}$ in $\aleph_0$ steps.
 To understand the generation of real numbers in an even easier manner, we can construct another variation of the Cantor set. This time we divide the interval 0 to 1 into 10 equal parts and remove the alternate parts such that the remaining intervals are as shown in Fig.6.
 
-![Fig. 6](media/p21_page.png)
+![Fig. 6](media/p21_page.webp)
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 <!-- figure-meta: page=21, position=middle, type=diagram -->
 Each of the 5 remaining intervals is also subjected to division by 10 and removal of alternate parts. The outcome of this exercise after such iterations, is given in Table. 15.
 It is easy to see that intervals remaining in the five-by-ten Cantor set can be derived similar to the intervals remaining in the eight-by-ten Cantor set. These are,

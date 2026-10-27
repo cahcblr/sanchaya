@@ -307,11 +307,11 @@ The term *pada* (element) used above in the paraphrase would be corroborated fro
 "When the $n$th ordered set comes to the end of its complete revolution and goes again to its beginning, the $(n - 1)$th ordered set makes its elements proceed. When both come to the end and go again to the beginning, the $(n - 2)$th ordered set makes its elements proceed. The process remains on till the last element of the first ordered set is exhausted."
 See the following figure to realize rotation of the elements of an axle. Imagine that each vertical line of cells labelled ‘axle i’ on its top surrounds a cylinder and can rotate like a disk of a combination lock.
 
-![Fig. 10. rotation of the elements of an axle](media/p10_page.png)
+![Fig. 10. rotation of the elements of an axle](media/p10_page.webp)
 
 *Fig. 10. rotation of the elements of an axle*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=top, type=diagram -->
 
@@ -323,11 +323,11 @@ See the following figure to realize rotation of the elements of an axle. Imagine
 
 200 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 11. Diagram showing five axles labeled axle1 to axle5 with elements $p_{11}$ to $p_{14}$, $p_{21}$ to $p_{24}$, $p_{31}$ to $p_{35}$, $p_{41}$, and $p_{51}$](media/p11_page.png)
+![Fig. 11. Diagram showing five axles labeled axle1 to axle5 with elements $p_{11}$ to $p_{14}$, $p_{21}$ to $p_{24}$, $p_{31}$ to $p_{35}$, $p_{41}$, and $p_{51}$](media/p11_page.webp)
 
 *Fig. 11. Diagram showing five axles labeled axle1 to axle5 with elements $p_{11}$ to $p_{14}$, $p_{21}$ to $p_{24}$, $p_{31}$ to $p_{35}$, $p_{41}$, and $p_{51}$*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=top, type=diagram -->
 

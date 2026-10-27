@@ -31,7 +31,7 @@ This definition does not specifically and categorically classify quadrilaterals 
 
 Āryabhaṭa-II (c.950 CE) is famous for his only mathematical-cum astronomical treatise *Mahāsiddhāntaḥ*. Nowhere of the work he has mentioned about his parentage or anything about his personal testimony. A thorough study of this work reveals that he had an extraordinary mathematical wit of which the present article is a specimen.
 
-<!-- figure-resolved-page-render-hidden: image=media/p02_page.png caption="Fig. 1. Concave quadrilateral ABDC; AD is the external diagonal" -->
+<!-- figure-resolved-page-render-hidden: image=media/p02_page.webp caption="Fig. 1. Concave quadrilateral ABDC; AD is the external diagonal" -->
 
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 
@@ -41,11 +41,11 @@ The Geometrical part of *Mahāsiddhāntaḥ* (*Mahāsi.* Sans. com. by Sudhakara
 > But in a *śṛṅgāṭakacaturasra* (concave quadrilateral ABCD), we should consider the external diagonal as the thread joining the end-point (D) of the side (BD) on the right hand and the end-point (A) of the side (AB) lying to the left.
 Here, the conjunction ‘but’ has been used in the context of the former versified rules 71- 73 on the diagonals of a convex quadrilateral. For a ready reference, the verses are mentioned hereunder:
 
-![Fig. 2. General convex quadrilateral ABCD with the diagonals AC and BD](media/p02_page.png)
+![Fig. 2. General convex quadrilateral ABCD with the diagonals AC and BD](media/p02_page.webp)
 
 *Fig. 2. General convex quadrilateral ABCD with the diagonals AC and BD*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 
@@ -66,11 +66,11 @@ The verse 74 differentiating a concave quadrilateral from a convex one from the 
 *rekhāgaṇitasiddhāntena karṇamanaṃ tritīyabhujaṃ parikalpya sugamena bodhyeti—*
 *i.e.*, the sum of two sides of a triangle is greater than the third side and the difference of them is less than the third one.
 
-![Fig. 3. Convex quadrilateral](media/p03_page.png)
+![Fig. 3. Convex quadrilateral](media/p03_page.webp)
 
 *Fig. 3. Convex quadrilateral*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=bottom, type=diagram -->
 
@@ -81,11 +81,11 @@ The first pair of words form a part of the former verse. *Tadagrakīllambaḥ* f
 **Translation**
 In the triangle (formed by the external diagonal AD and the nearest pair of adjacent sides AC, CD) the perpendicular (CP) on the external diagonal (is drawn) from the extremity (C) of the side (DC) on the right-hand. (Also) the perpendiculars (AQ and DR) are drawn on the internal diagonal BC (produced) from the end-point (D) the side on the right-hand and also from the end-point (A) of the side to the left.
 
-![Fig. 4. Concave quadrilateral with perpendiculars from the vertices to the diagonals](media/p04_page.png)
+![Fig. 4. Concave quadrilateral with perpendiculars from the vertices to the diagonals](media/p04_page.webp)
 
 *Fig. 4. Concave quadrilateral with perpendiculars from the vertices to the diagonals*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=middle, type=diagram -->
 
@@ -113,11 +113,11 @@ $$= \text{Area of } \Delta ABD - \text{area of } \Delta ACD$$
 
 $$= \frac{1}{2} d_1(p_1 - p_2).$$
 
-![Fig. 5. Concave quadrilateral with perpendiculars BQ, CR from vertices B and C to AD, the external diagonal](media/p05_page.png)
+![Fig. 5. Concave quadrilateral with perpendiculars BQ, CR from vertices B and C to AD, the external diagonal](media/p05_page.webp)
 
 *Fig. 5. Concave quadrilateral with perpendiculars BQ, CR from vertices B and C to AD, the external diagonal*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=top, type=diagram -->
 
@@ -134,17 +134,17 @@ Shukla (1976, p. 58)
 **Translation:**
 Tell me quickly the height (*ūrdhabhujāparimāṇaṃ*) of a *śṛṅgāṭaka* solid body (whose three lateral edges converge at a point above the base) with six equal edges (*aśri*) each of length 12 unit.
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 6. Śṛṅgāṭaka ghana with each edge 12 unit long" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 6. Śṛṅgāṭaka ghana with each edge 12 unit long" -->
 
 <!-- figure-meta: page=6, position=top, type=diagram -->
 
 In the fig.6, $PA=PB=PC=AB=BC=CA = 12$ unit. Let O be the centroid of ABC. According to Nīlkaṇṭha, O is the *pāta* and the *ūrdhabhujā* $PO =$ the height of the pyramid (According to Nīlkaṇṭha, each of PO, BO, CO is termed a *pātarekhā* [Āryabhaṭīya, Nīlkaṇṭha’s Sans. com. ed. Sambasiva, (1930), p.30]. The calculation shown by Bhāskara-I is this: The right bisector CD (called *avalambaka*) of AB in the equilateral ABC (base of the pyramid) $= \sqrt{12^2 - 6^2} = \sqrt{108}$, (written as *ka* 108) when $BD = \frac{1}{2}BA = 6 = \sqrt{36}$
 
-![Fig. 7. Length of the pātarekhā BO](media/p06_page.png)
+![Fig. 7. Length of the pātarekhā BO](media/p06_page.webp)
 
 *Fig. 7. Length of the pātarekhā BO*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=middle, type=diagram -->
 
@@ -169,11 +169,11 @@ The computation of the height of the pyramid has been done by the commentator th
 **Translation:**
 The middle-most span of a crescent of the Moon (in the last quarter of the dark half or in the first quarter of the bright half of a lunar month) is 16 cubit and the distance between the horns is 3 cubit. Taking the two halves (of the crescent) for triangles, find quickly the area (of the plane figure of the said shape).
 
-![Fig. 8. Crescent of the Moon: a special case of a concave quadrilateral](media/p07_page.png)
+![Fig. 8. Crescent of the Moon: a special case of a concave quadrilateral](media/p07_page.webp)
 
 *Fig. 8. Crescent of the Moon: a special case of a concave quadrilateral*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=middle, type=diagram -->
 
@@ -225,11 +225,11 @@ The verse in which the word *ayanāṃśa* occurs in the chapter *spaṣṭādhi
 *ayanagrahaḥ*- longitude of a planet which is affected by ecliptic deviation.
 {Here the *ayanagrahaḥ* has been taken for a heavenly body (hence forth we shall mention it as a planet just to maintain parity with the author’s sense) moving along the ecliptic and therefore, it is the Sun because, the Sun alone moves along the ecliptic}, *do*-i.e., *bhujā*-the base, *krānti* – declination (of a star), (it is angular distance of the planet in the ecliptic from the equator measured along the vertical through the planet ), *krāntijyācāpaṃ* - the arc of the declination, *kendravat dhanaṛṇaṃ* - (this is) positive or negative like the *kendras*, where by *kendras* are meant the *mandakendra* (anomaly) and the *śīghrakendra* ($180^\circ \pm$ commutation), *ayanalavā-ayanāṃśāḥ* (the portion of the ecliptic passed over) *khetāt*-from a celestial body, *cara*- ascensional difference, *pala*- (1/60) of a *ghaṭi*.
 
-![Fig. 9. Spherical triangle showing ayanagraha P, declination $\delta = PM$, longitude $\Upsilon P$](media/p09_page.png)
+![Fig. 9. Spherical triangle showing ayanagraha P, declination $\delta = PM$, longitude $\Upsilon P$](media/p09_page.webp)
 
 *Fig. 9. Spherical triangle showing ayanagraha P, declination $\delta = PM$, longitude $\Upsilon P$*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=bottom, type=diagram -->
 
@@ -245,11 +245,11 @@ According to the elucidation and commentary by the commentator Sudhākara Dvived
 > Verse no . 16.
 i.e., the arc drawn from the position of a planet (in the ecliptic) perpendicular to the equator is the *krānti* or *apama* of the planet—*golabandhādhikāraḥ*, verse 16 of Bhāskarācārya-II [*Bhā, golā*, Sans. com. by Marīchi, (1988), p.240] .
 
-![Fig. 10. Ayanagraha P and its krānti PM](media/p10_page.png)
+![Fig. 10. Ayanagraha P and its krānti PM](media/p10_page.webp)
 
 *Fig. 10. Ayanagraha P and its krānti PM*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=diagram -->
 
@@ -274,11 +274,11 @@ For a ready reference, the verses are mentioned below:
 *tataḥ kṣepyaḥ ||19*
 **Translation:** The point of intersection of the celestial equator (*viṣuvavat*) and the ecliptic (*krāntivalaya*) is the *krantipātaḥ*. In *saūrasiddhāntaḥ*, it has been stated that the point of intersection moves in the reverse direction (i.e., west-ward) and revolves three thousand times in a *kalpa*. What *Muñjala* said previously about the precession is this : in one *kalpa* the said point of intersection revolves 199669 times, The arc (of the ecliptic) from the initial position of the first point of Aries to its position at the desired epoch (i.e., $\gamma\gamma_1$) is the precession of the equinox and it should added to the position of the planet for finding the declination on which depends the half of the ascensional difference and the epochs of the rising of signs and hence the precession should be added to them to know the actual ascensional difference and the ascendant.
 
-![Fig. 11. Precession of equinox from γ to γ₁ and the declination PM of the planet P on the ecliptic](media/p11_page.png)
+![Fig. 11. Precession of equinox from γ to γ₁ and the declination PM of the planet P on the ecliptic](media/p11_page.webp)
 
 *Fig. 11. Precession of equinox from γ to γ₁ and the declination PM of the planet P on the ecliptic*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle-left, type=diagram -->
 

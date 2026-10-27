@@ -27,11 +27,11 @@ nature of planetary orbits was finally established and the epicyclical system ab
 Fig. 1a shows the basic components of an epicyclical system. It consists of a smaller circle (the epicycle), on which the planet moves and a larger circle (the deferent) over which the epicycle itself moves. By varying the sizes of the two circles and the speeds of the planet and epicycle, it is possible to obtain a variety of orbital shapes[^1], some of which are shown in Fig. 1b. The orbital shape that concerns us in this article is the ellipse. It is a well-known result that an ellipse of any shape can be created from a suitable epicyclical system. The converse however is not true.
 Apart from the geometrical aspects, the epicycle has another side to it. It has the dubious distinction of being at the center of an east-west historical controversy. In the 19th century the colonial English masters of India, no doubt following the dictum that rulers cannot afford to look inferior to the ruled, put forth the hypothesis that Indian astronomy was borrowed wholesale from their European cousins, the Greeks. Their argument was made through doubtful and occasionally bizarre conjectures arising from twisting of facts coupled with a stratagem of ignoring any evidence to the contrary. The epicycle, being common to both Indian and Greek systems, was the *pièce-de-résistance* of their case. Now though present in both, a detailed study of the epicycle in the two systems reveals several
 
-![Fig. 1. The Epicyclical system](media/p02_page.png)
+![Fig. 1. The Epicyclical system](media/p02_page.webp)
 
 *Fig. 1. The Epicyclical system*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=2, position=top, type=diagram -->
 
@@ -43,11 +43,11 @@ It is however not the aim of this paper to compare Indian and Greek epicycles in
 The Indian astronomical system has two schemes for describing planetary orbits: (1) single-epicycle and (2) dual-epicycle. The former is simpler and is applied to the orbits of the Sun and the Moon. The latter is more complex and is used for the orbits of the five visible planets. In this paper we will confine ourselves to the simpler single-epicycle system.
 Compared to the constant-radius Greek one, the Indian epicycle has the remarkable feature that it contracts and expands (pulsates) as it moves on the deferent. This is shown pictorially in Fig. 2. The epicycle starts out moving counterclockwise from the apogee (A). At this point the planet is farthest from the
 
-![Fig. 2. The Pulsating Epicycle](media/p03_page.png)
+![Fig. 2. The Pulsating Epicycle](media/p03_page.webp)
 
 *Fig. 2. The Pulsating Epicycle*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=3, position=bottom, type=diagram -->
 
@@ -63,11 +63,11 @@ For this paper the Indian text we will refer is the *Sūrya-Siddhānta*[^3], the
 
 To the very ancient people, the Sun and the Moon appeared to be moving in uniform circular orbits around the Earth; at least they assumed it so. Since however the actual orbit of these bodies is elliptical, there obviously arose a discrepancy between the assumption of uniform circular motion and actual observational data. The heavenly body seemed at times to be nearer to the Earth and at other times farther away. Also, when nearer it appeared to be moving faster and when farther its motion was visibly slower. This set of discrepancies, that showed a departure from uniform circular motion, was termed the ‘First Inequality’.
 
-![Fig. 3. The Simple Epicycle and Eccentric](media/p05_page.png)
+![Fig. 3. The Simple Epicycle and Eccentric](media/p05_page.webp)
 
 *Fig. 3. The Simple Epicycle and Eccentric*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=5, position=middle, type=diagram -->
 
@@ -102,11 +102,11 @@ It is seen from Eqns. (3) and (4) that the resultant orbit of the planet is a ci
 Fig. 4 shows, for illustrative purposes only, a comparison of mean and true longitudes of three types of orbits - uniform circular, eccentric and elliptic. For uniform circular motion the mean and true longitudes are always equal and so its graph is a straight line. For the eccentric and elliptic orbits, the planet’s speed is slowest at apogee. Thus the true longitude starts falling behind the mean from that point. However after leaving the apogee the planet picks up speed as seen by the rising slope in the two cases and by perigee the true longitude has caught up with the mean. After perigee the planet’s true longitude overtakes the mean, but now its speed is falling. This falling speed eventually lets the mean longitude catch up with the true so that by the time the apogee is reached, the mean and true longitudes are equal once again. Note that a high value of elliptic eccentricity was chosen for this figure since it is for illustrative purposes only. For realistic orbital eccentricities of the Sun or Moon, which are quite low, the difference between the eccentric and elliptic orbits will be too small to be discernable in this graph.
 We note from Fig. 4 that the simple epicycle orbit (i.e. eccentric) matches exactly with the elliptic orbit at only two points – the apogee and the perigee. At all other points it is off by various amounts. These additional discrepancies between calculated (eccentric) and actual (elliptic) longitudes are called the second inequality, third inequality and so on. Both the Greeks and the Indians have handled these secondary inequalities by introducing complexities in the simple epicycle model of Fig. 3.
 
-![Fig. 4. Variation of Mean and True longitudes for various orbits](media/p07_page.png)
+![Fig. 4. Variation of Mean and True longitudes for various orbits](media/p07_page.webp)
 
 *Fig. 4. Variation of Mean and True longitudes for various orbits*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=7, position=middle, type=graph -->
 
@@ -117,11 +117,11 @@ Lunar motion is complex enough to warrant a separate article and so we will not 
 
 Fig. 5 shows the pulsating Indian epicycle scheme in detail. The epicycle starts out from the apogee A, where the planet is on the far side at V on the epicycle. At this point it is farthest from the earth (E). As it moves counterclockwise, the epicycle’s radius contracts till it reaches a minimum at the quadrature C. The planet meanwhile is moving clockwise on the epicycle with an angular velocity that is equal to that of the epicycle on the deferent.
 
-![Fig. 5. The Pulsating Indian Epicycle Scheme](media/p08_page.png)
+![Fig. 5. The Pulsating Indian Epicycle Scheme](media/p08_page.webp)
 
 *Fig. 5. The Pulsating Indian Epicycle Scheme*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=8, position=middle, type=diagram -->
 
@@ -196,11 +196,11 @@ Using Eqns. (13) and (14), we can now proceed to compute a planet’s actual pos
 The orbit of the Sun makes a simple case for comparing Indian and Greek epicycle systems as described above. Though an ellipse, the eccentricity of this orbit is so small that it is very close to being a circle. The Greek model, which is a simple epicycle equivalent to an eccentric, yielded satisfactory results as far as the Greeks were concerned. It would be interesting to test the Indian model on the Sun’s orbit and in the process discover why the ancient Indians were unsatisfied by the accuracy of the simple epicycle and chose to employ the pulsating scheme instead.
 For the Sun, Ptolemy has used a deferent-epicycle combination with radii of $120$ and $5$ units respectively. We will use the same deferent radius ($120$ units) for the Indian epicycle. The maximum and minimum radii of the pulsating Indian epicycle for the Sun then work out to be $4.6667$ and $4.5556$ units respectively.
 
-![Fig. 6. Indian and Greek Error Curves for the Sun’s Longitude](media/p11_page.png)
+![Fig. 6. Indian and Greek Error Curves for the Sun’s Longitude](media/p11_page.webp)
 
 *Fig. 6. Indian and Greek Error Curves for the Sun’s Longitude*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=graph -->
 
@@ -208,19 +208,19 @@ Next, to determine the Sun’s actual longitude we will employ well-known empiri
 Fig. 6 shows the result of the above effort. It shows the Indian and Greek error curves at two epochs: 2000 AD and 100 AD. The latter epoch was chosen keeping in mind the approximate time of Ptolemy. It can be seen from the figure that the Greek solar model yields fairly good results - the maximum error in longitude is $30$ minutes or half-a-degree in 2000 AD and $24$ minutes in 100 AD. The equivalent curves in the figure for the pulsating Indian epicycle are seen to provide a substantial improvement over the Greek. For the 100 AD epoch, the maximum Indian error is only about $10\frac{1}{2}$ minutes - less than half of the Greek.
 Having tested the Indian and Greek models at Ptolemy’s epoch of 100 AD, next we will attempt to test the Indian model for more ancient times. Some scholars[^6][^7] believe the original *Sūrya-Siddhānta* to have been composed between 3000 BC and 8000 BC, though most modern scholars place the available version of the text at about 1000 AD. We shall therefore move backwards in time in steps of 1000 years starting from 2000 AD till 10000 BC and determine the Solar error curves for the Indian model at each epoch. Fig. 7 shows the result of the above effort. It is very interesting, not to mention pleasantly surprising, to observe that the Indian epicycle grows progressively more accurate as we move back in time.
 
-![Fig. 7. Variation of Solar Longitudinal Error with Time for the Pulsating Indian Epicycle](media/p12_page.png)
+![Fig. 7. Variation of Solar Longitudinal Error with Time for the Pulsating Indian Epicycle](media/p12_page.webp)
 
 *Fig. 7. Variation of Solar Longitudinal Error with Time for the Pulsating Indian Epicycle*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=bottom, type=graph -->
 
-![Fig. 8. Variation of Maximum Solar Longitudinal Error with Time for the Pulsating Indian Epicycle](media/p13_page.png)
+![Fig. 8. Variation of Maximum Solar Longitudinal Error with Time for the Pulsating Indian Epicycle](media/p13_page.webp)
 
 *Fig. 8. Variation of Maximum Solar Longitudinal Error with Time for the Pulsating Indian Epicycle*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=top, type=graph -->
 

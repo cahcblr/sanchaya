@@ -46,9 +46,9 @@ In Fig. 1 a given square $ABCD$ of side $s$ is shown along with its circumcircle
 
 $$OA = s/\sqrt{2} = \sqrt{2} s/2$$
 
-![Fig. 1. A square ABCD with its circumcircle and an equal-area circle point T.](media/p03_page.png)
+![Fig. 1. A square ABCD with its circumcircle and an equal-area circle point T.](media/p03_page.webp)
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 <!-- figure-meta: page=3, position=top, type=diagram -->
 Let $G$ be the middle point of $AB$ and let $OG$ produced meet the circumcircle at $E$ (in ancient diagrams the east direction was taken upwards). If $r$ is the radius of the circle whose area is exactly equal to that of the given square, we must have
 
@@ -94,9 +94,9 @@ $$= 2 OT$$
 Thus, the size of the circle obtained will be same whether we get it by constructing Fig. 1 or Fig. 2.
 A few years ago, the present author had given a new interpretation of the second part of *MSS*, 11.15 (pp. 66 and 136), to suggest that the implied rule amounts to taking[^5]
 
-![Fig. 2. Construction for CT = CB + BE/3.](media/p04_page.png)
+![Fig. 2. Construction for CT = CB + BE/3.](media/p04_page.webp)
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 <!-- figure-meta: page=4, position=bottom, type=diagram -->
 
 $$OT = OE - OE/5 \dots (11)$$
@@ -154,7 +154,7 @@ $$\pi (d/2)^2 = s^2 = 3d^2/4 \dots (22)$$
 86
 R.C. GUPTA
 
-![Fig. 3](media/p06_page.png)
+![Fig. 3](media/p06_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=86 corrected_page=6 strategy=printed-page-offset -->
 <!-- figure-meta: page=86, position=top, type=diagram -->

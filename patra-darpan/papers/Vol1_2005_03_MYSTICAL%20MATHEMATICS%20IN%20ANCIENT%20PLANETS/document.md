@@ -91,11 +91,11 @@ The placement of planets in *navagraha maṇḍala* is shown in Fig. 1
 | | KETU sword-figure | SATURN snake-figure | RĀHU Crocodile-figure | |
 | | West | |
 
-![Fig. 1. Navagraha-maṇḍala](media/p06_page.png)
+![Fig. 1. Navagraha-maṇḍala](media/p06_page.webp)
 
 *Fig. 1. Navagraha-maṇḍala*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=top, type=diagram -->
 
@@ -110,11 +110,11 @@ The names of the *maṇḍala* figures representing the planets are also depicte
 ***
 MYSTICAL MATHEMATICS OF ANCIENT PLANETS 37
 
-![Fig. 2. Diagram showing Navagraha-maṇḍala with Devanagari labels.](media/p07_page.png)
+![Fig. 2. Diagram showing Navagraha-maṇḍala with Devanagari labels.](media/p07_page.webp)
 
 *Fig. 2. Diagram showing Navagraha-maṇḍala with Devanagari labels.*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
@@ -156,24 +156,24 @@ Out of various figures prescribed as ritual symbols of *grahas* (ancient planets
 ***
 MYSTICAL MATHEMATICS OF ANCIENT PLANETS 39
 
-<!-- figure-resolved-page-render-hidden: image=media/p09_page.png caption="Fig. 3. Śrīyantra diagram" -->
+<!-- figure-resolved-page-render-hidden: image=media/p09_page.webp caption="Fig. 3. Śrīyantra diagram" -->
 
 <!-- figure-meta: page=9, position=top, type=diagram -->
 
 Fig. 3
 Briefly stated, the *padma* of lotus figure [^16] is a flowery design. Most commonly used figure of lotus has 8 petals which are symmetrically arranged usually in a circle. The outer part of a petal may be relatively longer or broader and is of three types, namely, (i) round, (ii) simply-pointed, (iii) inflectional or ogee-form. In Fig. 3, the triangular complex is surrounded by a lotus figure of 8 petals of inflectional type, i.e., each of the two sides of every petal has a point of inflexion where the curvature changes.
 
-<!-- figure-resolved-page-render-hidden: image=media/p09_page.png caption="Fig. 4. Simple 8-petalled lotus design" -->
+<!-- figure-resolved-page-render-hidden: image=media/p09_page.webp caption="Fig. 4. Simple 8-petalled lotus design" -->
 
 <!-- figure-meta: page=9, position=bottom, type=diagram -->
 
 Fig. 4
 
-![Fig. 5. Lotus design with pointed petals and central circle](media/p09_page.png)
+![Fig. 5. Lotus design with pointed petals and central circle](media/p09_page.webp)
 
 *Fig. 5. Lotus design with pointed petals and central circle*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=bottom, type=diagram -->
 
@@ -182,11 +182,11 @@ Fig. 5
 40 INDIAN JOURNAL OF HISTORY OF SCIENCE
 The figures representing real pictures or forms of bow, sword, snake, man and *makara* are difficult to define exactly or uniquely in a mathematical sense unless there is some common and acceptable understanding. Moreover, such figures also need some sort of artistic talent to draw them with reasonable and good-looking forms (to avoid the wrath of deities). There was a need to geometrize and mathematize some figures, and this was done. The bow-figure was obtained by the following construction (see Fig. 6).
 
-![Fig. 6. Geometric construction of a bow-figure using intersecting circles and tangents.](media/p10_page.png)
+![Fig. 6. Geometric construction of a bow-figure using intersecting circles and tangents.](media/p10_page.webp)
 
 *Fig. 6. Geometric construction of a bow-figure using intersecting circles and tangents.*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=diagram -->
 
@@ -221,22 +221,22 @@ By this method we get the bow-shaped figure $YPUQZY$ (see Fig. 8).
 
 MYSTICAL MATHEMATICS OF ANCIENT PLANETS 41
 
-<!-- figure-resolved-page-render-hidden: image=media/p11_page.png caption="Fig. 7" -->
+<!-- figure-resolved-page-render-hidden: image=media/p11_page.webp caption="Fig. 7" -->
 
 <!-- figure-meta: page=11, position=top, type=diagram -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p11_page.png caption="Fig. 8" -->
+<!-- figure-resolved-page-render-hidden: image=media/p11_page.webp caption="Fig. 8" -->
 
 <!-- figure-meta: page=11, position=middle, type=diagram -->
 
 Even man’s figure (*narākṛti*) was geometrized with the help of a circle (representing head) and 5 trapezia (representing other parts) for ritual purpose (see Fig. 9).
 There was effort in another direction as steps towards well-defined geometrical forms and some sort of standardization. It seems that to make the matter easy and practical, simpler figures were accepted in place of non-mathematical forms (snake, man, and makara). Some new figures (arrow, flag, *śūrpa* etc.) were incorporated. Some other changes were also made. The star-like *pañca-koṇa* (pentagram) was taken to represent the beautiful white shining star-*graha* Venus.[^20]
 
-![Fig. 9](media/p11_page.png)
+![Fig. 9](media/p11_page.webp)
 
 *Fig. 9*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=bottom-right, type=diagram -->
 
@@ -244,11 +244,11 @@ This new allotment to Venus made its older symbol (viz. square) free for others 
 Thus we find the following verses describing the *maṇḍala* figures of the *grahas* to be used for worship alternatively (*athavā*):[^21]
 42 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 10](media/p12_page.png)
+![Fig. 10](media/p12_page.webp)
 
 *Fig. 10*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=top, type=diagram -->
 
@@ -266,11 +266,11 @@ According to Kulkarni,[^24] the height of each planet-seat (or base) should be $
 More complicated mathematization of figures was needed when the worshipping of the planets was done through *havana-yajña* which needed *agni-kuṇḍas* (fire-pits). Fortunately, the sectional figures of these pits for the planets are the same as their *pīṭha*-figures.[^25] In any case, the important thing was to specify each figure geometrically in a well-defined mathematical manner. To avoid wrath of deities, the fire-pits of various laid down shapes must be constructed accurately. For this correct calculation of dimensions of the sectional figures was needed. In addition to the construction of appropriate *vedīs*, attention is needed to the accessories of *kuṇḍas* such as *mekhalā* (belt), *kaṇṭha* (throat), *nābhi* (navel), etc.
 Here, we shall briefly talk about the main fire-pits (*kuṇḍas*) only as used in the *graha-yajña*. The shapes of the pits for Sun (circle), Moon (square), Mars (triangle) and Jupiter (rectangle) are familiar figures. Mercury’s figure of pit (arrow with triangular head) and that of Ketu (triangular flag with thin strip as mast) are simple geometrical forms. The figure of bow (for Saturn) is already discussed above. Rāhu’s fire-pit is in the form of *śūrpa* (winnowing basket) whose one method of construction is as follows: (Fig. 11):[^26]
 
-![Fig. 11](media/p13_page.png)
+![Fig. 11](media/p13_page.webp)
 
 *Fig. 11*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=bottom, type=diagram -->
 
@@ -292,15 +292,15 @@ The diagram of the Sun’s *yantra* as given in the *Puraścaryārṇava*[^30] i
 According to a statement in the same work,[^32] the Moon’s *yantra* will be same as Sun’s *yantra*. But elsewhere,[^33] the Moon’s *yantra* is given quite differently. It is shown in Fig. 13 after omitting the *candra-mantra* and some numerical figures. Unfortunately, the original source or other reference is not mentioned for the drawing of Fig. 13.
 The case of *Maṅgala-yantra* (for the next planet, Mars) is quite interesting and significant. We have seen above (see Table 1) that the *Maṅgala maṇḍala*, the figure (*ākṛti*) related to Mars is a triangle invariably. Historically, the Mars-*yantra* seems to be a natural and logical evolution from the basic triangular motive. The diagram (Fig. 14) consists of an original equilateral triangle ABC subdivided into 21 smaller triangles called *koṣṭhas* or cells.
 
-<!-- figure-resolved-page-render-hidden: image=media/p15_page.png caption="Fig. 12" -->
+<!-- figure-resolved-page-render-hidden: image=media/p15_page.webp caption="Fig. 12" -->
 
 <!-- figure-meta: page=15, position=bottom-left, type=diagram -->
 
-![Fig. 13](media/p15_page.png)
+![Fig. 13](media/p15_page.webp)
 
 *Fig. 13*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=bottom-right, type=diagram -->
 
@@ -361,11 +361,11 @@ Of course, $DG = (3/5) BC = 3a/5$
 and $YZ = (4/5) BC = 4a/5$ ...... (2)
 We can argue in another ways as well. The equidistant lines $L_1$ to $L_4$ are all parallel to the base BC whose length is $a$. Therefore the lengths of the first,
 
-![Fig. 14 and Fig. 15](media/p17_page.png)
+![Fig. 14 and Fig. 15](media/p17_page.webp)
 
 *Fig. 14 and Fig. 15*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=bottom, type=diagram -->
 

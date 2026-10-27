@@ -94,15 +94,15 @@ The same is illustrated in Figs 1 and 2, which show positions of pointer at diff
 We know that Indian demarkated 27 *nakṣatras* along the ecliptic to denote approximate positions of the moon on each day of the month. This means each *nakṣatra* should be placed at the intervals of roughly $13^\circ$ in the sky. Our simulations show us that at no time since 7900 BC pointer moved with the rate of $13^\circ$ per century. The highest relative rotation rate (motion
 SAPTARṢI’S VISIT TO DIFFERENT NAKṢATRAS 141
 
-<!-- figure-resolved-page-render-hidden: image=media/p09_page.png caption="Fig. 1. Position of pointer for 2000 AD. The centre of each figure is then celestial pole. Dotted line represents celestial equator. The stars are shown by '+' marks. The nakṣatras along the equator are marked by their easternmost and westernmost stars." -->
+<!-- figure-resolved-page-render-hidden: image=media/p09_page.webp caption="Fig. 1. Position of pointer for 2000 AD. The centre of each figure is then celestial pole. Dotted line represents celestial equator. The stars are shown by '+' marks. The nakṣatras along the equator are marked by their easternmost and westernmost stars." -->
 
 <!-- figure-meta: page=9, position=top, type=graph -->
 
-![Fig. 2. Position of pointer for 2150 BC (Left) and enlarged section showing part of ecliptic (right). The centre of each figure is then celestial pole. Legend is same as Fig. 1](media/p09_page.png)
+![Fig. 2. Position of pointer for 2150 BC (Left) and enlarged section showing part of ecliptic (right). The centre of each figure is then celestial pole. Legend is same as Fig. 1](media/p09_page.webp)
 
 *Fig. 2. Position of pointer for 2150 BC (Left) and enlarged section showing part of ecliptic (right). The centre of each figure is then celestial pole. Legend is same as Fig. 1*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=bottom, type=graph -->
 

@@ -26,11 +26,11 @@ Since the *DP-rite* is connected with the moon it is natural to question whether
 
 The construction of the DP-altar invariably called the *vedi* or the *antarvedi* is described in the various *Śulba-sūtra* texts (ed. Sen and Bag, 1983, pp.174-175). The details are same in all the texts except for minor differences. An isosceles trapezium ABCD as shown in Fig.1 is constructed symmetrically about the east-west line. The eastern and the western sides AC and BD are respectively $48$ and $64$ *aṅgula* long. The height of the
 
-![Fig. 1. Construction of the DP-vedi as prescribed in the Śulbasūtra.](media/p02_page.png)
+![Fig. 1. Construction of the DP-vedi as prescribed in the Śulbasūtra.](media/p02_page.webp)
 
 *Fig. 1. Construction of the DP-vedi as prescribed in the Śulbasūtra.*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 
 <!-- figure-meta: page=2, position=bottom, type=diagram -->
 
@@ -41,11 +41,11 @@ trapezium is $96$ *aṅgula*. With points C and D fixed, a rope of length $2CD$ 
 
 An important concept associated with Vedic altars is their shape and area. The principle of equivalence of the areas of the circular *gārhapatya*, square *āhavanīya* and the semicircular *dakṣiṇāgni* altars has been discussed in the past by several persons and hence will not be detailed here. Vedic symbolism equates the *gārhapatya* altar with the earth and the *āhavanīya* in the east with the sky (*Śatapatha Brāhmaṇa* 7.1.1.13 and 8.2.1.2). All texts are clear that the three fire altars should have equal area of one *vyāma* and built in five layers using burnt bricks of prescribed numbers and sizes. The *DP-vedi* is situated within the space enclosed by the above three as shown in Fig. 2, but is neither built in five layers nor with any special bricks. No fire is lit on the *DP-vedi* even though it is as important as the others in the
 
-![Fig. 2. The elongated altar is the DP-vedi. The circular gārhapatya the square āhavanīya and the semi-circular dakṣiṇāgni fire altars are of equal area. (source: http://world.mitrasites.com/imgs/vedic-altars.html).](media/p03_page.png)
+![Fig. 2. The elongated altar is the DP-vedi. The circular gārhapatya the square āhavanīya and the semi-circular dakṣiṇāgni fire altars are of equal area. (source: http://world.mitrasites.com/imgs/vedic-altars.html).](media/p03_page.webp)
 
 *Fig. 2. The elongated altar is the DP-vedi. The circular gārhapatya the square āhavanīya and the semi-circular dakṣiṇāgni fire altars are of equal area. (source: http://world.mitrasites.com/imgs/vedic-altars.html).*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=bottom, type=photograph -->
 
@@ -70,11 +70,11 @@ Moon is the fastest celestial object for viewers on earth. The orbit is known to
 518 INDIAN JOURNAL OF HISTORY OF SCIENCE
 fortnights for a period of 3339 *tithi* by placing a piece of stone on the ground, the shape of the resulting figure would have been similar to the *DP-vedi*. A verification of this claim is provided in Fig.3.
 
-![Fig. 3. Location of Moon on 3339 dark nights starting with a Lunar eclipse.](media/p06_page.png)
+![Fig. 3. Location of Moon on 3339 dark nights starting with a Lunar eclipse.](media/p06_page.webp)
 
 *Fig. 3. Location of Moon on 3339 dark nights starting with a Lunar eclipse.*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=middle, type=graph -->
 

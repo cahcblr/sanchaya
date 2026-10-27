@@ -182,7 +182,7 @@ The inference to be drawn from these dates is that measurements and not mere the
 ASTRONOMY IN ANCIENT INDIA 217
 and *Pulisa Siddhāntas*, that are obviously of a non-Indian inspiration, had to be cast in the framework of Indian astronomy.
 
-![Fig. 1. Differences in Longitudes (*Sūryasiddhānta*)](media/p13_page.png)
+![Fig. 1. Differences in Longitudes (*Sūryasiddhānta*)](media/p13_page.webp)
 
 *Fig. 1. Differences in Longitudes (*Sūryasiddhānta*)*
 
@@ -194,7 +194,7 @@ In conclusion, there is strong evidence to date the *Vedāṅga Jyotiṣa* of La
 218 SUBHASH C. KAK
 epicycle theories must have developed independently. Only an independent development explains the resistance in India to the later advances of Greek astronomy.
 
-![Fig. 2. Difference in Longitudes (*Āryabhaṭīya*)](media/p14_page.png)
+![Fig. 2. Difference in Longitudes (*Āryabhaṭīya*)](media/p14_page.webp)
 
 *Fig. 2. Difference in Longitudes (*Āryabhaṭīya*)*
 
@@ -204,7 +204,7 @@ epicycle theories must have developed independently. Only an independent develop
 
 ASTRONOMY IN ANICENT INDIA 219
 
-![Fig. 3. Difference in Longitudes (*Lalla*)](media/p15_page.png)
+![Fig. 3. Difference in Longitudes (*Lalla*)](media/p15_page.webp)
 
 *Fig. 3. Difference in Longitudes (*Lalla*)*
 

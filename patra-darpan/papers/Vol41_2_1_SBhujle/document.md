@@ -153,11 +153,11 @@ In order to determine the relative angular displacement of the Moon from the Sun
 Since both ‘$b$’ and ‘$c$’ are trigonometric we can calculate them by the equations given below :
 CALCULATIONS OF $\textit{TITHIS}$ 141
 
-![Fig. 1. Variation of ‘b’ and ‘c’ over 1 lunar month (divided into 1000 parts)](media/p09_page.png)
+![Fig. 1. Variation of ‘b’ and ‘c’ over 1 lunar month (divided into 1000 parts)](media/p09_page.webp)
 
 *Fig. 1. Variation of ‘b’ and ‘c’ over 1 lunar month (divided into 1000 parts)*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=top, type=graph -->
 
@@ -208,11 +208,11 @@ CALCULATIONS OF *TITHIS* | 143
 There after, all *Guḍī Pāḍwā* days are calculated based from this day, with a quasi periodicity of 354 days with re-normalisation done when an additional month is added every few years as discussed above. In some cases, this may imply that the month of *Caitra* that is supposed to herald the beginning of spring may come earlier or later than the actual beginning of the season of spring.
 The years with intercalated month have 383-385 days and normal year has 353 - 355 days. All calculations are based on *Guḍī Pāḍwā* as the first day of the year. The *Guḍī Pāḍwā* day itself is the day after new Moon day of the month *Caitra*. The lunar year is $354 (29.5 \times 12)$ days and hence the *Guḍī Pāḍwā* is earlier by 11 days every year, if no corrections are made. In order to synchronize with the solar year therefore an additional month “*adhikāmāsa*” is added every $3^{\text{rd}}$, $5^{\text{th}}$, $8^{\text{th}}$, $11^{\text{th}}$, $14^{\text{th}}$, $16^{\text{th}}$ and $19^{\text{th}}$ year. In Fig. 2 we have plotted the
 
-![Fig. 2. Plot of the Day of Guḍī Pāḍwā compared to previous year’s Guḍī Pāḍwā day as a function of years for one 19 year cycle. Year 1 is 400 AD. The number near each point corresponds to the year number in the sequence. Note that the difference is about -11 days corresponding to the difference between the length of lunar and solar year. During the months of adhika māsa (i.e. years with intercalary months, namely $3^{\text{rd}}$, $5^{\text{th}}$, $8^{\text{th}}$, $11^{\text{th}}$, $14^{\text{th}}$, $16^{\text{th}}$ and $19^{\text{th}}$ year) the difference changes from - 11 days to +18 days. A precession cycle of 19 years ensures that the pattern is repeated every 19 years and hence only one cycle is shown.](media/p11_page.png)
+![Fig. 2. Plot of the Day of Guḍī Pāḍwā compared to previous year’s Guḍī Pāḍwā day as a function of years for one 19 year cycle. Year 1 is 400 AD. The number near each point corresponds to the year number in the sequence. Note that the difference is about -11 days corresponding to the difference between the length of lunar and solar year. During the months of adhika māsa (i.e. years with intercalary months, namely $3^{\text{rd}}$, $5^{\text{th}}$, $8^{\text{th}}$, $11^{\text{th}}$, $14^{\text{th}}$, $16^{\text{th}}$ and $19^{\text{th}}$ year) the difference changes from - 11 days to +18 days. A precession cycle of 19 years ensures that the pattern is repeated every 19 years and hence only one cycle is shown.](media/p11_page.webp)
 
 *Fig. 2. Plot of the Day of Guḍī Pāḍwā compared to previous year’s Guḍī Pāḍwā day as a function of years for one 19 year cycle. Year 1 is 400 AD. The number near each point corresponds to the year number in the sequence. Note that the difference is about -11 days corresponding to the difference between the length of lunar and solar year. During the months of adhika māsa (i.e. years with intercalary months, namely $3^{\text{rd}}$, $5^{\text{th}}$, $8^{\text{th}}$, $11^{\text{th}}$, $14^{\text{th}}$, $16^{\text{th}}$ and $19^{\text{th}}$ year) the difference changes from - 11 days to +18 days. A precession cycle of 19 years ensures that the pattern is repeated every 19 years and hence only one cycle is shown.*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=graph -->
 
@@ -264,15 +264,15 @@ b) Now calculate the number of days from the *Guḍī Pāḍwā* for $d_y$ by su
 c) To determine the value of a *Guḍī Pāḍwā* use Table 5. Using the appropriate value of $a_{Guḍī Pāḍwā}$ compute equation (7) to get the value of $a_{(calculated)}$ using the values of $C_1$ to $C_4$ from equations (6a) and (6b).
 146 | INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p14_page.png caption="Fig. 3. Difference between calculated tithi and New Moon days determined from Solar Eclipse. The best fit line is difference in days = -0.003 $\\times$ year +0.6994. The reduced $\\chi^2$ is 0.9401. Note that the year is in AD." -->
+<!-- figure-resolved-page-render-hidden: image=media/p14_page.webp caption="Fig. 3. Difference between calculated tithi and New Moon days determined from Solar Eclipse. The best fit line is difference in days = -0.003 $\\times$ year +0.6994. The reduced $\\chi^2$ is 0.9401. Note that the year is in AD." -->
 
 <!-- figure-meta: page=14, position=top, type=graph -->
 
-![Fig. 4. Difference between calculated tithi and New Moon days determined from Solar Eclipse. The best fit line is y = 0.0041 $\times$ year -7.6017. The reduced $\chi^2$ is 0.9156.](media/p14_page.png)
+![Fig. 4. Difference between calculated tithi and New Moon days determined from Solar Eclipse. The best fit line is y = 0.0041 $\times$ year -7.6017. The reduced $\chi^2$ is 0.9156.](media/p14_page.webp)
 
 *Fig. 4. Difference between calculated tithi and New Moon days determined from Solar Eclipse. The best fit line is y = 0.0041 $\times$ year -7.6017. The reduced $\chi^2$ is 0.9156.*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 
 <!-- figure-meta: page=14, position=middle, type=graph -->
 
@@ -310,11 +310,11 @@ We have tested the calculated *tithi* dates based on equation (7) against the ca
 In Fig. 5 we have plotted sample calculations of the *tithi* on the day on which a lunar eclipse was calculated using modern ephemeris $^3$ for different years on which data are available. As can be seen from the figure, for the same values of the various constants our calculated dates of lunar eclipse agree with the observed date of lunar eclipse validating the formulation given here.
 CALCULATIONS OF *TITHIS* 149
 
-![Fig.5. Difference between calculated and expected values of *tithis* (*pūrṇima*) on days of lunar eclipse from 2000 BC to 3000 BC](media/p17_page.png)
+![Fig.5. Difference between calculated and expected values of *tithis* (*pūrṇima*) on days of lunar eclipse from 2000 BC to 3000 BC](media/p17_page.webp)
 
 *Fig.5. Difference between calculated and expected values of *tithis* (*pūrṇima*) on days of lunar eclipse from 2000 BC to 3000 BC*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=top, type=graph -->
 

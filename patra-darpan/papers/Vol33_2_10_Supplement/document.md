@@ -479,11 +479,11 @@ S 62 | V. S. NARASIMHAN
 *To find the latitude and co-latitude. ($R \sin \phi, R \cos \phi$)*
 9b, 10a. The (equinoctial) shadow multiplied by $R$ and divided by its own hypotenuse (defined in śloka 8) gives *akśajyā* (or $R \sin \phi$) as the result. Then repeating the process with the gnomon *lambaka* (or $R \cos \phi$) is obtained [ Fig. 7(a) and 7(b) ].
 
-![Fig. 7(a) and 7(b)](media/p16_page.png)
+![Fig. 7(a) and 7(b)](media/p16_page.webp)
 
 *Fig. 7(a) and 7(b)*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 
@@ -531,11 +531,11 @@ $$ \text{Iṣṭa śaṅku} = \frac{\text{accurate mahāchāyā}}{\text{accurate
 ---
 TANTRASAMGRAHA OF NĪLAKAṆṬHA SOMAYĀJI | S 65
 
-![Fig. 8](media/p19_page.png)
+![Fig. 8](media/p19_page.webp)
 
 *Fig. 8*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=top, type=diagram -->
 
@@ -712,11 +712,11 @@ Otherwise, suggests finding R Cos ZL from R Sin ZL and then calculating h from R
 
 ### To find Kṣitijyā (R Sin SK) from samaśaṅku
 
-![Fig. 14](media/p26_page.png)
+![Fig. 14](media/p26_page.webp)
 
 *Fig. 14*
 
-<!-- figure-resolved-page-render: page=26 image=media/p26_page.png -->
+<!-- figure-resolved-page-render: page=26 image=media/p26_page.webp -->
 
 <!-- figure-meta: page=26, position=middle, type=diagram -->
 
@@ -772,11 +772,11 @@ S 75
 In $\Delta PZM$
 $\frac{\text{Sin h}}{\text{Sin ZM}} = \frac{\text{Sin } 90^\circ}{\text{Sin } (90 - \phi)} \qquad \therefore \text{Sin h . Cos } \phi = \text{Sin ZM. (śvadeśu nata)}$
 
-![Fig. 15](media/p29_page.png)
+![Fig. 15](media/p29_page.webp)
 
 *Fig. 15*
 
-<!-- figure-resolved-page-render: page=29 image=media/p29_page.png -->
+<!-- figure-resolved-page-render: page=29 image=media/p29_page.webp -->
 
 <!-- figure-meta: page=29, position=middle, type=diagram -->
 
@@ -795,17 +795,17 @@ V. S. NARASIMHAN
 $= \frac{\text{Cos ZM . Sin (a } \pm \theta )}{\{ \text{Cos ZM Sin (a } \pm \theta )^2 + \text{Sin}^2 \text{ ZM } \}^{\frac{1}{2}}}$
 In $\Delta ZSM (\text{fig. 16(a)})$ if $\psi = SZM$ we have $\theta + \psi = PZS = 90 - \text{a}$
 
-<!-- figure-resolved-page-render-hidden: image=media/p30_page.png caption="Fig. 16(a)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p30_page.webp caption="Fig. 16(a)" -->
 
 <!-- figure-meta: page=30, position=top, type=diagram -->
 
 $\therefore a + \theta = 90 - \psi$
 
-![Fig. 16(b)](media/p30_page.png)
+![Fig. 16(b)](media/p30_page.webp)
 
 *Fig. 16(b)*
 
-<!-- figure-resolved-page-render: page=30 image=media/p30_page.png -->
+<!-- figure-resolved-page-render: page=30 image=media/p30_page.webp -->
 
 <!-- figure-meta: page=30, position=middle, type=diagram -->
 
@@ -888,11 +888,11 @@ $\therefore \sin \phi = \frac{(\cos z + \sin \delta)^2}{B} - B \div \frac{(\cos 
 $= \frac{(\cos z + \sin \delta)^2 - (\cos h \cos \delta + \sin z \sin a)^2}{(\cos z + \sin \delta)^2 + (\cos h \cos \delta + \sin z \sin a)^2}$ — I
 Consider the following triangles: $\Delta SZM$ and $\Delta SMP$ (Fig. 17)
 
-![Fig. 17. diagram](media/p33_page.png)
+![Fig. 17. diagram](media/p33_page.webp)
 
 *Fig. 17. diagram*
 
-<!-- figure-resolved-page-render: page=33 image=media/p33_page.png -->
+<!-- figure-resolved-page-render: page=33 image=media/p33_page.webp -->
 
 <!-- figure-meta: page=33, position=middle, type=diagram -->
 
@@ -965,11 +965,11 @@ $\{s^2 + s^2 \text{ Cot}^2 a\}^{\frac{1}{2}} = s \text{ Cosec } a \text{ svadṛ
 
 $$k = \frac{12}{\text{Sin } a} \sqrt{\text{Sin}^2 a + \text{Tan}^2 \phi} = \frac{12}{\text{Sin } a \text{ Cos } \phi} \sqrt{\text{Sin}^2 a \text{ Cos}^2 \phi + \text{Sin}^2 \phi}$$
 
-![Fig. 18. Triangle showing AC=12, BC=karna, AB=s Cosec a](media/p36_page.png)
+![Fig. 18. Triangle showing AC=12, BC=karna, AB=s Cosec a](media/p36_page.webp)
 
 *Fig. 18. Triangle showing AC=12, BC=karna, AB=s Cosec a*
 
-<!-- figure-resolved-page-render: page=36 image=media/p36_page.png -->
+<!-- figure-resolved-page-render: page=36 image=media/p36_page.webp -->
 
 <!-- figure-meta: page=36, position=middle, type=diagram -->
 
@@ -1043,11 +1043,11 @@ This result is given earlier (Ref: Ch. II. śl. 26)
 104b-105. The complement of the last sine (R Cosine of the maximum obliquity) is multiplied by R Sin $\phi$, and that divided by R (is kept separate; x). That which is the product of the *lambaka* (R Cos $\phi$) and the complement of the ecliptic-point at that time is divided by 8452 (is also kept separately). Their difference or sum is the sine of *dṛk kṣepa*, according as the time (of the *kālalagna*) is in Karkaṭa (cancer) or Mṛga (Capricorn).
 *Note:* *Dṛkṣepa* or nonagesimal is the point V on the ecliptic(fig. 19) $90^\circ$ from the point of intersection of the horizon and the ecliptic. It is also called *vitṛbhā*. It could be proved that the point ZV is the verticle and hence ZVA is $90^\circ$ (see *Siddhanta Śiromaṇi*, pp. 410-411, Arka Somayājī).
 
-![Fig. 19. Celestial sphere diagram](media/p40_page.png)
+![Fig. 19. Celestial sphere diagram](media/p40_page.webp)
 
 *Fig. 19. Celestial sphere diagram*
 
-<!-- figure-resolved-page-render: page=40 image=media/p40_page.png -->
+<!-- figure-resolved-page-render: page=40 image=media/p40_page.webp -->
 
 <!-- figure-meta: page=40, position=middle, type=diagram -->
 
@@ -1072,15 +1072,15 @@ otherwise it is always southern. That square subtracted from $R^2$ and the squar
 
 ### Dṛkkṣepa Lagna :
 
-<!-- figure-resolved-page-render-hidden: image=media/p41_page.png caption="Fig. 20(a)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p41_page.webp caption="Fig. 20(a)" -->
 
 <!-- figure-meta: page=41, position=middle, type=diagram -->
 
-![Fig. 20(b)](media/p41_page.png)
+![Fig. 20(b)](media/p41_page.webp)
 
 *Fig. 20(b)*
 
-<!-- figure-resolved-page-render: page=41 image=media/p41_page.png -->
+<!-- figure-resolved-page-render: page=41 image=media/p41_page.webp -->
 
 <!-- figure-meta: page=41, position=middle, type=diagram -->
 
@@ -1124,11 +1124,11 @@ Consider $\Delta \gamma QC$ (fig. 21) the śloka declares:
 
 $$ \frac{ \{(R \text{ Cos } \alpha_1)^2 - (\frac{R \text{ Cos } \alpha_1 R \text{ Sin } \omega}{R})^2 \}^{\frac{1}{2}} \cdot \frac{1}{R} }{ [R^2 - \{ \frac{R \text{ Cos } \alpha_1 R \text{ Sin } \omega}{R} \}^2 ]^{\frac{1}{2}} } = \text{Sin } \phi \text{ a (say)} $$
 
-![Fig. 21](media/p43_page.png)
+![Fig. 21](media/p43_page.webp)
 
 *Fig. 21*
 
-<!-- figure-resolved-page-render: page=43 image=media/p43_page.png -->
+<!-- figure-resolved-page-render: page=43 image=media/p43_page.webp -->
 
 <!-- figure-meta: page=43, position=bottom, type=diagram -->
 
@@ -1145,11 +1145,11 @@ or $\text{Cos}^2 \psi = \text{Cos}^2 \alpha_1 \text{ Sin}^2 \omega$,
 ---
 S 90 | V. S. NARASIMHAN
 
-![Fig. 22](media/p44_page.png)
+![Fig. 22](media/p44_page.webp)
 
 *Fig. 22*
 
-<!-- figure-resolved-page-render: page=44 image=media/p44_page.png -->
+<!-- figure-resolved-page-render: page=44 image=media/p44_page.webp -->
 
 <!-- figure-meta: page=44, position=top, type=diagram -->
 

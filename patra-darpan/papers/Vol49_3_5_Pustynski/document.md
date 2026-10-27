@@ -27,7 +27,7 @@ Rao (1998) expressed algebraically correlations between parameters of *Śrīyant
 ---
 \* Tallinn University of Technology, Department of Physics, Ehitajate tee 5, Tallinn 19086, Estonia; Email: vlad.pustynski@gmail.com
 ON MATHEMATICAL COMPLEXITY OF *ŚRĪYANTRA* 269
-<!-- figure-resolved-page-render-hidden: image=media/p02_page.png caption="Fig. 1. Plain Śrīyantra with 10 vertices lying on the circumscribing circle." -->
+<!-- figure-resolved-page-render-hidden: image=media/p02_page.webp caption="Fig. 1. Plain Śrīyantra with 10 vertices lying on the circumscribing circle." -->
 <!-- figure-meta: page=2, position=top, type=diagram -->
 with up to sixteenth power of variables. He found a numerical solution (his results coincided with the solution of Rao) and raised the question of uniqueness of this solution. Following Kulaichev, the system of four equations may be reduced to a polynomial of a single variable with a power not higher than 12544. Kulaichev concludes that the problem of uniqueness far exceeded the capacities of computers of that time. His conclusions of an extreme geometrical and computational complexity of *Śrīyantra* were widely cited (see for instance Tularam 2012 and The Hindu News, Nov. 25, 1984).
 In this work we discuss in more detail some of Kulaichev’s conclusions. We deduce all equations necessary to construct *Śrīyantra* and formulate these equations in terms of coordinates of the significant points. We demonstrate that iterative procedures may be replaced by analytical solutions in the first two steps. The systems of equations on the third and the forth step are quite unwieldy for analytical solution and should be solved using approximative root-finding methods. Therefore, all parameters of *Śrīyantra* may be found by a two-step iterative procedure. We study the equations numerically (and, where possible, analytically) and conclude that each of the steps has only one significant root. This means that only one *Śrīyantra* may be constructed with the restrictions adopted in (Kulaichev 1984). We prove that convergence of iterative processes is relatively fast; this fact simplifies the procedure of finding the solution algebraically or graphically. The deduced set of equations may be used with some modifications to solve other possible forms of *Śrīyantra*.
@@ -36,9 +36,9 @@ In this work we discuss in more detail some of Kulaichev’s conclusions. We ded
 
 To construct *Śrīyantra*, we follow the four-steps procedure described in (Kulaichev 1984). In each step we derive necessary equations and analyze them. We draw *Śrīyantra* step by step inside a circle with a unit radius. Only the right half of the circle is shown in the figures for more clarity. Points below the horizontal line of symmetry are labeled with primed letters.
 
-![Fig. 2. The first step. The intersection point B’ of the segments βζ’ and Dη’ lies on the segment D’α’.](media/p02_page.png)
+![Fig. 2. The first step. The intersection point B’ of the segments βζ’ and Dη’ lies on the segment D’α’.](media/p02_page.webp)
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 <!-- figure-meta: page=2, position=bottom, type=diagram -->
 270 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
@@ -63,9 +63,9 @@ The second root differs by the negative sign before 2 in numerator and is positi
 
 On the second step we draw the primary triangle with the uppermost horizontal base. An arbitrary point $A'$ is chosen on the segment $OD'$ ($0 < -A'_y < D_y$). Its $y$-coordinate $A'_y$ is the parameter to be refined on the third step. This point is used for a construction similar to one drawn on the first step, see Fig. 3: the point $\delta$ of intersection of $A'\epsilon$ and $\beta'\gamma$ should lie on the segment $D\alpha$, and $\gamma\epsilon$ should be horizontal.
 
-![Fig. 3. The second step. The intersection point δ of the segments β′γ and A′ε lies on the segment Dα.](media/p03_page.png)
+![Fig. 3. The second step. The intersection point δ of the segments β′γ and A′ε lies on the segment Dα.](media/p03_page.webp)
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 <!-- figure-meta: page=3, position=bottom, type=diagram -->
 From the triangles $D'\beta'\gamma$ and $D\beta\gamma$ we find that $\frac{\beta_x}{\gamma_y+D_y} = \frac{\delta_x}{\gamma_y-D_y}$ (using the fact that $D'_y = -D_y$),
 ON MATHEMATICAL COMPLEXITY OF *ŚRĪYANTRA* 271
@@ -95,9 +95,9 @@ $$A'_y = \frac{D_y (\gamma_y + D_y) \sqrt{1 - \gamma_y^2} - \beta_x \gamma_y (D_
 
 Eq. (6) was studied numerically. $A'_y$ versus $\gamma_y$ was plotted in the range ($D_y, 1$) for different values of $D_y$ (we used a dense grid of 10 000 points for $\gamma_y$). It was found that the function $A'_y = f(\gamma_y)$ has similar appearance for all values of $D_y$. Its behavior is the following: $D_y = f(D_y)$; when $\gamma_y$ increases, $f$
 
-![Fig. 4. Function A′y = f (γy) for three different values of the parameter Dy.](media/p04_page.png)
+![Fig. 4. Function A′y = f (γy) for three different values of the parameter Dy.](media/p04_page.webp)
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 <!-- figure-meta: page=4, position=top, type=graph -->
 decreases to zero and becomes negative; at some point it becomes smaller than $-D_y$. When the denominator of Eq. (6) approaches zero, $f$ approaches $-\infty$ from the left and to $+\infty$ from the right. With further growth of $\gamma_y$, $f$ drops to unity: $f(1) = 1$. For $\gamma_y > 1$ only complex values of $A'_y$ exist. Fig. 4 illustrates the behavior of the function $A'_y = f(\gamma_y)$ for three different values of the parameter $D_y$. It is seen that $A'_y$ is a one-to-one function of $\gamma_y$, and this is true for each value of $D_y$. Therefore the opposite is also true: there is only one positive value of $\gamma_y$ that corresponds to each negative value of $A'_y$. This fact proves the uniqueness of the positive root of Eq. (4). Of course, this equation has also at least one negative root (and sometimes may have two or three negative roots), but negative roots are meaningless for *Śrīyantra*.
 Thus it has been proven that the first two steps have unique analytical solutions. However, since analytical solution of quartic equations requires many operations, one may prefer to solve the second step numerically, as it is frequently done in practice with quartic equations. In this case we recommend to solve directly Eq. (3) as it is relatively simple.
@@ -106,12 +106,12 @@ Thus it has been proven that the first two steps have unique analytical solution
 
 The third step is based on intersection points obtained on the first and the second steps.
 272 INDIAN JOURNAL OF HISTORY OF SCIENCE
-<!-- figure-resolved-page-render-hidden: image=media/p05_page.png caption="Fig. 5. The third step. Points λ, ρ, θ′, ϕ′ lie on intersections of three segments." -->
+<!-- figure-resolved-page-render-hidden: image=media/p05_page.webp caption="Fig. 5. The third step. Points λ, ρ, θ′, ϕ′ lie on intersections of three segments." -->
 <!-- figure-meta: page=5, position=top, type=diagram -->
 
-![Fig. 6. The forth step. The central circle is inscribed into the triangle A′χω.](media/p05_page.png)
+![Fig. 6. The forth step. The central circle is inscribed into the triangle A′χω.](media/p05_page.webp)
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 <!-- figure-meta: page=5, position=middle, type=diagram -->
 We complete the two primary triangles that we started in the first two steps and add two inner primary triangles (see Fig. 5). On this step the parameter $A'_y$ (chosen freely on the 2nd step) becomes fixed by the value of the parameter $D_y$, i.e. it becomes a function of $D_y$.
 On this step it is convenient to find coordinates of intersection points of segments using equations of lines corresponding to these segments. Let’s start with the point $\theta'$ lying in the intersection of the segments $V'\alpha$ and $D\eta'$. The equation of the line $V'\alpha$ is $y = \frac{1+D_y}{\alpha_x}x - 1$ and the equation of the line $D\eta'$ is $y = -\frac{D_y-\zeta'_y}{\eta'_x}x + D_y$. The point $\theta'$ belongs to both lines, so we get its coordinates solving the system of the two equations. The result is:
@@ -152,9 +152,9 @@ $$\frac{D_y - A'_y}{D_y - \zeta'_y} \eta'_x - \frac{\varrho_y - A'_y}{\varrho_y 
 The Eqs. ($7 - 11, 13$) together with the equations $\alpha_x = \sqrt{1 - D_y^2}; \beta_x = \sqrt{\frac{(1 - D_y)^3}{1 + D_y}}; \varepsilon_x = \sqrt{1 - \gamma_y^2}; \eta'_x = \sqrt{1 - \zeta'^2_y}$ form a system. Theoretically it is possible to reduce this system to a singe relation between the parameters $D_y$ and $A'_y$. Unfortunately, such a relation would be very unwieldy and it would be impossible to find $A'_y$ as an analytical function of $D_y$.
 However, the above-mentioned system of equations may be analyzed numerically. We performed this analysis sequentially substituting coordinates from the earlier equations into the Eq. (13) and studying numerically the trend of the difference $\phi_{1x} - \phi_{2x}$ as a function of $A'_y$. We plotted this difference against $A'_y$ using a dense grid of $A'_y$ values (the range of $A'_y$ was divided into 10 000 points). It was found that $\phi'_{1x} - \phi'_{2x}$ is a uniformly decreasing function for all values of $D_y$. In Fig. 7 this function is plotted for three values of $D_y$ (the trends are increasing since $-A'_y$ values are depicted for convenience in the $x$-axis). There is no sign of local extrema on the graphs, and, considering the high density of the grid, there is evidently no chance that local extrema could have been missed. Thus we may conclude that the third step has a unique solution. Further study shows that $\phi_{1x} - \phi_{2x}$ has an infinite discontinuity at the point $-1$: $\lim_{A'_y \to -1^-} = +\infty$ and $\lim_{A'_y \to -1^+} = -\infty$. A second root is present in the domain $A'_y < -1$, more roots may appear in the domain $A'_y > 0$; however, these roots are meaningless for Śrīyantra.
 
-![Fig. 7. Difference $\phi_{1x} - \phi_{2x}$ as a function of $A_y$ for three different values of $D_y$. All graphs are plotted in the range $(0 - D_y)$.](media/p06_page.png)
+![Fig. 7. Difference $\phi_{1x} - \phi_{2x}$ as a function of $A_y$ for three different values of $D_y$. All graphs are plotted in the range $(0 - D_y)$.](media/p06_page.webp)
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 <!-- figure-meta: page=6, position=middle, type=graph -->
 Since the formulae used in this step are quite simple by their nature (algebraic fractions), it takes very little computational time to find the root of Eq. (13) even with the simplest numerical methods (i.e. with the secant method). It is important since this root is used as an intermediate result on the forth step and should be calculated many times while seeking for $D_y$, see Section 2.4. To conclude this section, we give the formulae for the points $\nu$ and $\kappa'$ (these points are vertices of two primary triangles, see Fig. 5):
 274 INDIAN JOURNAL OF HISTORY OF SCIENCE
@@ -182,9 +182,9 @@ $$\chi_y + \frac{A'_y \varepsilon_x}{\sqrt{(\gamma_y - A'_y)^2 + \varepsilon_x^2
 
 The condition (17) is satisfied only for a specific value of $D_y$. Since it is impossible to find $A'_y$ analytically on the third step, we are obliged to rely again on numerical methods and to solve Eq. (17) iteratively. At each step of the iteration it is necessary to repeat the steps 1–3.
 
-![Fig. 8. Difference $\chi_y - R$ as a function of $D_y$.](media/p07_page.png)
+![Fig. 8. Difference $\chi_y - R$ as a function of $D_y$.](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 <!-- figure-meta: page=7, position=middle, type=graph -->
 Since our task is not only to obtain the solution of Śrīyantra, but also to study uniqueness of this solution, we investigated Eq. (17) numerically. The left-hand side of Eq. (17) was plotted as a function of $D_y$ in the range (0, 1) (a dense grid of 10 000 values of $D_y$ was used). The resulting trend is represented in Fig. 8. Numerical analysis shows that the trend has a singularity at the point $D_y = 0$. This point corresponds to the degenerate case, when the segments $D\alpha$ and $D'\alpha'$ (and consequently the whole construction) merge together. Of course this point is meaningless for the actual Śrīyantra. It may be concluded from Fig. 8 that Eq. (17) has a single root in the range $0.25 < D_y < 0.30$. This proves that Śrīyantra with restrictions set in (4) has a unique solution.
 

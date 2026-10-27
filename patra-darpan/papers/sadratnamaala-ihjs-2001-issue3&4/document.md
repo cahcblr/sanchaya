@@ -24,11 +24,11 @@ Sree Sarada Education Society
 Research Centre
 Chennai
 
-![Fig. 1. Logo of Indian National Science Academy](media/p01_page.png)
+![Fig. 1. Logo of Indian National Science Academy](media/p01_page.webp)
 
 *Fig. 1. Logo of Indian National Science Academy*
 
-<!-- figure-resolved-page-render: page=1 image=media/p01_page.png -->
+<!-- figure-resolved-page-render: page=1 image=media/p01_page.webp -->
 
 <!-- figure-meta: page=1, position=middle, type=diagram -->
 
@@ -336,15 +336,15 @@ In spite of there being two versions, both of the text and of the commentary, th
 
 On the basis of a minute study of the variations in the different manuscripts, their descent could be represented by the genealogical tables given below.
 
-<!-- figure-resolved-page-render-hidden: image=media/p18_page.png caption="Fig. 1. TEXT MANUSCRIPTS Genealogical Table" -->
+<!-- figure-resolved-page-render-hidden: image=media/p18_page.webp caption="Fig. 1. TEXT MANUSCRIPTS Genealogical Table" -->
 
 <!-- figure-meta: page=18, position=top, type=diagram -->
 
-![Fig. 2. COMMENTARY MANUSCRIPTS Genealogical Table](media/p18_page.png)
+![Fig. 2. COMMENTARY MANUSCRIPTS Genealogical Table](media/p18_page.webp)
 
 *Fig. 2. COMMENTARY MANUSCRIPTS Genealogical Table*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 

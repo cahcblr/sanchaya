@@ -68,11 +68,11 @@ SOME FEATURES OF THE SOLUTIONS OF _KUṬṬAKA_ AND _VARGAPRAKṚTI_ 3
 Āryabhaṭa I proceeded with the approximation $\frac{y}{x} \to \frac{a}{b}$ ($a > b$), where $a$ and $b$ were mutually divided as in HCF process, $a$ and $b$ being integers. He kept $c$ (i.e., $r_1 - r_2$ or $r_2 - r_1$) always positive.
 The rule says, when $a$ and $b$ are mutually divided ($a > b$), $a$ being the dividend and $b$ being the divisor as in HCF Process of Division:
 
-![Fig. 3. HCF process of division](media/p03_page.png)
+![Fig. 3. HCF process of division](media/p03_page.webp)
 
 *Fig. 3. HCF process of division*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=3, position=middle, type=diagram -->
 

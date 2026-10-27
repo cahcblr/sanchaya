@@ -169,12 +169,12 @@ a. The tables are not corrected for precession. Hence *ayanāṃśa* of $24^\cir
 b. The tables of the *sāriṇī* are prepared for the mean sun $= 0$. However, for the year 2020 on March 21st, the mean was not 0 but $287^\circ | 45' | 58''$. This corresponds to a difference of about $74^\circ$.
 The total shift would be $98^\circ$. This explains the vertical shift. #2 is also the reason for the horizontal shift of 74 days for the day of conjunction.
 Thus, these tables are applicable for any year and therefore, offer a great opportunity to study the development of computational practices.
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 4. Saturn, top, and Jupiter, below, are seen after sunset from Shenandoah National Park, Sunday, Dec. 13, 2020, in Luray, Virginia. The two planets are drawing closer to each other in the sky as they head towards a “great conjunction” on December 21, where the two giant planets will appear a tenth of a degree apart. Credits: NASA/ Bill Ingalls" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 4. Saturn, top, and Jupiter, below, are seen after sunset from Shenandoah National Park, Sunday, Dec. 13, 2020, in Luray, Virginia. The two planets are drawing closer to each other in the sky as they head towards a “great conjunction” on December 21, where the two giant planets will appear a tenth of a degree apart. Credits: NASA/ Bill Ingalls" -->
 <!-- figure-meta: page=6, position=top, type=photograph -->
 
-![Fig. 5. Comparison of the longitudes of Jupiter and Saturn from the *sāriṇī* (suffix S) to check the conjunction compared with the values from Indian Astronomical Ephemeris (with suffix X)](media/p06_page.png)
+![Fig. 5. Comparison of the longitudes of Jupiter and Saturn from the *sāriṇī* (suffix S) to check the conjunction compared with the values from Indian Astronomical Ephemeris (with suffix X)](media/p06_page.webp)
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 <!-- figure-meta: page=6, position=bottom, type=graph -->
 
 [^2]: http://xjubier.free.fr/en/site_pages/astronomy/ephemerides.html

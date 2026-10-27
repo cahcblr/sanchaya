@@ -907,7 +907,7 @@ S 113
 *Diameter of the shadow of the earth :*
 15b, 16a. The distance between the centres of the sun and earth is multiplied by 1050 (Diameter of earth) and then divided by 3360. The result is the length of the shadow in $yojanas$ from the centre of the earth.
 
-<!-- figure-resolved-page-render-hidden: image=media/p25_page.png caption="Fig. 25. diagram of earth shadow geometry" -->
+<!-- figure-resolved-page-render-hidden: image=media/p25_page.webp caption="Fig. 25. diagram of earth shadow geometry" -->
 
 <!-- figure-meta: page=25, position=top, type=diagram -->
 
@@ -920,11 +920,11 @@ $$ \therefore EV = \frac{2r \cdot ES}{2(R - r)} = \frac{1050 \cdot ES}{3360} $$
 
 $$ = \frac{\text{Tamasa : Vyasa } \times r}{\text{Dvitiya sphuta karna;}} $$
 
-![Fig. 25. diagram of eclipse geometry showing Earth and Moon](media/p25_page.png)
+![Fig. 25. diagram of eclipse geometry showing Earth and Moon](media/p25_page.webp)
 
 *Fig. 25. diagram of eclipse geometry showing Earth and Moon*
 
-<!-- figure-resolved-page-render: page=25 image=media/p25_page.png -->
+<!-- figure-resolved-page-render: page=25 image=media/p25_page.webp -->
 
 <!-- figure-meta: page=25, position=middle, type=diagram -->
 
@@ -952,11 +952,11 @@ S 114 V. S. NARASIMHAN
 *Note* : AB is called stagita, magnitude of the eclipse. $AB = CB + AM - CM = (R+r-B)$
 If $AB > 2AM$ (fig. 2), i.e. $R+r-\beta > 2r$ i.e. $R-r > \beta$, then eclipse is total. (*Siddhānta Śiromaṇi*, Arka Somayājī, p 363)
 
-![Fig 1 and Fig 2](media/p26_page.png)
+![Fig 1 and Fig 2](media/p26_page.webp)
 
 *Fig 1 and Fig 2*
 
-<!-- figure-resolved-page-render: page=26 image=media/p26_page.png -->
+<!-- figure-resolved-page-render: page=26 image=media/p26_page.webp -->
 
 <!-- figure-meta: page=26, position=bottom, type=diagram -->
 
@@ -1009,11 +1009,11 @@ $$\text{Then } (śara)_2 = \frac{(sphuṭāntara)^2 + (Śara 1)^2}{2 R}$$
 41a. (The other procedure is) to take one third of the square of the calculated $śara$, and subtract it from the square of $cāpa$ and divide the result by the total diameter.
 *Note* :
 
-![Fig. 29. Circle diagram with angle theta, radius R, and arc x](media/p29_page.png)
+![Fig. 29. Circle diagram with angle theta, radius R, and arc x](media/p29_page.webp)
 
 *Fig. 29. Circle diagram with angle theta, radius R, and arc x*
 
-<!-- figure-resolved-page-render: page=29 image=media/p29_page.png -->
+<!-- figure-resolved-page-render: page=29 image=media/p29_page.webp -->
 
 <!-- figure-meta: page=29, position=middle, type=diagram -->
 
@@ -1055,11 +1055,11 @@ $$= \frac{x^2 - \frac{1}{3} \left(\frac{x^2}{2R}\right)^2}{2R}$$
 
 ### Akṣa Valana and Ayana Valana
 
-![Fig. 30. Diagram of celestial sphere with Ecliptic and Equator showing Valana angles](media/p30_page.png)
+![Fig. 30. Diagram of celestial sphere with Ecliptic and Equator showing Valana angles](media/p30_page.webp)
 
 *Fig. 30. Diagram of celestial sphere with Ecliptic and Equator showing Valana angles*
 
-<!-- figure-resolved-page-render: page=30 image=media/p30_page.png -->
+<!-- figure-resolved-page-render: page=30 image=media/p30_page.webp -->
 
 <!-- figure-meta: page=30, position=middle, type=diagram -->
 
@@ -1099,9 +1099,9 @@ Parallax in longitude (*Lambana*) and in latitude (*Nati*) are of importance in 
 1. When the planet is in the middle of the visible hemisphere (i.e. *Dṛkṣepa vṛtta*, vertical circle passing through the pole of the ecliptic) there is no parallax in longitude (*lambana*). Then the planet is said to be in *Dṛkṣepa lagna*. When the planet is to the east or west of *Dṛkṣepa lagna* (Nonagesimal) then there will be *lambana*.
 2a. (when the planet) lies on the ecliptic and also at the Zenith, then there is no *nati* also.
 
-![[Spherical diagram showing parallax components]](media/p32_page.png)
+![[Spherical diagram showing parallax components]](media/p32_page.webp)
 
-<!-- figure-resolved-page-render: page=32 image=media/p32_page.png -->
+<!-- figure-resolved-page-render: page=32 image=media/p32_page.webp -->
 
 <!-- figure-meta: page=32, position=middle, type=diagram -->
 
@@ -1119,9 +1119,9 @@ $$
 ***
 TANTRASAMGRAHA OF NĪLAKAṆṬHA SOMAYĀJĪ | S 121
 
-![[Spherical diagram showing Madhyalagna and Madhyajyā]](media/p33_page.png)
+![[Spherical diagram showing Madhyalagna and Madhyajyā]](media/p33_page.webp)
 
-<!-- figure-resolved-page-render: page=33 image=media/p33_page.png -->
+<!-- figure-resolved-page-render: page=33 image=media/p33_page.webp -->
 
 <!-- figure-meta: page=33, position=top, type=diagram -->
 
@@ -1140,9 +1140,9 @@ $$
 6. Their product (*madhya jyā* and *Udaya jyā*) divided by R is called *Bāhujyā*. Subtract its square from the squares of the *madhyajyā* and R.
 7. Of their square roots, the first is multiplied by R and divided by the other. Then *Dṛkṣepajyā* is obtained. Its complement (*Koṭi*) is known as *Dṛggati*.
 
-![[Spherical diagram showing components for Dṛkṣepajyā]](media/p33_page.png)
+![[Spherical diagram showing components for Dṛkṣepajyā]](media/p33_page.webp)
 
-<!-- figure-resolved-page-render: page=33 image=media/p33_page.png -->
+<!-- figure-resolved-page-render: page=33 image=media/p33_page.webp -->
 
 <!-- figure-meta: page=33, position=bottom, type=diagram -->
 
@@ -1177,9 +1177,9 @@ TANTRASAMGRAHA OF NĪLAKAṆṬHA SOMAYĀJĪ | S 123
 
 15. If the true *nati* (thus obtained) is more than the sum of the semi-diameters of the sun and moon, there is no eclipse of the sun at all. For obtaining the measure of the maximum amount of observation, subtract the true nati which is lesser than the sum of the semi-diameters, from the same.
 
-![[Diagram showing intersection of solar and lunar discs during eclipse]](media/p35_page.png)
+![[Diagram showing intersection of solar and lunar discs during eclipse]](media/p35_page.webp)
 
-<!-- figure-resolved-page-render: page=35 image=media/p35_page.png -->
+<!-- figure-resolved-page-render: page=35 image=media/p35_page.webp -->
 
 <!-- figure-meta: page=35, position=bottom, type=diagram -->
 
@@ -1235,11 +1235,11 @@ In the same way if it is deducted or added in the case of the annular eclipse, t
 
 $$R \sin ZV = \frac{R \sin \phi R \cos w}{R} \pm \frac{R \cos \phi R \cos \gamma E}{8442}$$
 
-![Fig. 38. Celestial diagram showing Z, P, V, S, M arcs](media/p38_page.png)
+![Fig. 38. Celestial diagram showing Z, P, V, S, M arcs](media/p38_page.webp)
 
 *Fig. 38. Celestial diagram showing Z, P, V, S, M arcs*
 
-<!-- figure-resolved-page-render: page=38 image=media/p38_page.png -->
+<!-- figure-resolved-page-render: page=38 image=media/p38_page.webp -->
 
 <!-- figure-meta: page=38, position=middle, type=diagram -->
 
@@ -1257,11 +1257,11 @@ S 127 | TANTRASAMGRAHA OF NĪLAKAṆṬHA SOMAYĀJI
 According to modern notation, the result given is
 $(\sin ZS)^2 = (\sin ZV)^2 + (\sin SV \cos ZV)^2$
 
-![Fig. 39. Geometric arc diagram ZVS showing 90 degree angle](media/p39_page.png)
+![Fig. 39. Geometric arc diagram ZVS showing 90 degree angle](media/p39_page.webp)
 
 *Fig. 39. Geometric arc diagram ZVS showing 90 degree angle*
 
-<!-- figure-resolved-page-render: page=39 image=media/p39_page.png -->
+<!-- figure-resolved-page-render: page=39 image=media/p39_page.webp -->
 
 <!-- figure-meta: page=39, position=top, type=diagram -->
 
@@ -1280,11 +1280,11 @@ i.e. $Dṛkkarna = \sqrt{(x - \frac{a R \cos ZS}{R})^2 + (\frac{a R \sin ZS}{R})
 39. Parallax in latitude (*Nati*) is the sum of the arcs of the latitude and *Dṛkkṣepa* when these are in the same direction. If otherwise their difference is taken. The *jyā* of that or subtracted from three *rāśīs* (i.e. $90^\circ$), is known as *para śaṅku*. ($R \cos ZN_1$ (or) $R \cos ZN_2$)
 S 128 | V. S. NARASIMHAN
 
-![Fig. 40. Celestial diagrams showing N1, N2, M1, M2 points and zenith Z](media/p40_page.png)
+![Fig. 40. Celestial diagrams showing N1, N2, M1, M2 points and zenith Z](media/p40_page.webp)
 
 *Fig. 40. Celestial diagrams showing N1, N2, M1, M2 points and zenith Z*
 
-<!-- figure-resolved-page-render: page=40 image=media/p40_page.png -->
+<!-- figure-resolved-page-render: page=40 image=media/p40_page.webp -->
 
 <!-- figure-meta: page=40, position=top, type=diagram -->
 
@@ -1337,15 +1337,15 @@ S 130 | V. S. NARASIMHAN
 TANTRASAMGRAHA OF NĪLAKAṆṬHA SOMAYĀJI | S 131
 **To Determine the middle of the eclipse :**
 
-<!-- figure-resolved-page-render-hidden: image=media/p43_page.png caption="Fig. 43. Diagram showing spherical arcs representing the celestial sphere with points Z (Zenith), V, M (Moon), M' (Moon's position due to parallax), N', and L." -->
+<!-- figure-resolved-page-render-hidden: image=media/p43_page.webp caption="Fig. 43. Diagram showing spherical arcs representing the celestial sphere with points Z (Zenith), V, M (Moon), M' (Moon's position due to parallax), N', and L." -->
 
 <!-- figure-meta: page=43, position=top, type=diagram -->
 
-![Fig. 43. Diagram showing a circle with centre E, point M on the circumference, and an arc with angle Z.](media/p43_page.png)
+![Fig. 43. Diagram showing a circle with centre E, point M on the circumference, and an arc with angle Z.](media/p43_page.webp)
 
 *Fig. 43. Diagram showing a circle with centre E, point M on the circumference, and an arc with angle Z.*
 
-<!-- figure-resolved-page-render: page=43 image=media/p43_page.png -->
+<!-- figure-resolved-page-render: page=43 image=media/p43_page.webp -->
 
 <!-- figure-meta: page=43, position=middle, type=diagram -->
 
@@ -1370,11 +1370,11 @@ $\frac{R \sin MV \cdot R \cos ZV}{R} \cdot \frac{a}{k} \text{ (for Moon).}$
 In $\Delta ZVM$,
 $\sin Z \cdot \cos \theta = \cos ZV \cdot \sin VM - \sin ZV \cos VM \cos 90^{\circ}$
 
-![Fig. 44. Diagram showing a spherical triangle on a celestial arc with vertices V, Z, M and angle 90 degrees at V. Symbols include θ and z.](media/p44_page.png)
+![Fig. 44. Diagram showing a spherical triangle on a celestial arc with vertices V, Z, M and angle 90 degrees at V. Symbols include θ and z.](media/p44_page.webp)
 
 *Fig. 44. Diagram showing a spherical triangle on a celestial arc with vertices V, Z, M and angle 90 degrees at V. Symbols include θ and z.*
 
-<!-- figure-resolved-page-render: page=44 image=media/p44_page.png -->
+<!-- figure-resolved-page-render: page=44 image=media/p44_page.webp -->
 
 <!-- figure-meta: page=44, position=middle, type=diagram -->
 
@@ -1425,11 +1425,11 @@ i.e. True $R \operatorname{Sine} \delta = (R \operatorname{Sine} \beta \operator
 ***
 S 136 V. S. NARASIMHAN
 
-![Fig. 48. Diagram of celestial sphere showing points P, K, M, R, A, B, gamma and a spherical triangle with elements 90-epsilon, omega, 90-lambda, 90-beta](media/p48_page.png)
+![Fig. 48. Diagram of celestial sphere showing points P, K, M, R, A, B, gamma and a spherical triangle with elements 90-epsilon, omega, 90-lambda, 90-beta](media/p48_page.webp)
 
 *Fig. 48. Diagram of celestial sphere showing points P, K, M, R, A, B, gamma and a spherical triangle with elements 90-epsilon, omega, 90-lambda, 90-beta*
 
-<!-- figure-resolved-page-render: page=48 image=media/p48_page.png -->
+<!-- figure-resolved-page-render: page=48 image=media/p48_page.webp -->
 
 <!-- figure-meta: page=48, position=top, type=diagram -->
 
@@ -1460,11 +1460,11 @@ $Kotiphala = R \operatorname{Cos} N \cdot R \operatorname{Sine} i$.
 He gives, $\operatorname{Sin} \omega' = \sqrt{(\operatorname{Sin} i \operatorname{Cos} N \operatorname{Cos} \omega \pm \operatorname{Cos} i \operatorname{Sin} \omega)^2 + (\operatorname{Sin} i \cdot \operatorname{Sin} N)^2}$
 $\gamma N - QN = \text{Ayana Calana}, Y = \frac{\operatorname{Sine} i \cdot \operatorname{Sine} N}{\operatorname{Sine} \omega'}$
 
-![Fig. 49. Geometric diagram showing the intersection of Moon s path, Ecliptic, and Equator at the node N, with angles omega, omega prime, and i](media/p49_page.png)
+![Fig. 49. Geometric diagram showing the intersection of Moon s path, Ecliptic, and Equator at the node N, with angles omega, omega prime, and i](media/p49_page.webp)
 
 *Fig. 49. Geometric diagram showing the intersection of Moon s path, Ecliptic, and Equator at the node N, with angles omega, omega prime, and i*
 
-<!-- figure-resolved-page-render: page=49 image=media/p49_page.png -->
+<!-- figure-resolved-page-render: page=49 image=media/p49_page.webp -->
 
 <!-- figure-meta: page=49, position=middle, type=diagram -->
 

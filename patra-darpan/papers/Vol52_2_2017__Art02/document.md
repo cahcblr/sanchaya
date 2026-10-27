@@ -137,11 +137,11 @@ It may be noted that all the three astronomers mentioned above—Nīlakaṇṭha
 
 [^17]: Āpte 1937a, p. 112.
 
-![Fig. 6. Nīlakaṇṭha’s geometric proof for the sum of integers.](media/p06_page.png)
+![Fig. 6. Nīlakaṇṭha’s geometric proof for the sum of integers.](media/p06_page.webp)
 
 *Fig. 6. Nīlakaṇṭha’s geometric proof for the sum of integers.*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=top, type=diagram -->
 
@@ -223,11 +223,11 @@ $$- S_{n-1} = n - 1 + n - 2 + \dots + 2 + 1$$
 
 $$= 1 + 2 + \dots + n - 2 + n - 1 + n$$
 
-![Fig. 8. Determining $S_n$ as the difference of $n^2$ and $S_{n-1}$ in the third proof.](media/p08_page.png)
+![Fig. 8. Determining $S_n$ as the difference of $n^2$ and $S_{n-1}$ in the third proof.](media/p08_page.webp)
 
 *Fig. 8. Determining $S_n$ as the difference of $n^2$ and $S_{n-1}$ in the third proof.*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 
 <!-- figure-meta: page=8, position=top, type=diagram -->
 

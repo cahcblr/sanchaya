@@ -26,9 +26,9 @@ The development of various architectural forms through centuries of history is w
 \pagebreak
 204 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig.1 Śrīyantra—The Tantra Figure](media/p02_page.png)
+![Fig.1 Śrīyantra—The Tantra Figure](media/p02_page.webp)
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 \pagebreak
 ŚRĪYANTRA - A STUDY OF SPHERICAL AND PLANE FORMS 205
@@ -43,9 +43,9 @@ In the spherical form, the triangular complex of the first 6 enclosures is forme
 The significance of *Śrīyantra* as an abode of the presiding deities of the cosmic organisation is indicated in *Atharva veda*.[^5] A detailed exposition of these principles correlating these powers in the cosmic organisation and the organisation within a human individual is given in *Bhavanopanishat*.[^6] A symbolic representation of the hierarchical principal and powers operating in the organisation of the cosmos in *Śrīyantra* based on a thorough study of various *Tantras* is given by Sir John Woodroff.[^7]
 One of the greatest applications of *Śrīyantra* is the traditional worship[^8] where the goal is to realise the identification of the individual with entire universe. A treatment of procedures of the worship and their significance is given in *Srividya Saparya Vasana*.[^9]
 
-![Fig. 2.1 : Spherical Triangular Complex](media/p04_page.png)
+![Fig. 2.1 : Spherical Triangular Complex](media/p04_page.webp)
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 <!-- figure-meta: page=4, position=bottom, type=diagram -->
 \pagebreak
 ŚRĪYANTRA - A STUDY OF SPHERICAL AND PLANE FORMS 207
@@ -89,9 +89,9 @@ The variables in the spherical triangle complex are shown in Fig 2.2. The interc
 
 208 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 2.2. Spherical Form : Points and Variables](media/p06_page.png)
+![Fig. 2.2. Spherical Form : Points and Variables](media/p06_page.webp)
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 <!-- figure-meta: page=6, position=middle, type=diagram -->
 Fig. 2.2 Spherical Form : Points and Variables
 ***
@@ -418,7 +418,7 @@ TABLE 2. BASIC VARIABLES OF LOCAL SPHERICAL OPTIMUM FIGURES
 
 ŚRĪYANTRA - A STUDY OF SPHERICAL AND PLANE FORMS 219
 
-![Fig. 219. REAR ELEVATION, SIDE ELEVATION, PLAN VIEW, FRONT ELEVATION](media/p17_page.png)
+![Fig. 219. REAR ELEVATION, SIDE ELEVATION, PLAN VIEW, FRONT ELEVATION](media/p17_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=219 corrected_page=17 strategy=printed-page-offset -->
 <!-- figure-meta: page=219, position=middle, type=diagram -->
@@ -447,7 +447,7 @@ $$H_5 = U_7 - v_{12} \qquad H_{10} = r - b + c \quad \dots (5.2)$$
 
 ŚRĪYANTRA - A STUDY OF SPHERICAL AND PLANE FORMS 221
 
-![Fig. 5 SPHERICAL LOCAL OPTIMUM FIGURES: (a) ALTITUDE h = 80 deg. (b) ALTITUDE h = 60 deg. (c) ALTITUDE h = 40 deg. (d) ALTITUDE h = 20 deg.](media/p19_page.png)
+![Fig. 5 SPHERICAL LOCAL OPTIMUM FIGURES: (a) ALTITUDE h = 80 deg. (b) ALTITUDE h = 60 deg. (c) ALTITUDE h = 40 deg. (d) ALTITUDE h = 20 deg.](media/p19_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=221 corrected_page=19 strategy=printed-page-offset -->
 <!-- figure-meta: page=221, position=middle, type=diagram -->
@@ -550,7 +550,7 @@ TABLE 4. COMPARISON OF INTERCEPTS OF PLANE OPTIMUM AND TANTRA FIGURES
 
 ŚRĪYANTRA - A STUDY OF SPHERICAL AND PLANE FORMS 225
 
-![Fig. 6. CONSTRAINED AND OPTIMUM PLANE FIGURES](media/p23_page.png)
+![Fig. 6. CONSTRAINED AND OPTIMUM PLANE FIGURES](media/p23_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=225 corrected_page=23 strategy=printed-page-offset -->
 <!-- figure-meta: page=225, position=top, type=diagram -->

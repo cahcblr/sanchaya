@@ -368,11 +368,11 @@ Other solutions of (8) are obtained by the Composition of equal as well as unequ
 VARGA-PRAKṚTI—THE CAKRAVĀLA METHOD OF ITS SOLUTION 11
 Graphically the following picture emerges:
 
-![Fig. 1. Graphical representation of the iterative steps for $97x^2 + 1 = y^2$](media/p11_page.png)
+![Fig. 1. Graphical representation of the iterative steps for $97x^2 + 1 = y^2$](media/p11_page.webp)
 
 *Fig. 1. Graphical representation of the iterative steps for $97x^2 + 1 = y^2$*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=top, type=diagram -->
 
@@ -438,11 +438,11 @@ As $(-2)$ has been obtained as the interpolator, Composition of Equals leads to 
 Further roots of (13) are obtained by the Composition of equal as well as unequal set of roots and implies the use of formulae (7a) and (7b).
 Graphically the following picture emerges.
 
-![Fig. 2. Graphical representation of the iterative steps for $67x^2 + 1 = y^2$](media/p13_page.png)
+![Fig. 2. Graphical representation of the iterative steps for $67x^2 + 1 = y^2$](media/p13_page.webp)
 
 *Fig. 2. Graphical representation of the iterative steps for $67x^2 + 1 = y^2$*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=middle, type=diagram -->
 
@@ -493,11 +493,11 @@ Other roots of (16) are obtained by the Composition of equal as well as unequal 
 VARGA-PRAKṚTI—THE CAKRAVĀLA METHOD OF ITS SOLUTION 15
 Graphically the following picture emerges:
 
-![Fig. 3. Graphical representation of the iterative steps for $61x^2 + 1 = y^2$](media/p15_page.png)
+![Fig. 3. Graphical representation of the iterative steps for $61x^2 + 1 = y^2$](media/p15_page.webp)
 
 *Fig. 3. Graphical representation of the iterative steps for $61x^2 + 1 = y^2$*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=top, type=diagram -->
 

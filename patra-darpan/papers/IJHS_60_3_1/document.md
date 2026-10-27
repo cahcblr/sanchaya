@@ -82,11 +82,11 @@ What stands out immediately in the figure is the physical division of the planet
 It is observed that Jupiter is by far the most massive body in the solar system apart from the Sun. Quite remarkably, the Indian name for this planet is ‘Guru’, which means ‘massive’ or ‘heavy’. We may expect that its motion greatly influences that of its two immediate neighbors – Mars and Saturn.
 Saturn, being in close proximity with Jupiter and having a considerable mass of its own, is strongly influenced not only by the latter but also by Uranus and Neptune, so we may expect to see considerable variation in its orbital period over time.
 
-![Fig. 1. Planetary mass and orbital radius in the solar system](media/p03_page.png)
+![Fig. 1. Planetary mass and orbital radius in the solar system](media/p03_page.webp)
 
 *Fig. 1. Planetary mass and orbital radius in the solar system*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=bottom-left, type=graph -->
 
@@ -146,7 +146,7 @@ The modern value of Jupiter’s mean orbital period is 4332.59 days. Going by th
 Figure 5 shows a similar plot for Mars, which takes a little less than 2 years (687 days) to complete its orbit around the Sun. We notice that compared to Saturn and Jupiter, the orbital period of Mars shows little variation over thousands of years, indicating a more stable orbit than the other two. Over 9400 years, this period varies by only 1/10 of a day (686.94 to 687.04 days). The primary variation appears to dominate the motion with some secondary and tertiary variations superimposed.
 There is a widening variation in time, no doubt influenced by Jupiter (see Fig. 4). The modern value of Mars’s mean orbital period is 686.971 days, which is about 3/100 of a day smaller than that given in the *Sūrya Siddhānta*, of 686.997 days. This second decimal difference is too fine to conclude anything concrete, and we can only state that the *Sūrya Siddhānta*’s value for Mars does not match the actual mean value going back up to 4713 BCE. Our current formulae, as mentioned, cannot go further into the past than this date, were a match to be available beyond 4713 BCE.
 
-<!-- figure-resolved-page-render-hidden: image=media/p05_page.png caption="Fig. 5. Variation of the orbital period of Mars" -->
+<!-- figure-resolved-page-render-hidden: image=media/p05_page.webp caption="Fig. 5. Variation of the orbital period of Mars" -->
 
 <!-- figure-meta: page=5, position=bottom-left, type=graph -->
 
@@ -155,7 +155,7 @@ There is a widening variation in time, no doubt influenced by Jupiter (see Fig. 
 Figure 6 shows the case for Venus, whose orbital period is about 225 days. The plot appears to exhibit little variation over 9400 years, which signifies a very stable orbit. The modern value of Venus’s mean orbital period is 224.701 days, which differs from that given in the *Sūrya Siddhānta*, of 224.699 days, by the astonishingly slight difference of only 2/1000 of a day.
 The plot does show a small decreasing trend going backwards in time, and if it were to continue, a match for the *Sūrya Siddhānta* value could possibly be found in the neighborhood of 8000–10000 BCE.
 
-<!-- figure-resolved-page-render-hidden: image=media/p05_page.png caption="Fig. 6. Variation of the orbital period of Venus" -->
+<!-- figure-resolved-page-render-hidden: image=media/p05_page.webp caption="Fig. 6. Variation of the orbital period of Venus" -->
 
 <!-- figure-meta: page=5, position=middle-right, type=graph -->
 
@@ -165,11 +165,11 @@ Figure 7 depicts the variation of the orbital period of the innermost planet, Me
 Going backwards in time in the plot, there appears to be the beginnings of an upward trend starting around 3000 BCE. If that trend were to continue, a match for the ancient value may perhaps be found around 8000–10000 BCE, similar to the case for Venus.
 After the visible planets, let us look at the results for the Moon’s orbital parameters next.
 
-![Fig. 7. Variation of the orbital period of Mercury](media/p05_page.png)
+![Fig. 7. Variation of the orbital period of Mercury](media/p05_page.webp)
 
 *Fig. 7. Variation of the orbital period of Mercury*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=bottom-right, type=graph -->
 
@@ -185,11 +185,11 @@ After the visible planets, let us look at the results for the Moon’s orbital p
 While the other heavenly bodies are largely influenced by the Sun, the motion of the Moon is strongly affected by two bodies – the Earth and the Sun. Figure 8 shows the Moon’s orbital period variation over 9400 years. We note from the figure that the orbital period can vary by as much as $1/3$ of a day, which is a considerable variation for a small 27-day cycle. This relatively large variation, as mentioned, is due to the dual influences of the Earth and the Sun on the Moon’s orbit.
 That said, it is remarkable to observe that the Moon’s orbital period displays an exceptional steadiness in variation over the extended time range of 9400 years, as seen in the plot. Except for a small dip centered around 1500 CE, the plot is pretty much a rectangle. This steadiness is also reflected in the minuscule difference between this parameter’s modern and ancient values. The modern mean value of the Moon’s orbital period is 27.321661 days, which, quite remarkably, is only 1 s smaller than that given in the *Sūrya Siddhānta*, namely, 27.321674 days.
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 8. Variation of the orbital period of the Moon" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 8. Variation of the orbital period of the Moon" -->
 
 <!-- figure-meta: page=6, position=top, type=graph -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 9. Apsidal precession of the Moon’s orbit" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 9. Apsidal precession of the Moon’s orbit" -->
 
 <!-- figure-meta: page=6, position=middle, type=diagram -->
 
@@ -198,15 +198,15 @@ That said, it is remarkable to observe that the Moon’s orbital period displays
 The Moon’s orbit around the Earth is practically an ellipse. Due to the influence of the Sun, the axis of this ellipse experiences a torque that causes its apogee to continually shift in space, a phenomenon known as apsidal precession, as shown in Fig. 9.
 The Moon’s apsidal precession has a period of 8.85 years (about 3232 days). A direct formula to determine the position of the mean lunar apogee is known in modern times (Meeus, 1991), from which its orbital period may be obtained. Figure 10 shows the variation of this period over 9400 years. As shown in the plot, the current value of this period is 3232.6 days. The value given in the *Sūrya Siddhānta* is 3232.1 days, which appears to match the actual value from about 1370 BCE or so.
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 10. Variation of the Moon’s mean apsidal precession period" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 10. Variation of the Moon’s mean apsidal precession period" -->
 
 <!-- figure-meta: page=6, position=top, type=graph -->
 
-![Fig. 11. Variation of the Moon’s nodal precession period](media/p06_page.png)
+![Fig. 11. Variation of the Moon’s nodal precession period](media/p06_page.webp)
 
 *Fig. 11. Variation of the Moon’s nodal precession period*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=middle, type=graph -->
 

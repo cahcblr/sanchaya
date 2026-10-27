@@ -28,11 +28,11 @@ The mural circle set up at Madras had large instrumental errors which Taylor tri
 The original observatory building which housed the old transit instruments, the mural circle, *etc.* and later on the Troughton Simms meridional circle employed for the observations of 1862-87, was constructed in 1792. It was a single room, $40\text{ ft} \times 20\text{ ft} \times 15\text{ft}$ high with massive walls $2\text{ ft}$ thick. The instrumental base was a solid masonry pyramid (frustum), $45\text{ ft} \times 12\text{ ft}$ at the base, $37\text{ ft} \times 6\text{ ft}$ at the top and $6\text{ ft}$ high. In the centre of the top was placed a conical granite pier, $4\text{ ft}$ in dia at its base, $2\text{ ft}$ dia at the top, with a total height of $18\text{ ft}$; it was used to support Troughton's altitude and azimuth instrument. The observatory floor was detached from the pyramidal basement and made to rest on beams supported by the walls.
 Around 1845 the old observatory building received extensions in the eastward and westward directions for the accommodation of a magnetic observatory with its various instruments, manuscripts and computational work, and storage of instruments and other property. The original building while retained for transit circle observations as before was extended upwards for celestial photography with a Browning reflector.
 
-![Fig. 1. Plan of the Madras Observatory as it existed in 1887, reconstructed on the basis of Pogson's description.](media/p04_page.png)
+![Fig. 1. Plan of the Madras Observatory as it existed in 1887, reconstructed on the basis of Pogson's description.](media/p04_page.webp)
 
 *Fig. 1. Plan of the Madras Observatory as it existed in 1887, reconstructed on the basis of Pogson's description.*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=top, type=diagram -->
 
@@ -82,15 +82,15 @@ In Fig. 2. ST-represents the telescope. It consists of two slightly conical tube
 
 [^13]: Madras Meridian Circle Observations, 1862-64, v.
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 2" -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 2" -->
 
 <!-- figure-meta: page=6, position=top, type=diagram -->
 
-![Fig. 3](media/p06_page.png)
+![Fig. 3](media/p06_page.webp)
 
 *Fig. 3*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=bottom, type=diagram -->
 
@@ -118,11 +118,11 @@ The error made by an observer in estimating the time of transit is his personal 
 The principal errors of the transit circle are the collimation, the level and the azimuth error. When the line of collimation, that is the line through the optical centre of the objective and perpendicular to the axis of rotation, makes a small constant angle with the meridian this angle is the collimation error. The level error is the angle which the axis of rotation makes with the horizon. The azimuth error is the horizontal angle which the axis of rotation makes with the true east-west line or the prime vertical plane. The collimation error is determined by using two telescopes, called collimators, which are directed to each other, one due north and the other due south. By placing the transit telescope in the vertical position and by piercing two holes in the central cube, the cross wire of one collimating telescope is observed through the other collimator and the two wires are brought into coincidence. The transit telescope is then directed to each collimator in turn and adjustment with the collimator cross mark is made with a graduated screw. The mean of the two readings of the graduated screw gives the line of collimation agreeing with the meridian.
 The collimation error being thus eliminated, the level error is then determined by pointing the transit telescope downwards over a trough of mercury. In this case, a Bohnenberger eye-piece is used. (Fig. 4) This eye-piece contains a plate glass at $45^\circ$
 
-![Fig. 4](media/p10_page.png)
+![Fig. 4](media/p10_page.webp)
 
 *Fig. 4*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=diagram -->
 

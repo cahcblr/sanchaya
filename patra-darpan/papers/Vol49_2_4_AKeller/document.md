@@ -235,9 +235,9 @@ The 91 verses that end Bhāskara’s commentary on the mathematical part of the 
 Inspired by an algorithmic and functional definition of what is a numerical table, in the following we will call “tabular data” any set of two varying increments producing one or several outputs. This may be distinct from a “tabular alinement” or a “numerical array” involving lines and columns[^25].
 As seen in Fig. 2, $KU(a,b,c)[x,y]$ has three increments $a$, $b$ and $c$, producing two outputs, $x$ and $y$.
 
-![Fig. 2. Inputs and Outputs](media/p07_page.png)
+![Fig. 2. Inputs and Outputs](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 <!-- figure-meta: page=7, position=middle, type=diagram -->
 As noted previously, values of $a$ and $b$ are not explicitly stated in the verses considered here. In this sense, as in other versified tables known in Sanskrit literature, the increment of the tables is implicit. In practice, values of $b$ and $c$ are previously fixed in the verses here.
 Indeed, $c$ has a constant value: -1.

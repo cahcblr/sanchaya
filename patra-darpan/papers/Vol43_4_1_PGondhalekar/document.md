@@ -72,9 +72,9 @@ $$
 $$
 Traditionally a month was added to the years 3, 6, 8, 11, 14, 17 and 19 of the Metonic cycle. More practically the cycle of 19 years was approximated to a whole number of 6940 days by 125 long months of 30 days and 110 short months of 29 days. Starting from a fiducial year, the difference (in days) between the accumulated number of days in the tropical years and in the corresponding synodic years, intercalated according to the Metonic cycle, is shown in Fig. 1 for a period of 500 years. The difference is obtained at the end of each tropical year. Although every year the (corrected)
 
-![Fig. 1. Metonic Cycle. The difference, every year, between the accumulated number of days in the tropical years and in the corresponding intercalated synodic years.](media/p05_page.png)
+![Fig. 1. Metonic Cycle. The difference, every year, between the accumulated number of days in the tropical years and in the corresponding intercalated synodic years.](media/p05_page.webp)
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 <!-- figure-meta: page=5, position=bottom, type=graph -->
 ---
 [^*] Stoke Lodge, 10 Royal Crescent, Sandown, Isle of Wight, PO36 8LZ. Email: p.gondhalekar@btinternet.com
@@ -97,9 +97,9 @@ $$Difference\ (Tropical - Ritual)\ year = -3.8\ days$$
 
 This scheme of intercalation results in an average year of 366 days. In this scheme, after five years, the tropical year would have lagged behind the ritual year by 3.8 days and this would accumulate to thirty days after about thirty-nine years and six months. The ‘shift in the seasons’ would have been noticed long before thirty-nine years. The annual difference between the accumulated number of days in the tropical years and in the ritual years, over five hundred years, is shown in Fig. 2. The difference between the intercalation scheme of the Metonic cycle and the ‘five-year-*yuga*’ cycle is dramatic and it should be obvious that the Āryas could not have followed this rather crude scheme of intercalation.
 
-![Fig. 2. The annual difference in the accumulated number of days in the tropical years and the intercalated ritual years. The ‘simple’ intercalation in which a month of 30 days is added every fifth ritual year is shown in Curve #1. For Curve #2 the same correction is made every fifth year except every fortieth year no correction is made i.e. the 30-day month is not added.](media/p07_page.png)
+![Fig. 2. The annual difference in the accumulated number of days in the tropical years and the intercalated ritual years. The ‘simple’ intercalation in which a month of 30 days is added every fifth ritual year is shown in Curve #1. For Curve #2 the same correction is made every fifth year except every fortieth year no correction is made i.e. the 30-day month is not added.](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 <!-- figure-meta: page=7, position=middle, type=graph -->
 The Āryas could have used a ‘six-year-*yuga*’ for intercalation i.e. added a (thirteenth) month of 30 days in every sixth year. The only reason for considering this scheme is a reference, in calendrical context, to a group of six year in *Taittirīya Brāhmaṇas* (TB.III.10.4).[^33] That is;
 
@@ -197,12 +197,12 @@ The start of a new ritual year is not determined by the number of lunations in t
 
 step in this scheme is not redundant. The difference every year between the accumulated number of days in the tropical years and in the corresponding *sattra* years over a period of five hundred years is shown in Fig. 3. These results have been calculated from 1500 BC to 1000 BC but the epoch of calculation is not important, any other epoch would have similar results. This difference is as stable as that achieved by the Metonic cycle (Fig. 1). A closer look at these results reveals a number of interesting features. The length (in days) of the *sattra* years in a fifty year interval is not same but in an interval of five years the total number of days is 1830 and this is true for five (sometimes six) consecutive periods of five years, the sixth period of five years is 1800 days long. To see how the thirteenth month gets added consider
 INTERCALATION IN THE VEDIC TEXTS 507
-<!-- figure-resolved-page-render-hidden: image=media/p13_page.png caption="Fig. 3. The difference, every year, in the accumulated number of days in the tropical years and the intercalated years. The intercalation shown here is deduced from TS.VII.4.8 and PB.V.9." -->
+<!-- figure-resolved-page-render-hidden: image=media/p13_page.webp caption="Fig. 3. The difference, every year, in the accumulated number of days in the tropical years and the intercalated years. The intercalation shown here is deduced from TS.VII.4.8 and PB.V.9." -->
 <!-- figure-meta: page=13, position=top, type=graph -->
 
-![Fig. 4. The length (in days) of the sattra years in fifty year interval. The pattern of 1830 and 1800 days in five consecutive five years periods is more stable than the scheme of Intercalary month.](media/p13_page.png)
+![Fig. 4. The length (in days) of the sattra years in fifty year interval. The pattern of 1830 and 1800 days in five consecutive five years periods is more stable than the scheme of Intercalary month.](media/p13_page.webp)
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 <!-- figure-meta: page=13, position=bottom, type=graph -->
 Labels in Fig 4: $5(2 \times 6 \times 30) + 30 = 1830$; $5(2 \times 6 \times 30) = 1800$
 508 INDIAN JOURNAL OF HISTORY OF SCIENCE

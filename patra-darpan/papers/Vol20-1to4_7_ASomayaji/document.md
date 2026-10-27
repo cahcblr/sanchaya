@@ -362,17 +362,17 @@ In modern astronomy we have the formula $\cos h = - \tan \phi \tan \delta$ to ob
 Let $h = 90^{\circ} + \theta$ so that $\cos (90^{\circ} + \theta) = - \sin \theta = - \tan \phi \tan \delta$.
 Hence $\sin \theta = \tan \phi \tan \delta$ (1)
 
-<!-- figure-resolved-page-render-hidden: image=media/p21_page.png caption="Fig. 6.1 determination of the length of the day" -->
+<!-- figure-resolved-page-render-hidden: image=media/p21_page.webp caption="Fig. 6.1 determination of the length of the day" -->
 
 <!-- figure-meta: page=21, position=middle, type=diagram -->
 
 This $\theta$ is the arc EA in Fig. 6.1 where $S$ is the rising Sun (when $\delta$ is north) and is called *cara* in Hindu astronomy. For a given place $\phi$ the latitude does not change, whereas $\delta$ the declination of the Sun changes from day to day. In Hindu astronomy instead of specifying $\phi$ in degrees, what is called *palabhā* is used. This *palabhā* is the shadow of a vertical gnomon divided into 12 units called *angulas*, at noon on the equinoctial day. On the equinoctial day at noon the Sun is that $Q$ which is the point of intersection of the celestial equator with the meridian. From Fig. 6.2 $\tan \phi = \frac{s}{12}$. This *palabhā* is also given in the same units of *angulas*, so that if $s = 4 \tan \phi = \frac{4}{12} = \frac{1}{3} = \cdot 3333$ so that $\phi = 18^{\circ} 25'$.
 
-![Fig. 6.2 determination of the palabha](media/p21_page.png)
+![Fig. 6.2 determination of the palabha](media/p21_page.webp)
 
 *Fig. 6.2 determination of the palabha*
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 
 <!-- figure-meta: page=21, position=bottom-right, type=diagram -->
 
@@ -428,11 +428,11 @@ In the first place, we shall consider the eccentric theory. Bhāskara says here 
 
 Let $A$ be the centre of the Earth; let $P$ be the mean planet construed to go round in a circle whose centre is $A$. (Fig. 6.3) Let $B$ be the centre of the circle, in which the planet actually moves. It must be noted that the radii of these two circles are equal.
 
-![Fig. 6.3 Eccentric model for planetary manda](media/p24_page.png)
+![Fig. 6.3 Eccentric model for planetary manda](media/p24_page.webp)
 
 *Fig. 6.3 Eccentric model for planetary manda*
 
-<!-- figure-resolved-page-render: page=24 image=media/p24_page.png -->
+<!-- figure-resolved-page-render: page=24 image=media/p24_page.webp -->
 
 <!-- figure-meta: page=24, position=bottom, type=diagram -->
 
@@ -454,11 +454,11 @@ $2e = PQ$ is called the $antyaphala$, i.e. maximum equation of centre. The word 
 
 ## EPICYCLIC THEORY
 
-![Fig. 6.4. Epicyclic model for planetary manda corrections.](media/p26_page.png)
+![Fig. 6.4. Epicyclic model for planetary manda corrections.](media/p26_page.webp)
 
 *Fig. 6.4. Epicyclic model for planetary manda corrections.*
 
-<!-- figure-resolved-page-render: page=26 image=media/p26_page.png -->
+<!-- figure-resolved-page-render: page=26 image=media/p26_page.webp -->
 
 <!-- figure-meta: page=26, position=middle, type=diagram -->
 
@@ -501,7 +501,7 @@ YUGA SYSTEM AND COMPUTATION OF LONGITUDES 175
 Then the *śīghraphala* is to reduce the heliocentric true planet to the geocentric. According to this, the processes prescribed by Bhāskara under the name of *āgama* and *upalabdhi*, i.e. tradition and accordance, between the computed position and the observed, or that prescribed by the *Sūrya-siddhānta*, seem to be beating about the bush. However, we shall revert to this later to see some rationale behind these procedures.
 Now we shall try to interpret the *śīghraphala* as no other than the correction to be effected to reduce the heliocentric position of the planet to the geocentric. In the first place, we shall consider this with respect to the Hindu epicyclic theory. In the case of the equation of centre, construing the arc $PT$ as roughly equal to $QL$ did not matter because of the smallness of the equation of centre (Fig. 6.5).
 
-![Fig. 6. Computation of śīghrakarṇa.](media/p31_page.png)
+![Fig. 6. Computation of śīghrakarṇa.](media/p31_page.webp)
 
 *Fig. 6. Computation of śīghrakarṇa.*
 
@@ -536,7 +536,7 @@ The proof is simple.
 176 HISTORY OF ASTRONOMY IN INDIA
 We shall derive these formulae from the modern heliocentric figure also. We shall consider the case of a superior planet, say Jupiter, for example.
 
-![Fig. 6.6](media/p32_page.png)
+![Fig. 6.6](media/p32_page.webp)
 
 *Fig. 6.6*
 
@@ -607,7 +607,7 @@ YUGA SYSTEM AND COMPUTATION OF LONGITUDES 179
 exhibits his genius. This *śīghragatiphala* is very important because we have got to know when the planet retrogrades.
 Before we seek to find the *śīghragatiphala* let us take up the procedure laid down to rectify the inferior planets Mercury and Venus. We take Venus and the procedure is the same with respect to Mercury also.
 
-![Fig. 6.7 Correction for inferior planets Mercury and Venus.](media/p35_page.png)
+![Fig. 6.7 Correction for inferior planets Mercury and Venus.](media/p35_page.webp)
 
 *Fig. 6.7 Correction for inferior planets Mercury and Venus.*
 
@@ -706,7 +706,7 @@ Now we shall give Bhāskara’s proof with respect to the $\mathit{śīghragatip
 ---
 184 HISTORY OF ASTRONOMY IN INDIA
 
-![Fig. 184. Bhāskara's proof with respect to śīghragatiphala](media/p40_page.png)
+![Fig. 184. Bhāskara's proof with respect to śīghragatiphala](media/p40_page.webp)
 
 *Fig. 184. Bhāskara's proof with respect to śīghragatiphala*
 

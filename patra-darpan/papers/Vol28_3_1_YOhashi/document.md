@@ -628,11 +628,11 @@ In conclusion, we can say that the *Jyotiṣa-vedāṅga* was composed in North 
 
 The earliest Indian literature which mentions the gnomon is the *Kātyāyana-śulba-sūtra*, which describes the determination of cardinal directions by the gnomon.
 
-![Fig. 1. The length of daytime (muhūrtas) vs The sun's longitude (degrees). Graph showing curves for 35°N, 29°N, 27°N and the Jyotiṣa-vedāṅga's linear zig-zag function.](media/p22_page.png)
+![Fig. 1. The length of daytime (muhūrtas) vs The sun's longitude (degrees). Graph showing curves for 35°N, 29°N, 27°N and the Jyotiṣa-vedāṅga's linear zig-zag function.](media/p22_page.webp)
 
 *Fig. 1. The length of daytime (muhūrtas) vs The sun's longitude (degrees). Graph showing curves for 35°N, 29°N, 27°N and the Jyotiṣa-vedāṅga's linear zig-zag function.*
 
-<!-- figure-resolved-page-render: page=22 image=media/p22_page.png -->
+<!-- figure-resolved-page-render: page=22 image=media/p22_page.webp -->
 
 <!-- figure-meta: page=22, position=middle, type=graph -->
 
@@ -646,11 +646,11 @@ The *Kātyāyana-śulba-sūtra* (1.2)[^2] reads:
 "Having put a gnomon (*śaṅku*) on a level ground, and having described a circle with a cord whose length is equal to the gnomon, two pins (*śaṅkū*) are placed on each of the two points where the tip of the gnomon-shadow touches [the circle in the forenoon and afternoon respectively]. This [line joining the two points] is the east-west line (*prācī*)."
 This method is the well known "Indian Circle" method, as called by al-Bīrūnī[^3]. On any desired day[^4], the east-west direction (see Fig. 2) can be determined by joining two points (E' and W' in the figure) where the tip of the shadow of the gnomon (AB) touches the circle (NESW).
 
-![Fig. 2. Diagram of the Indian Circle method for determining cardinal directions using a gnomon.](media/p23_page.png)
+![Fig. 2. Diagram of the Indian Circle method for determining cardinal directions using a gnomon.](media/p23_page.webp)
 
 *Fig. 2. Diagram of the Indian Circle method for determining cardinal directions using a gnomon.*
 
-<!-- figure-resolved-page-render: page=23 image=media/p23_page.png -->
+<!-- figure-resolved-page-render: page=23 image=media/p23_page.webp -->
 
 <!-- figure-meta: page=23, position=bottom, type=diagram -->
 
@@ -838,7 +838,7 @@ The *Artha-śāstra* (II.20.39-40)[^1] reads:
 >
 > "39. When the shadow (of the gnomon) is eight *pauruṣas*, one-eighteenth part (of the day) is past, when six *pauruṣas*, one-fourteenth part (is past), when three *pauruṣas*, one-eighth part, when two *pauruṣas*, one-sixth part, when one *pauruṣa*, one-fourth part, when eight *aṅgulas*, three-tenth part (is past), when four *aṅgulas*, three-eighth part, (and) when there is no shadow, it is midday.
 
-![Fig. 3](media/p30_page.png)
+![Fig. 3](media/p30_page.webp)
 
 *Fig. 3*
 
@@ -955,11 +955,11 @@ where $s'$ is the length of the noon shadow.
 Evidently, the $Artha\text{-}śāstra$'s data was meant for the summer solstitial day, when the midday shadow was considered to be zero. That the $Artha\text{-}śāstra$'s formula is fairly good on the summer solstitial day can be seen[^11] in Fig. 4, where the $Artha\text{-}śāstra$'s formula is compared with the actual shadow length. It is not certain whether the above-mentioned generalized formula (2) was used in the time of the $Artha\text{-}śāstra$ or is a later invention. We shall examine this generalized formula again in the section giving concluding remarks.
 We should note that the shadow length is one gnomon-length longer than the midday shadow at the end of the first quarter of daytime according to the generalized formula (2). This is exactly what we have seen[^12] in the Jaina table of the seasonal variation of the gnomon-shadow interpreted by Hermann Jacobi. Therefore, the formula (2) seems to have been used by ancient Jainas.
 
-![Fig. 4. Comparison of Artha-śāstra's formula and actual shadow length at the summer solstice](media/p33_page.png)
+![Fig. 4. Comparison of Artha-śāstra's formula and actual shadow length at the summer solstice](media/p33_page.webp)
 
 *Fig. 4. Comparison of Artha-śāstra's formula and actual shadow length at the summer solstice*
 
-<!-- figure-resolved-page-render: page=33 image=media/p33_page.png -->
+<!-- figure-resolved-page-render: page=33 image=media/p33_page.webp -->
 
 <!-- figure-meta: page=33, position=bottom, type=graph -->
 
@@ -1077,11 +1077,11 @@ In the early Indian texts, the length of the shadow on an equinoctial day is 6 *
 The data is not so bad, but it is not smooth. (See Fig. 5)[^22]. The rationale of this data is still not clear[^23].
 The data on diurnal variation of the shadow, which does not follow a linear equation, was also used in the Greek shadow table[^24] which we have discussed in
 
-![Fig. 5](media/p37_page.png)
+![Fig. 5](media/p37_page.webp)
 
 *Fig. 5*
 
-<!-- figure-resolved-page-render: page=37 image=media/p37_page.png -->
+<!-- figure-resolved-page-render: page=37 image=media/p37_page.webp -->
 
 <!-- figure-meta: page=37, position=middle, type=graph -->
 
@@ -1115,11 +1115,11 @@ From Fig. 6 (a) (for $35^\circ \text{N}$), it is seen that the Mesopotamian Eq. 
 From Fig. 6 (b) (for $23^\circ.7 \text{N}$), it is seen that the Mesopotamian Eq. (3) is of no use there, because it gives zero-length throughout the day at the summer solstice. On the contrary, the Indian Eq. (2) is excellent around the summer
 224 YUKIO ŌHASHI
 
-![Fig. 6](media/p40_page.png)
+![Fig. 6](media/p40_page.webp)
 
 *Fig. 6*
 
-<!-- figure-resolved-page-render: page=40 image=media/p40_page.png -->
+<!-- figure-resolved-page-render: page=40 image=media/p40_page.webp -->
 
 <!-- figure-meta: page=40, position=middle, type=graph -->
 
@@ -1162,19 +1162,19 @@ Type (2): Floating bowl. This is a hemispherical bowl which has a hole at its bo
 Type (3): Inflow type. Water constantly inflows to a cylindrical receiver from another water tank. Time can be read from the amount of water in the receiver. This is the common type in pre-modern China, and several devices were made in China in order to keep water-flow constant (See Fig. 9).
 Among the above three types, the first two types are found in Sanskrit texts. Let us examine early Sanskrit accounts of the clepsydra one by one.
 
-<!-- figure-resolved-page-render-hidden: image=media/p41_page.png caption="Fig. 7. Outflow type" -->
+<!-- figure-resolved-page-render-hidden: image=media/p41_page.webp caption="Fig. 7. Outflow type" -->
 
 <!-- figure-meta: page=41, position=bottom, type=diagram -->
 
-<!-- figure-resolved-page-render-hidden: image=media/p41_page.png caption="Fig. 8. Floating bowl" -->
+<!-- figure-resolved-page-render-hidden: image=media/p41_page.webp caption="Fig. 8. Floating bowl" -->
 
 <!-- figure-meta: page=41, position=bottom, type=diagram -->
 
-![Fig. 9. Inflow type](media/p41_page.png)
+![Fig. 9. Inflow type](media/p41_page.webp)
 
 *Fig. 9. Inflow type*
 
-<!-- figure-resolved-page-render: page=41 image=media/p41_page.png -->
+<!-- figure-resolved-page-render: page=41 image=media/p41_page.webp -->
 
 <!-- figure-meta: page=41, position=bottom, type=diagram -->
 

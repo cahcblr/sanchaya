@@ -868,11 +868,11 @@ at the place i.e. = $$\frac{3300 \times R. \text{ Cos } \phi}{R}$$
 
 *Note :* ABC is terrestrial equator (Fig. 1)
 
-![Fig. 1. ABC is terrestrial equator](media/p30_page.png)
+![Fig. 1. ABC is terrestrial equator](media/p30_page.webp)
 
 *Fig. 1. ABC is terrestrial equator*
 
-<!-- figure-resolved-page-render: page=30 image=media/p30_page.png -->
+<!-- figure-resolved-page-render: page=30 image=media/p30_page.webp -->
 
 <!-- figure-meta: page=30, position=top, type=diagram -->
 
@@ -918,15 +918,15 @@ Thus in $Tantrasaṃgraha$ the first chapter entitled $Madhyamaprakaraṇa$ (The
 
 1. The longitude of the planet diminished by its $ucca$ is the $Kendra$ (anomaly). In that a quarter is equal to three $rāśis$ (i.e. $90^\circ$). In the odd quadrants, that which is gone (passed over) and yet to go are called the $bhuja$ (arm) and $koṭi$ (the vertical side). In the even quadrants it is otherwise.
 
-<!-- figure-resolved-page-render-hidden: image=media/p32_page.png caption="Fig. 2" -->
+<!-- figure-resolved-page-render-hidden: image=media/p32_page.webp caption="Fig. 2" -->
 
 <!-- figure-meta: page=32, position=middle, type=diagram -->
 
-![Fig. 3](media/p32_page.png)
+![Fig. 3](media/p32_page.webp)
 
 *Fig. 3*
 
-<!-- figure-resolved-page-render: page=32 image=media/p32_page.png -->
+<!-- figure-resolved-page-render: page=32 image=media/p32_page.webp -->
 
 <!-- figure-meta: page=32, position=middle, type=diagram -->
 
@@ -1056,7 +1056,7 @@ which is clearly based on Sin (A$\pm$B) formula, or the method of ‘*Jīve-para
 TANTRASAṂGRAHA OF NĪLAKAṆṬHA SOMAYĀJĪ    S 39
 *Ascensional differences in prāṇas (Fig. 4)*
 
-<!-- figure-resolved-page-render-hidden: image=media/p39_page.png caption="Fig. 4" -->
+<!-- figure-resolved-page-render-hidden: image=media/p39_page.webp caption="Fig. 4" -->
 
 <!-- figure-meta: page=39, position=top, type=diagram -->
 
@@ -1071,11 +1071,11 @@ $\text{S}\dot{\text{S}}$ is EL Cos $\delta$
 *Note* : The *śloka* gives, $\text{R Sin } \delta = \frac{\text{R Sin } \lambda \text{ . R Sin } 24^\circ}{\text{R}}$
 Taking $\omega = 24^\circ$ the result follows by applying sine formula for $\Delta \text{rSD (Fig. 5)}$
 
-![Fig. 5](media/p39_page.png)
+![Fig. 5](media/p39_page.webp)
 
 *Fig. 5*
 
-<!-- figure-resolved-page-render: page=39 image=media/p39_page.png -->
+<!-- figure-resolved-page-render: page=39 image=media/p39_page.webp -->
 
 <!-- figure-meta: page=39, position=middle, type=diagram -->
 
@@ -1143,11 +1143,11 @@ $(\alpha + \delta\theta) - \text{Sin }(\alpha + \delta\theta), (2\alpha + \delta
 
 $$Kar\d{n}a = \sqrt{(R \pm ko\d{t}iphala)^2 + (bhuj\bar{a}phala)^2}$$
 
-![Fig. 6. Mandakarṇa (fig. 6)](media/p42_page.png)
+![Fig. 6. Mandakarṇa (fig. 6)](media/p42_page.webp)
 
 *Fig. 6. Mandakarṇa (fig. 6)*
 
-<!-- figure-resolved-page-render: page=42 image=media/p42_page.png -->
+<!-- figure-resolved-page-render: page=42 image=media/p42_page.webp -->
 
 <!-- figure-meta: page=42, position=bottom, type=diagram -->
 

@@ -88,11 +88,11 @@ We have already noted that the year was started at the winter solstice by actual
 6
 K.D. ABHYANKAR
 
-![Fig. 1.  (6-5)/40 year yuga cycle.](media/p06_page.png)
+![Fig. 1.  (6-5)/40 year yuga cycle.](media/p06_page.webp)
 
 *Fig. 1.  (6-5)/40 year yuga cycle.*
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 
 <!-- figure-meta: page=6, position=middle, type=graph -->
 
@@ -163,11 +163,11 @@ Fig. 2 shows the six-year *yuga* calendar, which we have called the *Aśvinī* c
 ---
 10 K.D. ABHYANKAR
 
-![Fig. 2. Aśvinī calendar of 7000 BC.](media/p10_page.png)
+![Fig. 2. Aśvinī calendar of 7000 BC.](media/p10_page.webp)
 
 *Fig. 2. Aśvinī calendar of 7000 BC.*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=diagram -->
 

@@ -434,11 +434,11 @@ an algebraic identity through a logical stream of thinking
 | | | | | | $0$ | |
 | **Cube root** | **=** | | | | **$27$** | |
 
-![Fig. 10. Algorithm of finding the cube-root](media/p10_page.png)
+![Fig. 10. Algorithm of finding the cube-root](media/p10_page.webp)
 
 *Fig. 10. Algorithm of finding the cube-root*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=top, type=table -->
 

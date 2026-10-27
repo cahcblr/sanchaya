@@ -80,7 +80,7 @@ A Babylonian origin has been advocated for the mathematical theory of VJ by some
 ---
 INDIAN JOUANAL OF HISTORY OF SCIENCE 179
 
-![Figure 1: Winter Solstice in 1180 BC](media/p07_page.png)
+![Figure 1: Winter Solstice in 1180 BC](media/p07_page.webp)
 
 *Figure 1: Winter Solstice in 1180 BC*
 
@@ -91,7 +91,7 @@ INDIAN JOUANAL OF HISTORY OF SCIENCE 179
 ---
 180 DATE OF VEDĀNGA JYOTIṢA
 
-![Figure 2: Full Moon after Winter Solstice in 1180 BC](media/p08_page.png)
+![Figure 2: Full Moon after Winter Solstice in 1180 BC](media/p08_page.webp)
 
 *Figure 2: Full Moon after Winter Solstice in 1180 BC*
 
@@ -102,7 +102,7 @@ INDIAN JOUANAL OF HISTORY OF SCIENCE 179
 ---
 INDIAN JOUANAL OF HISTORY OF SCIENCE 181
 
-![Figure 3: Summer Solstice in 1180 BC](media/p09_page.png)
+![Figure 3: Summer Solstice in 1180 BC](media/p09_page.webp)
 
 *Figure 3: Summer Solstice in 1180 BC*
 
@@ -113,7 +113,7 @@ INDIAN JOUANAL OF HISTORY OF SCIENCE 181
 ---
 182 DATE OF VEDĀNGA JYOTIṢA
 
-![Figure 4: Full Moon Summer Solstice in 1180 BC](media/p10_page.png)
+![Figure 4: Full Moon Summer Solstice in 1180 BC](media/p10_page.webp)
 
 *Figure 4: Full Moon Summer Solstice in 1180 BC*
 
@@ -123,11 +123,11 @@ INDIAN JOUANAL OF HISTORY OF SCIENCE 181
 
 INDIAN JOURNAL OF HISTORY OF SCIENCE 183
 
-![Figure 5: Winter Solstice in 1752 BC](media/p11_page.png)
+![Figure 5: Winter Solstice in 1752 BC](media/p11_page.webp)
 
 *Figure 5: Winter Solstice in 1752 BC*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=graph -->
 

@@ -452,11 +452,11 @@ This means if the Sun rises at time $t_1$ at a place ($P$), then the sunrise at 
 
 130 Indian Journal of History of Science (2025) 60:121–134
 
-![Fig. 1. Finding the longitude of a planet at one’s own place](media/p10_page.png)
+![Fig. 1. Finding the longitude of a planet at one’s own place](media/p10_page.webp)
 
 *Fig. 1. Finding the longitude of a planet at one’s own place*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=10, position=top, type=diagram -->
 
@@ -544,11 +544,11 @@ or
 
 $$\text{Instant of 'true noon'} = \text{Instant corresponding to } S_E \pm Prāṇakalāntara \pm Bhujāphala.$$
 
-![Fig. 2. Correction for duration of the day](media/p11_page.png)
+![Fig. 2. Correction for duration of the day](media/p11_page.webp)
 
 *Fig. 2. Correction for duration of the day*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=11, position=bottom, type=diagram -->
 

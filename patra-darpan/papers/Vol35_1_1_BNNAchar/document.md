@@ -143,11 +143,11 @@ This work has been supported in part by a University of Memphis Faculty Research
 
 ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 11
 
-![Fig. 1. Horizon Map facing east at Delhi on July 9, 1999 AD at 2: 10 a.m. Azimuth-Altitude system, Crescent moon and Kṛttikās seen towards north](media/p11_page.png)
+![Fig. 1. Horizon Map facing east at Delhi on July 9, 1999 AD at 2: 10 a.m. Azimuth-Altitude system, Crescent moon and Kṛttikās seen towards north](media/p11_page.webp)
 
 *Fig. 1. Horizon Map facing east at Delhi on July 9, 1999 AD at 2: 10 a.m. Azimuth-Altitude system, Crescent moon and Kṛttikās seen towards north*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=graph -->
 
@@ -159,11 +159,11 @@ ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 11
 ***
 12 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 2. Area Map at Delhi on July 9, 1999 at 2:10 a.m. Right Ascension-Declination system](media/p12_page.png)
+![Fig. 2. Area Map at Delhi on July 9, 1999 at 2:10 a.m. Right Ascension-Declination system](media/p12_page.webp)
 
 *Fig. 2. Area Map at Delhi on July 9, 1999 at 2:10 a.m. Right Ascension-Declination system*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=middle, type=graph -->
 
@@ -175,11 +175,11 @@ ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 11
 ***
 ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 13
 
-![Fig. 3. Horizon Map facing north at Delhi on July 9, 1999 AD at 5:32 a.m. Azimuth-Altitude system, Saptarṣi just rising above the horizon](media/p13_page.png)
+![Fig. 3. Horizon Map facing north at Delhi on July 9, 1999 AD at 5:32 a.m. Azimuth-Altitude system, Saptarṣi just rising above the horizon](media/p13_page.webp)
 
 *Fig. 3. Horizon Map facing north at Delhi on July 9, 1999 AD at 5:32 a.m. Azimuth-Altitude system, Saptarṣi just rising above the horizon*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=middle, type=graph -->
 
@@ -191,11 +191,11 @@ ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 13
 ***
 14 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 4. Horizon Map facing east at Delhi on July 8, 1199 BC at 0:35 a.m. Azimuth-Altitude system, Crescent moon towards south and Kṛttikās seen towards north.](media/p14_page.png)
+![Fig. 4. Horizon Map facing east at Delhi on July 8, 1199 BC at 0:35 a.m. Azimuth-Altitude system, Crescent moon towards south and Kṛttikās seen towards north.](media/p14_page.webp)
 
 *Fig. 4. Horizon Map facing east at Delhi on July 8, 1199 BC at 0:35 a.m. Azimuth-Altitude system, Crescent moon towards south and Kṛttikās seen towards north.*
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 
 <!-- figure-meta: page=14, position=middle, type=graph -->
 
@@ -207,11 +207,11 @@ ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 13
 ***
 ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 15
 
-![Fig. 5. Horizon Map facing east at Delhi on August 16, 2926 BC at 9:45 p.m. Right Ascension-Declination system, Kṛttikās exactly at the east.](media/p15_page.png)
+![Fig. 5. Horizon Map facing east at Delhi on August 16, 2926 BC at 9:45 p.m. Right Ascension-Declination system, Kṛttikās exactly at the east.](media/p15_page.webp)
 
 *Fig. 5. Horizon Map facing east at Delhi on August 16, 2926 BC at 9:45 p.m. Right Ascension-Declination system, Kṛttikās exactly at the east.*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=middle, type=graph -->
 
@@ -222,11 +222,11 @@ ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 15
 
 16 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 6. Horizon Map facing east at Delhi on August 16, 2926 BC at 5:45 a.m. Right Ascension-Declination system](media/p16_page.png)
+![Fig. 6. Horizon Map facing east at Delhi on August 16, 2926 BC at 5:45 a.m. Right Ascension-Declination system](media/p16_page.webp)
 
 *Fig. 6. Horizon Map facing east at Delhi on August 16, 2926 BC at 5:45 a.m. Right Ascension-Declination system*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=middle, type=graph -->
 
@@ -240,11 +240,11 @@ Right Ascension-Declination system
 ***
 ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 17
 
-![Fig. 7. Horizon Map facing east at Delhi on August 16, 2926 BC at 11:45 a.m. Right Ascension-Declination system](media/p17_page.png)
+![Fig. 7. Horizon Map facing east at Delhi on August 16, 2926 BC at 11:45 a.m. Right Ascension-Declination system](media/p17_page.webp)
 
 *Fig. 7. Horizon Map facing east at Delhi on August 16, 2926 BC at 11:45 a.m. Right Ascension-Declination system*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=middle, type=graph -->
 
@@ -258,11 +258,11 @@ Right Ascension-Declination system
 ***
 18 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 8. Horizon Map facing east at Delhi on August 16, 2926 BC at 5:45 p.m. Right Ascension-Declination system](media/p18_page.png)
+![Fig. 8. Horizon Map facing east at Delhi on August 16, 2926 BC at 5:45 p.m. Right Ascension-Declination system](media/p18_page.webp)
 
 *Fig. 8. Horizon Map facing east at Delhi on August 16, 2926 BC at 5:45 p.m. Right Ascension-Declination system*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=middle, type=graph -->
 
@@ -276,11 +276,11 @@ Right Ascension-Declination system
 ***
 ASTRONOMICAL BASIS OF THE DATE OF ŚATAPATHA BRĀHMAṆA 19
 
-![Fig. 9. Horizon Map facing north at Delhi on August 16, 2926 BC at 9:45 p.m. Right Ascension-Declination system](media/p19_page.png)
+![Fig. 9. Horizon Map facing north at Delhi on August 16, 2926 BC at 9:45 p.m. Right Ascension-Declination system](media/p19_page.webp)
 
 *Fig. 9. Horizon Map facing north at Delhi on August 16, 2926 BC at 9:45 p.m. Right Ascension-Declination system*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=middle, type=graph -->
 

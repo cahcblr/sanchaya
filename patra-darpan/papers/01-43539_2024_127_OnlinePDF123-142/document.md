@@ -39,7 +39,7 @@ $$S = \sum_{i,j=1}^{n} m_{ij} [[i = j]] = \sum_{i,j=1}^{n} m_{ij} [[j = n - i + 
 
 (d) Sum along the broken diagonals (*alpaśruti*)
 
-<!-- figure-resolved-page-render-hidden: image=media/p02_page.png caption="Fig. 1. Depiction of semi, normal and pandiagonal magic squares" -->
+<!-- figure-resolved-page-render-hidden: image=media/p02_page.webp caption="Fig. 1. Depiction of semi, normal and pandiagonal magic squares" -->
 
 <!-- figure-meta: page=2, position=top, type=diagram -->
 
@@ -54,17 +54,17 @@ $$S = \sum_{i,j=1}^{n} m_{ij} [[i - j = d_2 \pmod n]] \forall d_2 = \{1, 2, \dot
 A survey of mathematical development over many eras across various civilizations reveals that in India, magic squares have been known for more than two millennia. However, a thorough mathematical analysis of the topic and systematic rules for their construction are to be found in the last millennia alone based on the extant texts.
 One of the earliest occurrence of magic squares is found in the works of Nāgārjuna[^2] who flourished around the 1st century CE. One of the squares in this work is called *Nāgārjunīya* after him. The squares given by Nāgārjuna are all $4 \times 4$ squares, and some of these seem to have been known before him. The even sum squares constructed based on this template are pandiagonal. So is the $4 \times 4$ square with magic sum 100 known as “Nāgārjunīya” (Kolachana et al. 2019, p.382) (Fig. 2).
 
-<!-- figure-resolved-page-render-hidden: image=media/p02_page.png caption="Fig. 2. Nāgārjuniya Magic Square (magic sum = 100)" -->
+<!-- figure-resolved-page-render-hidden: image=media/p02_page.webp caption="Fig. 2. Nāgārjuniya Magic Square (magic sum = 100)" -->
 
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 
 Another interesting pandiagonal magic square found in a work of Varāhamihira is also of the order 4, and gives the magic sum 18. Varāhamihira’s *Bṛhatsaṃhitā* (c. 6th century CE) is a historically important encyclopedic work. In Chapter 76, verses 23–26, he gives the method of preparing perfumes employing the *sarvatobhadra*[^3] (Fig. 3). The commentator Bhaṭṭotpala (c.950 CE) has detailed that the method clearly involved the use of the following 16 celled square which Varāhamihira calls *ṣoḍaśa-kacchapuṭa*[^4]. This magic square has been employed in apportioning sixteen ingredients in the context of perfume preparation. By choosing four elements along the row, column, leading or broken
 
-![Fig. 3. Pandiagonal sarvatobhadra of Varāhamihira](media/p02_page.png)
+![Fig. 3. Pandiagonal sarvatobhadra of Varāhamihira](media/p02_page.webp)
 
 *Fig. 3. Pandiagonal sarvatobhadra of Varāhamihira*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 
@@ -847,11 +847,11 @@ Likewise, by considering any of the 14 numbers (3, 4, ...16), and the sets of fo
 In this study, having set the context and content of the text *Gaṇitakaumudī*, we highlighted the motivation for studying the *turagagati* method of constructing $4 \times 4$ pandiagonal magic squares as elucidated by Nārāyaṇa Paṇḍita. The verses that present this method in the *Gaṇitakaumudī* allows scope for interpreting the algorithm to either place the pairs from a sequence only through HMs or by considering moves in addition to HMs. The current paper presents the algorithms pertaining to construction of pandiagonal magic square purely through HMs only.
 We have completely worked out the algorithm for constructing the magic squares using moves that involve moves other than HMs. However, we felt that the algorithm that employs only HMs (Sect. 4) is far more elegant. Of foremost importance to Indian mathematicians is simplicity and an optimised set of rules. This inclination is visible throughout the mathematical tradition of India. Hence the algorithm that employs only the HMs by taking pairs in order and by jumping the order, within the pair, within pair of pairs and across pair of pairs, seems to be the way that befits the above said factor.
 
-![Fig. 13. Numbers in HMs from 1, 2, 3 and 4](media/p18_page.png)
+![Fig. 13. Numbers in HMs from 1, 2, 3 and 4](media/p18_page.webp)
 
 *Fig. 13. Numbers in HMs from 1, 2, 3 and 4*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=top, type=diagram -->
 
@@ -861,11 +861,11 @@ This work also highlights the most impressive advancement of magic square constr
 
 This appendix presents all the 24 possible pandiagonal magic squares that can be constructed with 1 in the top-left cell (Fig. 14).
 
-![Fig. 14. All possible ways with 1 fixed at the top left corner cell (1,1)](media/p19_page.png)
+![Fig. 14. All possible ways with 1 fixed at the top left corner cell (1,1)](media/p19_page.webp)
 
 *Fig. 14. All possible ways with 1 fixed at the top left corner cell (1,1)*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=top, type=diagram -->
 

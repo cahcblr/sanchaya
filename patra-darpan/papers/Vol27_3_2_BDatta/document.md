@@ -407,9 +407,9 @@ Piṅgala has also an alternative method to find the total number of variations[
 “Draw one square at the top; below it draw two squares, so that half of each of them lies beyond the former on either side of it. Below them in the same way draw three squares; then below them four; and so on up to as many rows as desired: this is the preliminary representation of the Meru (*Meru-prastāra*). Then putting down one in the first square, the marking should be started. In the next two squares write one in each. In the third row, put 1 in each of the two extreme squares and in the middle square, the sum of the two digits in an intermediate square put the sum of the digits in two squares of the previous row, which lie just above it. Putting down numbers in the other rows should be carried on in the same way. Now the numbers in the second row of squares show the monosyllabic forms: There are two forms, one consisting of a long and the other of a short syllable. The numbers in the third row give the disyllabic forms: in one form all syllables are long; in two forms one syllable is short; and in one all syllables are short. In this row of the squares we get the number of variations of the even verse. The numbers in the fourth row of squares represent trisyllabics. There one form has all syllables long, three have one short syllable; three have two short syllables and one has all syllables short, and so on. In the fifth and succeeding rows also the figure in the first square gives the number of forms with all syllables long, that in the last all syllables short and the figures in the successive intermediate squares represent the number of forms with one, two, etc. short syllables”[^53].
 Thus, according to the above, the number of variations of a metre containing $n$ syllables will be obtained from the representation of the *Meru* as follows:
 
-![Fig. 14. The Meru-prastāra (Pascal's Triangle)](media/p14_page.png)
+![Fig. 14. The Meru-prastāra (Pascal's Triangle)](media/p14_page.webp)
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 <!-- figure-meta: page=14, position=middle, type=diagram -->
 
 | Number of syllables | Meru Row Representation | Total number of variations |
@@ -488,16 +488,16 @@ Thus, the total number of combinations that can be made out of the 15 elements o
 
 246 BIBHUTIBHUSAN DATTA AND AWADHESH NARAYAN SINGH
 If the four kinds of wrong talks be denoted by $v_1, v_2, v_3, v_4$; the four kinds of passions by $k_1, k_2, k_3, k_4$; and the five kinds of senses by $i_1, i_2, i_3, i_4, i_5$, the representation described here will be this:
-<!-- figure-resolved-page-render-hidden: image=media/p16_page.png caption="Fig. 16. Representation of combinations - First Scheme, part 1" -->
+<!-- figure-resolved-page-render-hidden: image=media/p16_page.webp caption="Fig. 16. Representation of combinations - First Scheme, part 1" -->
 <!-- figure-meta: page=16, position=top, type=diagram -->
-<!-- figure-resolved-page-render-hidden: image=media/p16_page.png caption="Fig. 16. Representation of combinations - First Scheme, part 2" -->
+<!-- figure-resolved-page-render-hidden: image=media/p16_page.webp caption="Fig. 16. Representation of combinations - First Scheme, part 2" -->
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 and so on, $v_2, v_3, v_4$ coming successively in the places of $v_1$.
 (2) "Write down the elements of the first category as many times as the number of elements in the second category; then put down over each group severally each of the elements of the second category; and proceed thus throughout. When all the elements of the first category are exhausted, begin afresh with the second category (and so on). When all the elements of these two categories are thus distributed out, the operation with the elements in the third category begins" $^ {62}$.
 
-![Fig. 16. Representation of combinations - Second Scheme](media/p16_page.png)
+![Fig. 16. Representation of combinations - Second Scheme](media/p16_page.webp)
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 (iii) "Divide (the given serial number) successively by the number of elements in the different categories, adding each time unity to the quotient, except when the remainder is zero. The remainders determine the place of an element in its category; the zero remainder indicates the last element" $^ {63}$.
 For example, let us find the elements of the 13th combination.

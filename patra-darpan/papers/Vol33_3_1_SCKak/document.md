@@ -121,7 +121,7 @@ Out of these layers, the first represents the terrestrial world;[^17] the second
 The whole altar is just an expansion of the tripartite system of the world:[^22]
 “the first layer is this very (terrestrial) world; and the uppermost (layer) is the sky; and those three (intermediate layers) are the air”. These layers are shown in the Figures 1 through 5.
 
-![Figure 1. Layer 1, the earth.](media/p07_page.png)
+![Figure 1. Layer 1, the earth.](media/p07_page.webp)
 
 *Figure 1. Layer 1, the earth.*
 
@@ -132,13 +132,13 @@ The whole altar is just an expansion of the tripartite system of the world:[^22]
 182
 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p08_page.png caption="Figure 2. Layer 2, the lower atmosphere." -->
+<!-- figure-resolved-page-render-hidden: image=media/p08_page.webp caption="Figure 2. Layer 2, the lower atmosphere." -->
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=182 corrected_page=8 strategy=printed-page-offset -->
 
 <!-- figure-meta: page=182, position=top, type=diagram -->
 
-![Figure 3. Layer 3, the mid-atmosphere.](media/p08_page.png)
+![Figure 3. Layer 3, the mid-atmosphere.](media/p08_page.webp)
 
 *Figure 3. Layer 3, the mid-atmosphere.*
 
@@ -149,13 +149,13 @@ INDIAN JOURNAL OF HISTORY OF SCIENCE
 183
 THE SUN'S ORBIT IN THE BRĀHMAṆAS
 
-<!-- figure-resolved-page-render-hidden: image=media/p09_page.png caption="Figure 4. Layer 4, the upper atmosphere." -->
+<!-- figure-resolved-page-render-hidden: image=media/p09_page.webp caption="Figure 4. Layer 4, the upper atmosphere." -->
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=183 corrected_page=9 strategy=printed-page-offset -->
 
 <!-- figure-meta: page=183, position=top, type=diagram -->
 
-![Figure 5. Layer 5, the orbit of the sun.](media/p09_page.png)
+![Figure 5. Layer 5, the orbit of the sun.](media/p09_page.webp)
 
 *Figure 5. Layer 5, the orbit of the sun.*
 
@@ -194,7 +194,7 @@ On top of the central *gārhapatya* altar, lie the two perforated bricks at an o
 
 THE SUN’S ORBIT IN THE BRĀHMAṆAS 185
 
-![Figure 6. Layer 5, with the design of layer 1 inscribed within.](media/p11_page.png)
+![Figure 6. Layer 5, with the design of layer 1 inscribed within.](media/p11_page.webp)
 
 *Figure 6. Layer 5, with the design of layer 1 inscribed within.*
 
@@ -205,7 +205,7 @@ THE SUN’S ORBIT IN THE BRĀHMAṆAS 185
 ***
 186 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Figure 7. The earth and the centre of the sun’s orbit.](media/p12_page.png)
+![Figure 7. The earth and the centre of the sun’s orbit.](media/p12_page.webp)
 
 *Figure 7. The earth and the centre of the sun’s orbit.*
 
@@ -253,7 +253,7 @@ significance for the chronology of the Vedic texts and it invalidates the chrono
 The theory that the sun was the “lotus” [the central point] of the sky and that it kept the worlds together by its “strings of wind” gave rise to a heliocentric tradition in India. The offset of the sun’s orbit evolved into the notion of *mandocca* and the motions of the planets around the sun were transferred to the earth’s frame through the device of the *śīghrocca*.
 The continuing analysis of the astronomical references in the Brāhmaṇas has made it clear that the theory that the Siddhāntic astronomy was somehow derived from the Babylonians and the Greeks is wrong. What is emerging from texts, that are anterior, by any reckoning, to the eras of astronomical advance in Babylonia or in Greece is that astronomical ideas developed in India in stages and these stages can be seen in the different layers of the Vedic texts, the Brāhmaṇas, and the *Vedāṅga Jyotiṣa*.
 
-![Figure 8. The current dates of the perihelion and the aphelion.](media/p15_page.png)
+![Figure 8. The current dates of the perihelion and the aphelion.](media/p15_page.webp)
 
 *Figure 8. The current dates of the perihelion and the aphelion.*
 

@@ -263,11 +263,11 @@ Fig. 1 shows how nicely the curve represented by Bhāskara’s formula approxima
 The proper range of validity of the rule is from $\phi = 0$ to $\phi = 180$. It cannot be used directly for getting sine between 180 and 360. However with slight modification[^17] it can yield $\sin \phi$ for any value of $\phi$.
 The last word *tattvatah* (‘truly’ or ‘really’) of the text, quoted for Bhāskara I's rule, indicates that the rule is to be taken as ‘accurate’. Dr. Singh[^18] used the word ‘grossly’ in his translation of the passage. As already pointed out earlier (*see* under (iv) *Līlāvatī*), Bhāskara II clearly stated his equivalent rule as *sthūla* (‘rough’ or ‘gross’). But whether Bhāskara I also meant his rule to be so is doubtful.
 
-![Fig. 1 shows how nicely the curve represented by Bhāskara’s formula approximates the actual sine curve.](media/p08_page.png)
+![Fig. 1 shows how nicely the curve represented by Bhāskara’s formula approximates the actual sine curve.](media/p08_page.webp)
 
 *Fig. 1 shows how nicely the curve represented by Bhāskara’s formula approximates the actual sine curve.*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 
 <!-- figure-meta: page=8, position=middle, type=graph -->
 
@@ -300,11 +300,11 @@ so that
 
 $$\frac{1}{BD} > \frac{AC}{(\text{arc } AB) \cdot (\text{arc } BC)} \quad \dots \quad \dots \quad \dots \quad (3)$$
 
-![FIG. 2](media/p09_page.png)
+![FIG. 2](media/p09_page.webp)
 
 *FIG. 2*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 
 <!-- figure-meta: page=9, position=middle, type=diagram -->
 

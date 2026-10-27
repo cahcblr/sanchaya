@@ -145,11 +145,11 @@ Divide the difference between the squares of the two sides by the base. The oper
 Let ABC be a triangle with sides $a, b, c$, base $a$ and altitude $h$. Then according to the 1st half of the verse $\frac{1}{2} (a + \frac{b^2 \sim c^2}{a})$ and $\frac{1}{2} (a - \frac{b^2 \sim c^2}{a})$ will be the values of two segments ($x$ and $y$) of the base; the 2nd half of it states $h = \sqrt{b^2 - x^2} = \sqrt{c^2 - y^2}$.
 It should be mentioned at this point that Brahmagupta (628 CE) and Bhāskara I (629 CE) individually gave the same set of formulae earlier in the *Br.Sp.Si.* (verse XII.22) and in the commentary on the *Āryabhaṭīya* (verse II.6) respectively. Another set of rules for the same are also found to occur in the work *Triśatikā*, verse 50, of Śrīdhara (c.750 CE).
 
-![Fig. 1. Rational scalene triangles](media/p04_page.png)
+![Fig. 1. Rational scalene triangles](media/p04_page.webp)
 
 *Fig. 1. Rational scalene triangles*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=top, type=diagram -->
 
@@ -177,7 +177,7 @@ The problem for constructing a rational trapezium with three equal sides is near
 tadbhujakoṭibhyāṃ ca
      dvisama iva trisamacaturasre||101 \frac{1}{2} ||*
 
-<!-- figure-resolved-page-render-hidden: image=media/p05_page.png caption="Fig. 2. Rational isosceles trapeziums" -->
+<!-- figure-resolved-page-render-hidden: image=media/p05_page.webp caption="Fig. 2. Rational isosceles trapeziums" -->
 
 <!-- figure-meta: page=5, position=top, type=diagram -->
 
@@ -188,11 +188,11 @@ Again taking the *bhuja* $2uv$ and *koṭi* $u^2 - v^2$ of the given rational re
 Now juxtaposing these two rectangles judiciously, we get the required rational trapezium ABCD, where $AB = EC - DE = 8u^2v^2 - (6u^2v^2 - u^4 - v^4) = (u^2 + v^2)^2 = AD = BC$ and $CD = 8u^2v^2 + (6u^2v^2 - u^4 - v^4) = 14u^2v^2 - u^4 - v^4$.
 It is noticeable that, this trapezium is same as that of Brahmagupta’s rational trapezium with three equal sides (*Br.Sp.Si.*, XII.37).
 
-![Fig. 3. A rational trapezium with three equal sides](media/p05_page.png)
+![Fig. 3. A rational trapezium with three equal sides](media/p05_page.webp)
 
 *Fig. 3. A rational trapezium with three equal sides*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=bottom, type=diagram -->
 
@@ -634,11 +634,11 @@ $\therefore$ The volume of the construction = $24 \cdot \frac{9}{2} \cdot 16 = 1
 Again, volume of a brick = $1 \cdot \frac{1}{2} \cdot \frac{1}{6} = \frac{1}{12}$ cubic cubits (dimensions of the brick are as mentioned in the *G.S.S.*).
 Accordingly, the number of bricks is $1728 \div \frac{1}{12} = 20,736$.
 
-![Fig. 10. The construction showing the measurement at three different points](media/p13_page.png)
+![Fig. 10. The construction showing the measurement at three different points](media/p13_page.webp)
 
 *Fig. 10. The construction showing the measurement at three different points*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=top, type=diagram -->
 

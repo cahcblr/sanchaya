@@ -261,11 +261,11 @@ or $= \frac{(n + 1)^3 - (n + 1)}{6}$
 The sum of the series $\sum_{1}^{n} N_r$ has been called by Āryabhaṭa I *citighana* which means "the solid content of a pile in the shape of pyramid on a triangular base". The pyramid is constructed as follows:
 Form a triangle with $\sum_{1}^{n} m$ things arranged as below:
 
-![Fig. 112. Diagram of numbered dots arranged in a triangle](media/p10_page.png)
+![Fig. 112. Diagram of numbered dots arranged in a triangle](media/p10_page.webp)
 
 *Fig. 112. Diagram of numbered dots arranged in a triangle*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, printed_page=112, position=middle, type=diagram -->
 
@@ -592,11 +592,11 @@ Thus, according to the above, the number of variations of a metre containing $n$
 ---
 122 BIBHUTIBHUSAN DATTA AND AWADHESH NARAYAN SINGH
 
-![Fig. 20. Meru Prastāra diagram](media/p20_page.png)
+![Fig. 20. Meru Prastāra diagram](media/p20_page.webp)
 
 *Fig. 20. Meru Prastāra diagram*
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 
 <!-- figure-meta: page=20, printed_page=122, position=top, type=diagram -->
 

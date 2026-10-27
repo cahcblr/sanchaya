@@ -38,7 +38,7 @@ The supplementary text of the *Samrāṭ Siddhānta* starts out with *Yantrādhy
 ---
 SAWAI JAI SINGH'S HINDU ASTRONOMERS | 133
 
-![Fig. 1. A page from the Samrāṭ Siddhānta of Jagannātha Samrāṭ](media/p03_page.png)
+![Fig. 1. A page from the Samrāṭ Siddhānta of Jagannātha Samrāṭ](media/p03_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=133 corrected_page=3 strategy=printed-page-offset -->
 <!-- figure-meta: page=133, position=middle, type=photograph -->
@@ -154,7 +154,7 @@ On the very first page, the *Yantraprakāra* gives the following list of instrum
 136
 VIRENDRA NATH SHARMA
 
-![Fig. 2. A page from the *Yantraprakāra*](media/p06_page.png)
+![Fig. 2. A page from the *Yantraprakāra*](media/p06_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=136 corrected_page=6 strategy=printed-page-offset -->
 <!-- figure-meta: page=136, position=middle, type=photograph -->
@@ -292,7 +292,7 @@ Kevalarāma’s *Brahmapakṣanirāsa* is a short essay on the *Brahmapakṣa* o
 
 SAWAI JAI SINGH'S HINDU ASTRONOMERS 141
 
-![Fig. 3. A page from *Dṛkpakṣa Sāraṇī*. The *Sāraṇī* is a translation of de La Hire’s *Tabulae Astronomicae*](media/p11_page.png)
+![Fig. 3. A page from *Dṛkpakṣa Sāraṇī*. The *Sāraṇī* is a translation of de La Hire’s *Tabulae Astronomicae*](media/p11_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=141 corrected_page=11 strategy=printed-page-offset -->
 <!-- figure-meta: page=141, position=middle, type=photograph -->

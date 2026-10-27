@@ -163,11 +163,11 @@ Fig. 8.1 illustrates how the construction is made at sunset in the first quarter
 The triangle $MAS$ is right-angled at $A$, $SA$ is called the base, $MA$ the perpendicular or upright; and $MS$ the hypotenuse of this triangle. In the present case the base
 218 HISTORY OF ASTRONOMY IN INDIA
 
-![Fig. 8.1.](media/p07_page.png)
+![Fig. 8.1.](media/p07_page.webp)
 
 *Fig. 8.1.*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
@@ -295,11 +295,11 @@ $$SB = \{R \sin (T - c) R \cos \delta\} / R + \text{earthsine},$$
 ***
 224 HISTORY OF ASTRONOMY IN INDIA
 
-![Fig. 8.2.](media/p13_page.png)
+![Fig. 8.2.](media/p13_page.webp)
 
 *Fig. 8.2.*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=top, type=diagram -->
 

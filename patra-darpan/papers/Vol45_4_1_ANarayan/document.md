@@ -160,11 +160,11 @@ The quantities which will vary are the following:
 The following figure 1 shows a schematic of these variations. More details are provided in the next section.
 464 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 1. Physical View of the Analysis Scheme](media/p10_page.png)
+![Fig. 1. Physical View of the Analysis Scheme](media/p10_page.webp)
 
 *Fig. 1. Physical View of the Analysis Scheme*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 
 <!-- figure-meta: page=10, position=middle, type=diagram -->
 
@@ -184,11 +184,11 @@ This is the outermost loop in the computation – the time or T-loop. Starting f
 
 DATING THE SŪRYA SIDDHĀNTA 465
 
-![Fig. 2. The Computing Scheme](media/p11_page.png)
+![Fig. 2. The Computing Scheme](media/p11_page.webp)
 
 *Fig. 2. The Computing Scheme*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=top, type=diagram -->
 
@@ -275,17 +275,17 @@ Results of Sink values for favorable matches have not been graphed because a ver
 ---
 DATING THE SŪRYA SIDDHĀNTA 469
 
-<!-- figure-resolved-page-render-hidden: image=media/p15_page.png caption="Fig. 3. Ecliptic Obliquity (φ) v/s Time for favorable matches obtained" -->
+<!-- figure-resolved-page-render-hidden: image=media/p15_page.webp caption="Fig. 3. Ecliptic Obliquity (φ) v/s Time for favorable matches obtained" -->
 
 <!-- figure-meta: page=15, position=top, type=graph -->
 
 Fig. 3. Ecliptic Obliquity ($\phi$) v/s Time for favorable matches obtained
 
-![Fig. 4. Ecliptic Node Location (N) v/s Time for favorable matches obtained](media/p15_page.png)
+![Fig. 4. Ecliptic Node Location (N) v/s Time for favorable matches obtained](media/p15_page.webp)
 
 *Fig. 4. Ecliptic Node Location (N) v/s Time for favorable matches obtained*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=bottom, type=graph -->
 
@@ -296,11 +296,11 @@ Fig. 4. Ecliptic Node Location (N) v/s Time for favorable matches obtained
 470 INDIAN JOURNAL OF HISTORY OF SCIENCE
 How do these results appear physically? Fig 5 shows a schematic view of what these results look like on the ecliptic plane. An average value in the matched range has been chosen for each variable. The figure shows the current position of the ecliptic plane (J2000) and the computed position of the ecliptic for the period around 7500 BC at which favorable matches were obtained. The ecliptic node location (N) is shown to be $53^\circ$ in the eastwards direction. Both nodes have ‘sunk’ by $0.6^\circ$ and the ecliptic angle is $1.3^\circ$ in relation to the J2000 position. $N_s$ is the node location value after sink-correction has been applied, as explained later. This value is about $26^\circ$.
 
-![Fig. 5. Physical View of the Simulation Results](media/p16_page.png)
+![Fig. 5. Physical View of the Simulation Results](media/p16_page.webp)
 
 *Fig. 5. Physical View of the Simulation Results*
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 
@@ -323,11 +323,11 @@ $$\text{Sum of Errors} = \sum |Lat_s - Lat_{ss}| \dots (7)$$
 
 It can be seen that the sum of errors decreases as we move back in time reaching a minimum around 8000 BC. The solid line is for all stars while the dashed one is for all stars without Arcturus (Svātī). This figure shows clearly the strong influence of the rapidly-moving Arcturus on the results. In the next section we will study these results and measure how they fare when matched with our current knowledge of ecliptic motion.
 
-![Fig. 6. Variation of the Sum of Latitudinal Errors v/s Time](media/p17_page.png)
+![Fig. 6. Variation of the Sum of Latitudinal Errors v/s Time](media/p17_page.webp)
 
 *Fig. 6. Variation of the Sum of Latitudinal Errors v/s Time*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=middle, type=graph -->
 
@@ -340,11 +340,11 @@ Fig. 7 shows the variation of Ecliptic-Obliquity with time. The solid line repre
 ---
 472 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 7. Comparison of Empirical and Computational results for Ecliptic Obliquity](media/p18_page.png)
+![Fig. 7. Comparison of Empirical and Computational results for Ecliptic Obliquity](media/p18_page.webp)
 
 *Fig. 7. Comparison of Empirical and Computational results for Ecliptic Obliquity*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=top, type=graph -->
 
@@ -361,11 +361,11 @@ where $\Pi$ is the ecliptic node location with respect to the J2000 location and
 ---
 DATING THE *SŪRYA SIDDHĀNTA* 473
 
-![Fig. 8. Comparison of Empirical and Computational results for Ecliptic Node Location](media/p19_page.png)
+![Fig. 8. Comparison of Empirical and Computational results for Ecliptic Node Location](media/p19_page.webp)
 
 *Fig. 8. Comparison of Empirical and Computational results for Ecliptic Node Location*
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 
 <!-- figure-meta: page=19, position=top, type=graph -->
 
@@ -383,11 +383,11 @@ Lastly it is to be noted that there are indications in the *Sūrya Siddhānta* t
 The standard radius in the Indian astronomical system is 3438. What is implied in the first verse is that dividing 1397 by this value will yield the sine of the greatest declination, which turns out to be $24^\circ$. Again, from the second verse, we note that a fifteenth part of $360^\circ$ is $24^\circ$. Now while this second verse may be taken in a lighter spirit as a general indication of the obliquity, the first verse cannot be considered likewise. It is a clear statement that the greatest declination was 24 degrees exactly.
 Fig 9 shows the variation of the obliquity of the earth’s axis going backwards in time using an empirical relation[^6]. It can be seen that the obliquity was 24
 
-![Fig. 9. Variation of the Earth’s Axis’ Inclination v/s Time](media/p20_page.png)
+![Fig. 9. Variation of the Earth’s Axis’ Inclination v/s Time](media/p20_page.webp)
 
 *Fig. 9. Variation of the Earth’s Axis’ Inclination v/s Time*
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 
 <!-- figure-meta: page=20, position=bottom, type=graph -->
 

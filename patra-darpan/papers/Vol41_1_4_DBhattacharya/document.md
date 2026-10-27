@@ -56,17 +56,17 @@ $^{**}$ The identification numbers of the AMs and CMs are from Table I, which in
 ---
 56 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 1: Black circles & Black lines with Red center represents *Tārakā* - A, centered on AM-19; Orange radial pattern in *Tārakā* - C centered at TP (as in Fig. 4)](media/p04_page.png)
+![Fig. 1: Black circles & Black lines with Red center represents *Tārakā* - A, centered on AM-19; Orange radial pattern in *Tārakā* - C centered at TP (as in Fig. 4)](media/p04_page.webp)
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 <!-- figure-meta: page=4, position=middle, type=diagram -->
 Note: On this map the TP is shown slightly to the right of its actual location to avoid clutter.
 ---
 A POLYGONAL & MATHEMETICAL MODEL - *TĀRAKĀ* 57
 
-![Fig. 2: *Tārakā* - B. [Ref. No. 26]](media/p05_page.png)
+![Fig. 2: *Tārakā* - B. [Ref. No. 26]](media/p05_page.webp)
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 <!-- figure-meta: page=5, position=middle, type=diagram -->
 ***
 
@@ -130,7 +130,7 @@ $\beta$-Orionis (Rigel), is identified with a bow and arrow held by a hunter or 
 On a star map[^31], constellation Orion is located relatively central in the sky, as part of it spans either hemispheres (Fig. 3). It is also the most spectacular constellation and has been visible over all major river valley civilisations for last few thousand years. The $\alpha$ Ori. can be joined with imaginary radiating lines to various other stars also forming another starry pattern, hereinafter referred to as the Celestial *Tārakā* (CT). The stars of the CT are referred to as the celestial members (CM).
 CMs viz. $\alpha$-Ori., $\alpha$-Tauri, $\beta$-Ori. form a triangle. $\alpha$-Ori. and $\alpha$-Can Minor form a slightly inclined straight line on a E - W axis in relation to true north (TN) line. Similarly, *Canopus* and $\beta$ Auriga form a slightly inclined bisecting line along the N – S axis in relation to the TN line. This imaginary N– S line passes by to the east of $\alpha$-Ori. on a star chart and bisects the E – W line (formed by $\alpha$-Ori. and $\alpha$-Can Minor) close to the east of $\alpha$ Ori. (Fig. 7).
 
-![Fig. 3: Star map showing central position of Orion [Ref. No. 30].](media/p06_page.png)
+![Fig. 3: Star map showing central position of Orion [Ref. No. 30].](media/p06_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=59 corrected_page=6 strategy=printed-page-offset -->
 <!-- figure-meta: page=59, position=middle, type=photograph -->
@@ -182,7 +182,7 @@ the celestial schemes. This radial pattern [Fig. 4] was given the code *Tārakā
 **Map Superposition:** *Tārakā* – B was superposed on *Tārakā* – C. The radial pattern was apparent in either and the angles offered rough correspondence. It also confirmed that Survey of India map bears the signature of the radial pattern . *Tārakā* – C was superposed on *Tārakā* – A [ Fig 1]. All variations of enquiry confirmed the radial lay-out of the AMs when Paraśurāmeśwar temple is considered as the fulcrum.
 **Computer Simulation:** Using solid modeling package[^33] IRON-CAD - Version 3, a three-dimensional model of the celestial hemisphere was generated on the scale of a Japanese, Marco's, star globe of $12\text{ cm dia. module}$. Angles were
 
-![Fig. 4: Tārakā - C, MN = Magnetic North; TP = Theodolite position; Dotted lines point to AMs that were 'Not Visible' from position TP.](media/p09_page.png)
+![Fig. 4: Tārakā - C, MN = Magnetic North; TP = Theodolite position; Dotted lines point to AMs that were 'Not Visible' from position TP.](media/p09_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=62 corrected_page=9 strategy=printed-page-offset -->
 <!-- figure-meta: page=62, position=bottom, type=diagram -->
@@ -217,14 +217,14 @@ of the location of AM-19 as in *Tārakā* – A or in *Tārakā* – B. Hence, a
 ---
 A POLYGONAL & MATHEMATICAL MODEL - *TĀRAKĀ* <span style="float:right;">65</span>
 
-![Fig. 5a: Small coloured spheres represent the CMs](media/p12_page.png)
+![Fig. 5a: Small coloured spheres represent the CMs](media/p12_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=65 corrected_page=12 strategy=printed-page-offset -->
 <!-- figure-meta: page=65, position=middle, type=photograph -->
 ---
 66 <span style="float:right;">INDIAN JOURNAL OF HISTORY OF SCIENCE</span>
 
-![Fig. 5b: AMs have been figuratively represented](media/p13_page.png)
+![Fig. 5b: AMs have been figuratively represented](media/p13_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=66 corrected_page=13 strategy=printed-page-offset -->
 <!-- figure-meta: page=66, position=middle, type=photograph -->
@@ -237,7 +237,7 @@ non Hindu archaeology. The concept of the *Tārakā* radial pattern compels us t
 
 A nine pointed star alias *nakṣatra* is also traceable on the ground by
 
-![Fig. 6: Ex-Buddhist sites in Tārakā zone](media/p14_page.png)
+![Fig. 6: Ex-Buddhist sites in Tārakā zone](media/p14_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=67 corrected_page=14 strategy=printed-page-offset -->
 <!-- figure-meta: page=67, position=bottom, type=diagram -->
@@ -247,9 +247,9 @@ A nine pointed star alias *nakṣatra* is also traceable on the ground by
 68 INDIAN JOURNAL OF HISTORY OF SCIENCE
 using the peripheral AMs of the *Tārakā* Fig. 7. The *Kālapuruṣa* (Orion) as we can see, is also the hub of such *nakṣatra*, while $\alpha$ Ori. is only a constituent member of the hub. Table IIa gives the star-temple correlation of the *Kālapuruṣa*, which is traceable in the sky and on the ground. The *Kālapuruṣa*, is a *vedic* cum *siddhānta* term. The *nakṣatra* is also traceable on star charts and on universe modules as well using the corresponding CMs. Members of the *nakṣatra* are given in Table II b. The term *nakṣatra* also has Vedic genesis, where its use denotes star. We have used the term *nakṣatra* to denote 9 zones, since 9
 
-![[Nakṣatra with Orion as Hub] Dotted line between the celestial N & S poles denote the 06UTC meridian](media/p16_page.png)
+![[Nakṣatra with Orion as Hub] Dotted line between the celestial N & S poles denote the 06UTC meridian](media/p16_page.webp)
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 <!-- figure-meta: page=16, position=bottom, type=diagram -->
 ***
 A POLYGONAL & MATHEMETICAL MODEL - *TĀRAKĀ* 69

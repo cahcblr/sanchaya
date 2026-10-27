@@ -34,9 +34,9 @@ At the beginning of his discussion of trigonometry, Jñānarāja notes, as other
 
 In modern mathematics, the trigonometric functions are defined with respect to the unit circle, i.e., a circle of radius 1. In ancient and medieval India, however, the sine function is not defined with respect to a circle of fixed radius, and different authors use different values for the radius of the circle of reference when discussing the sine function (for a recent work on the history of trigonometry from ancient times to about 1550 AD, see Van Brummelen (2009), and for a recent survey of the history of mathematics in India, see Plofker (2009)). In fact, as we shall see is the case with Jñānarāja, an author may introduce more than one value of the radius in the same treatise. Another example is Bhāskara II, who gives tables with radii 3438 and 150 in the *Siddhāntaśiromaṇi*.
 
-![Fig.1: Chord and sine.](media/p02_page.png)
+![Fig.1: Chord and sine.](media/p02_page.webp)
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 <!-- figure-meta: page=2, position=middle, type=diagram -->
 In modern mathematics, we generally think of the sine function with respect to an angle. For example, $\sin(37^\circ)$ is read as the sine of an angle of 37 degrees. In India, however, a sine was thought of with respect to an arc rather than an angle. For example, in Fig. 1, we think of the segment $AD$ as the sine of angle $AOD$, whereas the Indian astronomers thought of the segment as the sine of the arc. The idea is not all that foreign to us since we do essentially the same thing when we work with radians instead of degrees—the measure of an angle in radians is precisely the length of the arc of the unit circle spanned by the angle. We will be using the arc notation below, following the Indian tradition, though we will occasionally make reference to angles.
 The sine function in India is derived from the chord function. Since Jñānarāja makes reference to chords, as we shall see in the following, we note here that in Fig. 1, the chord of the arc $ACB$ is the segment $AB$. In modern notation, if $\alpha$ is an angle (or we may think of $\alpha$ as an arc, following the Indian tradition), then $crd(2\alpha)=2\sin(\alpha)$, where $crd$ denotes the chord function. Since the sine of a given arc is half the chord of the double arc, sines are often referred to in Sanskrit astronomical literature as “half chords.”
@@ -170,9 +170,9 @@ In this way, all the sines are produced in order.
 We consider the person who computes all half-chords in due order from the first half-chord to be the polestar in the
 VERSIFIED SINE TABLES IN JÑĀNARĀJA’S *SIDDHĀNTASUNDARA* 133
 
-![Fig. 2. Construction of forty-eight chords.](media/p07_page.png)
+![Fig. 2. Construction of forty-eight chords.](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 <!-- figure-meta: page=7, position=top, type=diagram -->
 fastening of the motion of the circle of those who know computation and the circle of stars.
 For the construction of the chords, Jñānarāja considers the circumference of a circle evenly marked with 96 points, as shown on Fig. 2. On the figure, the bold vertical line is the north-south line. Points lying symmetrically about this line are then joined by line segments, running east-west, as shown in the figure (note that to be seen from Jñānarāja’s point of view, the figure should be turned 90 degrees). The bold horizontal line is the east-west line. If the two points on the north-south line are counted together one time as a line segment (the reason for this will be clear in the following), the construction gives a total of forty-eight line segments. Note that two consecutive points on the circumference of the circle are separated by $\frac{360^\circ}{96} = 3^\circ 45' = 225'$, which is precisely the step in Jñānarāja’s versified sine table.
@@ -183,9 +183,9 @@ The preceding is a standard geometrical derivation of the sines in the Indian tr
 As noted by Jñānarāja and seen in Fig. 2, $R \sin(\alpha_1)$ is the leg in a right triangle with hypotenuse $R$. Jñānarāja next considers a similar but smaller right triangle, though its details are somewhat surprising and its derivation unclear. The meaning of the Sanskrit text is to find a proportion from the similarity of two right triangles: If the upright is found from the leg (i.e., 225) and the hypotenuse (i.e., $R = 3438$) of the original right triangle, what is the leg in the smaller triangle? To answer this, we must know the hypotenuse of the small triangle. The compound word *trijyākarṇe* in the Sanskrit text is somewhat unclear, though the meaning seems to be simply “hypotenuse,” as it is taken in the above translation. Separating the compound into the two words *trijyā* (which would mean the radius, i.e., $R = 3438$) and *karṇe* would present the problem of what role the word *trijyā* plays in the sentence. At the same time, if we assume that it is a side in
 134 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 3. Two similar triangles.](media/p08_page.png)
+![Fig. 3. Two similar triangles.](media/p08_page.webp)
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 <!-- figure-meta: page=8, position=top, type=diagram -->
 the small triangle other than the hypotenuse, which is of length 225, the proportion does not yield anything useful.
 In other words, the most likely interpretation of the passage is that the hypotenuse in the small triangle is assumed to be 225, i.e., $R \sin(\alpha_1)$. How to visualize the new triangle is not clear, however, and Jñānarāja does not provide any diagrams or instructions on making diagrams to go with his construction. The idea is probably as outlined in the following.

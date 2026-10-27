@@ -188,9 +188,9 @@ iv. One of the ten problems.
 
 The Hindu method of solving this problem is well known, but still for the sake of completeness we start with this.
 
-![Fig. 1](media/p15_page.png)
+![Fig. 1](media/p15_page.webp)
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 <!-- figure-meta: page=15, position=bottom, type=diagram -->
 
 200 K. V. SARMA AND S. HARIHARAN
@@ -263,9 +263,9 @@ $sin^2 l = sin^2 d + sin^2 d_1$. Others as before.
 
 ## III. Declination and R.A. of a star with a Latitude
 
-![Fig. 2](media/p18_page.png)
+![Fig. 2](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 In the Fig. 2
 P, P$_1$ Poles of the Equator.
@@ -327,9 +327,9 @@ $cos a / cos v = cos l / cos d$
 
 ## IV. One of the ten problems
 
-![Fig. 3](media/p20_page.png)
+![Fig. 3](media/p20_page.webp)
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 <!-- figure-meta: page=20, position=middle, type=diagram -->
 In Fig. 3 SENW is the horizon, S, E, N and W being the south, east, north and west points. P is the pole, Z zenith, and M the object, and EQW equator.
 Draw ZMM$_1$ vertical through M. Take M$_3$ on the horizon $90^\circ$ from M$_1$ and LPM$_3$ secondary to the equator through M$_3$. Draw MV a small circle paralles to equator and MX perpendicular to ZQ. VQ is therefore equal to the declination of M.

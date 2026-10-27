@@ -97,11 +97,11 @@ Kamsa and Andhaka. The latter dissuades the former from inviting Kṛṣṇa and
 Next to *MB* and *HV*, tradition assigns greater importance to *VP* and *BP* as far as the story is concerned. However, it is found that *SP* contains more number of celestial observations connected with Kṛṣṇa's time, than any other
 CELESTIAL OBSERVATIONS ASSOCIATED WITH KRṢNA-LORE    7
 
-![Fig.1.Sky Chart as per EZC Software for 25.6.1523 BC. 22 hr. (L.T.).](media/p07_page.png)
+![Fig.1.Sky Chart as per EZC Software for 25.6.1523 BC. 22 hr. (L.T.).](media/p07_page.webp)
 
 *Fig.1.Sky Chart as per EZC Software for 25.6.1523 BC. 22 hr. (L.T.).*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 
 <!-- figure-meta: page=7, position=middle, type=diagram -->
 

@@ -31,11 +31,11 @@ If $h = \frac{5400'}{l}$ is the angular measure of an arc bit, then for $i = 0, 
 
 738 INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 2. Diagram showing arc BOW, mid-point O, half-chord BJ, and radius R in a circle](media/p02_page.png)
+![Fig. 2. Diagram showing arc BOW, mid-point O, half-chord BJ, and radius R in a circle](media/p02_page.webp)
 
 *Fig. 2. Diagram showing arc BOW, mid-point O, half-chord BJ, and radius R in a circle*
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=2, position=top, type=diagram -->
 
@@ -248,11 +248,11 @@ A few features of *Vaṭeśvara-siddhānta* as described by K.S. Shukla are give
 **(A) Tabular *R*sines and *R*versines for every increase of 56′15′′ of arc (Shukla, 1986, ch. 2, verses I 2-51, pp. 81-92) are:**
 The values of 96 *R*sines and 96 *R*versines at interval of $56 \frac{1}{4}'$ are fairly accurate. Then Vaṭeśvara gives several rules for interpolation of desired *R*sines from given arc and several rules for inverse interpolation of arc from given *R*sine using the tabular *R*sines. As a pre-requisite some important relations between the *R*sines, *R*cosines and versed *R*sines are given. If $s$ is the arc ‘approached’ or arc ‘completed’, then the arc ‘remaining’ or ‘yet to
 
-![Fig. 13. Diagram of a circle quadrant showing an arc $s = R\theta$, and the complementary arc $(c/4) - s$.](media/p13_page.png)
+![Fig. 13. Diagram of a circle quadrant showing an arc $s = R\theta$, and the complementary arc $(c/4) - s$.](media/p13_page.webp)
 
 *Fig. 13. Diagram of a circle quadrant showing an arc $s = R\theta$, and the complementary arc $(c/4) - s$.*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=13, position=middle, type=diagram -->
 

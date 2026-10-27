@@ -165,9 +165,9 @@ For the sake of collecting material, I have tentatively classified the Indian in
 1.2 Sometime around the fourth century A.D., this type of water clock was replaced by another variety known as the sinking-bowl type.[^36] This consists of a hemispherical copper bowl with an extremely small perforation at the bottom. When this bowl is placed on the surface of water in a larger basin, the water enters the bowl from below through the perforation (see Fig. 1). As soon as the bowl is full, it sinks to the bottom of the basin with a clearly audible thud. The weight of the bowl and the size of the perforation are so adjusted that the bowl sinks sixty times in a day-and-night. That is to say, the duration of each immersion is 24 minutes. In Sanskrit, the bowl is called *ghaṭī* or *ghaṭikā* and these two terms designate also the duration of time measured by this device. The whole apparatus was accordingly called
 INDIAN ASTRONOMICAL AND TIME-MEASURING INSTRUMENTS 513
 
-![Fig. 1. Water Clock made of coconut shell, Government Museum, Madras. Photo: Courtesy of Professor S. Ramaratnam who floated it in a bucket of water and found that it takes exactly 24 minutes to sink.](media/p07_page.png)
+![Fig. 1. Water Clock made of coconut shell, Government Museum, Madras. Photo: Courtesy of Professor S. Ramaratnam who floated it in a bucket of water and found that it takes exactly 24 minutes to sink.](media/p07_page.webp)
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp -->
 <!-- figure-meta: page=7, position=top, type=photograph -->
 Fig. 1. Water Clock made of coconut shell, Government Museum, Madras. Photo: Courtesy of Professor S. Ramaratnam who floated it in a bucket of water and found that it takes exactly 24 minutes to sink.
 *Ghaṭī-yantra* or *Ghaṭikā-yantra*. It was described for the first time by Āryabhaṭa in his *Āryabhaṭasiddhānta*. After him, nearly every author of a *siddhānta* described it in his chapter on instruments.[^37]
@@ -182,9 +182,9 @@ Except in one case, it has not been possible for me to actually measure time by 
 2.1 I have mentioned that the other common time-measuring device was the gnomon or sundial. In the course of centuries, several kinds of sundials developed with a variety of dials and gnomons. The most common form is the horizontal dial with a vertical gnomon, which can also be made temporarily by inserting a stick into the ground. So far I have seen permanent structures of this kind only in mosques (Fig. 2). In fact, every mosque is supposed to have a sundial to determine the times of prayer. Here too there can be a wide variety in the design. But these are being removed at an alarming rate. There is an urgent need of preserving these scientific instruments.
 INDIAN ASTRONOMICAL AND TIME-MEASURING INSTRUMENTS 515
 
-![Fig. 2. Vertical gnomon on a horizontal dial, dated 1294 AH/AD 1875, from Firdaus Manzil, Mangal Talab, Patna](media/p09_page.png)
+![Fig. 2. Vertical gnomon on a horizontal dial, dated 1294 AH/AD 1875, from Firdaus Manzil, Mangal Talab, Patna](media/p09_page.webp)
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp -->
 <!-- figure-meta: page=9, position=top, type=photograph -->
 Fig. 2. Vertical gnomon on a horizontal dial, dated 1294 AH/AD 1875, from Firdaus Manzil, Mangal Talab, Patna
 2.2 In late medieval times, a variant of the horizontal dial with a triangular gnomon seems to have become popular. The hypotenuse of the gnomon is elevated from its base by an angle equal to the local latitude, and thus it lies in the plane of the celestial equator. The *Yantraprakāra* of Sawai Jai Singh calls it *Palabhā-yantra*, and teaches the method of constructing this type of sundial for the latitude of Delhi (28;39°) and for that of Amber (27°).[^45] A small *Palabhā-yantra* is erected on the top of the *Nāḍīvalaya-yantra* of the Jaipur Observatory. I have also seen a very beautiful specimen in the Khanqah Emadia at Patna. It was designed by Janab Faridul Emadi, the present head of the Khanqah.[^46]
@@ -194,9 +194,9 @@ In India, I have seen so far only one crude specimen in the stores of Jaipur Obs
 3.2 A somewhat different variety of wooden column dial was very popular in Nepal-Darjeeling region in the last century.[^49] I have seen some ten specimens in the various museums in UK. Here the numbers on the scales and the names of the months for which each scale is meant are carved in relief in the wood (Fig. 3). Apparently these dials were called *Āṣāḍha* sticks, because the longest day occurs in the month of *Āṣāḍha* and consequently the scale for this month is the longest. Only one of these, at the Horniman Museum, Forest Hill, London, is signed. It carries an inscription to the effect that Jemangala engraved it on Saṃvat 1941 Pauṣa sudi 6.
 4.0 Coming to the astronomical instruments proper, one instrument with a long history is the quadrant (*Turīya-yantra*) (Fig. 4). Brahmagupta includes it in his list though he prefers a double-quadrant for measuring the altitude and time. There are not many specimens extant, as this instrument is incorporated on the one hand in the *Dhruvabhrama-yantra* (see 5.0) and on the other in the astrolabe. Outside India, there are two or three Sanskrit quadrants made in the nineteenth century. In India I have seen so far one at Jaipur and another at Varanasi. A Turkish style wooden
 
-![Fig. 3. Carved wooden column dial, a composite picture](media/p10_page.png)
+![Fig. 3. Carved wooden column dial, a composite picture](media/p10_page.webp)
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp -->
 <!-- figure-meta: page=10, position=bottom, type=photograph -->
 Fig. 3. Carved wooden column dial, a composite picture
 
@@ -236,9 +236,9 @@ Fig. 3. Carved wooden column dial, a composite picture
 
 quadrant made for the latitude of Samarqand is in Bombay.[^50]
 
-![Fig. 4. Indo-Persian (?) quadrant, unsigned, undated. National Maritime Museum, Greenwich, Acc. No. 9204](media/p11_page.png)
+![Fig. 4. Indo-Persian (?) quadrant, unsigned, undated. National Maritime Museum, Greenwich, Acc. No. 9204](media/p11_page.webp)
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 <!-- figure-meta: page=11, position=top, type=photograph -->
 
 ## 5.0
@@ -246,9 +246,9 @@ quadrant made for the latitude of Samarqand is in Bombay.[^50]
 The most ingenious instrument of pre-Islamic India is the *Dhruvabhrama-yantra* which functions as a kind of nocturnal (Fig. 5). It was described for the first time by Padmanābha about 1400 A.D. and may have been invented by him. It consists of an oblong metal plate with a horizontal slit at the top. Loosely pivoted to the centre of the plate is a metal index with four indicators projecting into the four directions. A plumb is suspended from the southern-most end so that it always points downwards. Around the centre are concentric circles containing various scales. At night, the instrument is so held that one can see through the slit the pole star and Beta Ursae Minoris. When these two stars are sighted in a straight line by appropriately tilting the instrument, the eastern indicator will point to the *lagna* or ascendant for this moment, the northern indicator will show the culminating point and the western indicator the sidereal time in *ghaṭis* and *palas*. Thus with this instrument, one can read off from the dial, for any given moment at night, the corresponding time, ascendant, and culmination.[^51]
 The reverse side of this instrument usually contains a horary quadrant (*Turīya-yantra*) for measuring time during the day. In a specimen at Jaipur, there is a scale of degrees in the outermost arc, on which the solar altitude can be measured. In the other arcs there are separate *ghaṭi*-scales for directly measuring time in different
 
-![Fig. 5. Dhruvabhrama-yantra, unsigned, undated. Jantar Mantar Observatory, Jaipur](media/p12_page.png)
+![Fig. 5. Dhruvabhrama-yantra, unsigned, undated. Jantar Mantar Observatory, Jaipur](media/p12_page.webp)
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 <!-- figure-meta: page=12, position=top, type=photograph -->
 seasons. I have seen a few beautiful specimens of this instrument in UK and USA. In India, there is one at Jaipur and another at Varanasi. The Khuda Bakhsh Oriental Public Library at Patna has, what may be called an Islamic version, one side of which is called *Rūznumah* for the use in the daytime and the reverse is calibrated as *Shabnumah* for the night time. The piece was made in 1804 at Bareilly by Naṣīr al-Dīn Ḥasan.
 
@@ -266,9 +266,9 @@ By the mid-fourteenth century, the instrument was sufficiently well known to be 
 
 The earliest surviving astrolabes pertain to the Mughal period. Of the Mughal emperors, Humāyūn is said to have "extra-ordinary excellence in the astrolabe, globe and other instruments of the observatory." Under his patronage, manufacture of astrolabes and celestial globes commenced at Lahore. One family, in particular, distinguished itself in this pursuit. Seven members of this family, belonging to four generations, signed their names on about 87 astrolabes and 21 celestial globes (Fig. 9). There are also many unsigned pieces which can be attributed to this family.
 
-![Fig. 6. Astrolabe by ‘Īsā ibn Allāhdād Aṣturlābī Lāhūrī Humāyūnī, 5 plates, not dated. Personal collection of Mr John N Didcock, Ely, Cambs, U.K. Photo: Courtesy of Mr Didcock](media/p13_page.png)
+![Fig. 6. Astrolabe by ‘Īsā ibn Allāhdād Aṣturlābī Lāhūrī Humāyūnī, 5 plates, not dated. Personal collection of Mr John N Didcock, Ely, Cambs, U.K. Photo: Courtesy of Mr Didcock](media/p13_page.webp)
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 <!-- figure-meta: page=13, position=bottom, type=photograph -->
 The patriarch of this family is Ustād Shaikh Allāhdād Aṣturlābī Humāyūnī Lāhūrī. He may have been the royal astrolabe maker of Humāyūn and hence received the title Aṣturlābī Humāyūnī, although the only dated piece by him was made in 1567, i.e. eleven years after Humāyūn’s death. It is now in the Salar Jung Museum at Hyderabad.
 Allāhdād’s son Mullā ‘Īsā is known through five astrolabes produced between the years 1600 and 1604 (Fig. 6). Of his two sons, Qā’im Muḥammad perfected the art of casting celestial globes in one piece through the lost wax process. Four of his globes are extant today. He also made five astrolabes, two of which jointly with his brother Muqīm. The latter has to his credit the largest number of astrolabes. I have counted some thirtysix astrolabes manufactured by him during the half a century of creativity between the years 1609 and 1659.
@@ -277,9 +277,9 @@ Allāhdād’s son Mullā ‘Īsā is known through five astrolabes produced bet
 
 The most prolific and versatile member of this family is Qā’im’s son Ḍiyā’ al-Dīn Muḥammad, whose period of creative activity lasted from 1637 to 1680, and overlapped the reigns of Shāh Jahān and Aurangzeb. His oeuvre consists of about 29 astrolabes and 15 celestial globes - perhaps the largest number ever signed by a single instrument-maker of pre-industrial times. Today, these pieces are dispersed in all parts of the world: India, Egypt, Russia, France, Germany, UK and USA. His prolific work is distinguished by superb craftsmanship and innovation in design. Here one can see the harmonious combination of art, science and technology at its perfection.
 
-![Fig. 7. Sanskrit Astrolabe, single plate for the latitude 22;35.39 °N, dated 1941 VS/AD 1884, unsigned. Formerly in the collection of Saul Moskowitz, Marblehead, Mass., USA. Photo: Courtesy of Professor David Pingree](media/p14_page.png)
+![Fig. 7. Sanskrit Astrolabe, single plate for the latitude 22;35.39 °N, dated 1941 VS/AD 1884, unsigned. Formerly in the collection of Saul Moskowitz, Marblehead, Mass., USA. Photo: Courtesy of Professor David Pingree](media/p14_page.webp)
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 <!-- figure-meta: page=14, position=bottom, type=photograph -->
 
 ## 6.4
@@ -317,9 +317,9 @@ The composition of these Sanskrit manuals must have been accompanied by the manu
 
 522 SREERAMULA RAJESWARA SARMA
 
-![Fig. 8. Celestial Globe by Bahlūmal Lāhūrī, dated 1258 AH/AD 1842. The Science Museum, London, Acc. No. 1985-1257.](media/p16_page.png)
+![Fig. 8. Celestial Globe by Bahlūmal Lāhūrī, dated 1258 AH/AD 1842. The Science Museum, London, Acc. No. 1985-1257.](media/p16_page.webp)
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 <!-- figure-meta: page=16, position=top, type=photograph -->
 7.2 The manufacture of Sanskrit astrolabes received a great impetus from Sawai Jai Singh who had himself authored a book on its construction.[^58] He had apparently a *kārkhānā* at Jaipur for the manufacture of astrolabes.[^59] This manufactory produced some highly ornate astrolabes with multiple plates. But its main product were astrolabes with a single plate calibrated for 27 °N, which is the latitude of Jaipur. Hindu astronomers of Rajasthan found the astrolabe an excellent teaching instrument. Therefore, astrolabes continued to be manufactured in the 18th and 19th centuries in Rajasthan. These are mainly single plate astrolabes, calibrated for a single latitude, usually 27°. Besides Jaipur, Kuchaman (27;10 °N, 74;54 °E) seems to have been an important centre of production of these astrolabes.[^60]
 8.1 The celestial globe, the other important Islamic instrument, is a late comer to India.[^61] It was probably introduced by Humāyūn into India (Fig. 8). As mentioned already, the descendants of Allāhdād manufactured globes of good workmanship. Allāhdād's grandson, Qa'im Muhammad perfected the art of casting globes in one piece by the cire perdue process, and his son Diya' al-Dīn excelled in this technique. Besides some 15 ordinary celestial globes, he also designed a very unusual one for Aurangzeb in 1679. The surface of the globe was cut *à jour*, like the spider of the astrolabe, leaving out the outlines of the constellation figures, great circles, tropics and arctic circles. Star positions are indicated by small perforations. When lit from inside, the globe would present an illuminated view of the celestial sphere.
@@ -348,9 +348,9 @@ _____________________________                                     |
 (fl. 1637-80; 29 astrolabes (fl. 1628-84; 7 astrolabes        (fl. 1681-92;
 and 15 celestial globes)    and 2 celestial globes)            3 astrolabes)
 
-![Fig. 9. The Astrolabist Family of Lahore and their instruments](media/p17_page.png)
+![Fig. 9. The Astrolabist Family of Lahore and their instruments](media/p17_page.webp)
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 <!-- figure-meta: page=17, position=middle, type=diagram -->
 8.2 Celestial globes were manufactured outside this family also. In fact, the earliest extant celestial globe was produced by one ‘Ali Kashmīrī ibn Lūqmān during the reign of Akbar in 998 AH/AD 1589. Muhammad Sālih of Thatta, a contemporary of Diya' al-Dīn, is known to have produced at least three globes.[^62] Like the astrolabes, celestial globes also continued to be produced until the middle of the last century.
 8.3 To judge from the surviving examples, the celestial globe was not as popular among the Hindus as the astrolabe had been. So far, I have come across only three specimens, two at Jaipur and one at New York.

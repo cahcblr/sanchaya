@@ -97,11 +97,11 @@ His (Mādhavacandra’s) rationale with the help of her exposition and with some
 **Phase I :**
 Halve the sphere with diameter (*vyāsa*) equal to unity and with height (*khāta*) equal to unity.
 
-![Fig. 1. The sphere with diameter equal to unity.](media/p05_page.png)
+![Fig. 1. The sphere with diameter equal to unity.](media/p05_page.webp)
 
 *Fig. 1. The sphere with diameter equal to unity.*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=bottom, type=diagram -->
 
@@ -140,7 +140,7 @@ After this, keep its one hemisphere and take the remaining other.
 
 242                   INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 2. The hemispherical pit with diameter equal to unity and with height equal to half its diameter." -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 2. The hemispherical pit with diameter equal to unity and with height equal to half its diameter." -->
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=242 corrected_page=6 strategy=printed-page-offset -->
 
@@ -150,7 +150,7 @@ After this, keep its one hemisphere and take the remaining other.
 **Phase II:**
 Trisect it (Fig. 2) as depicted below (cf. Fig. 3) :
 
-<!-- figure-resolved-page-render-hidden: image=media/p06_page.png caption="Fig. 3. The base of the hemispherical pit with its radius (1/2) and circumference (3) and take a section AOB (cf. Fig. 4)." -->
+<!-- figure-resolved-page-render-hidden: image=media/p06_page.webp caption="Fig. 3. The base of the hemispherical pit with its radius (1/2) and circumference (3) and take a section AOB (cf. Fig. 4)." -->
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=242 corrected_page=6 strategy=printed-page-offset -->
 
@@ -158,7 +158,7 @@ Trisect it (Fig. 2) as depicted below (cf. Fig. 3) :
 
 **Fig. 3 : The base of the hemispherical pit with its radius ($1/2$) and circumference ($3$) and take a section AOB (cf. Fig. 4).**
 
-![Fig. 4. A section AOB obtained by trisecting the hemispherical pit. Bisect the above (Fig. 4) too from top to bottom (cf. Fig. 5).](media/p06_page.png)
+![Fig. 4. A section AOB obtained by trisecting the hemispherical pit. Bisect the above (Fig. 4) too from top to bottom (cf. Fig. 5).](media/p06_page.webp)
 
 *Fig. 4. A section AOB obtained by trisecting the hemispherical pit. Bisect the above (Fig. 4) too from top to bottom (cf. Fig. 5).*
 
@@ -170,7 +170,7 @@ Trisect it (Fig. 2) as depicted below (cf. Fig. 3) :
 ---
 NEMICANDRA’S RULE FOR THE VOLUME OF A SPHERE               243
 
-<!-- figure-resolved-page-render-hidden: image=media/p07_page.png caption="Fig. 5. The section AOB bisected from top to bottom." -->
+<!-- figure-resolved-page-render-hidden: image=media/p07_page.webp caption="Fig. 5. The section AOB bisected from top to bottom." -->
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=243 corrected_page=7 strategy=printed-page-offset -->
 
@@ -179,7 +179,7 @@ NEMICANDRA’S RULE FOR THE VOLUME OF A SPHERE               243
 **Fig. 5 : The section AOB bisected from top to bottom.**
 and place any how in such an order so as to be a square (*caturasra*) in upper face.
 
-<!-- figure-resolved-page-render-hidden: image=media/p07_page.png caption="Fig. 6a" -->
+<!-- figure-resolved-page-render-hidden: image=media/p07_page.webp caption="Fig. 6a" -->
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=243 corrected_page=7 strategy=printed-page-offset -->
 
@@ -187,7 +187,7 @@ and place any how in such an order so as to be a square (*caturasra*) in upper f
 
 **Fig. 6a**
 
-![Fig. 6b](media/p07_page.png)
+![Fig. 6b](media/p07_page.webp)
 
 *Fig. 6b*
 
@@ -218,7 +218,7 @@ The hemispherical pit has gradual diminution on its sides although there is $1/2
 ---
 NEMICANDRA’S RULE FOR THE VOLUME OF A SPHERE               245
 
-![Fig. 7. The hemispherical pit with its diminution on sides and with its middlemost depth (vedha).](media/p09_page.png)
+![Fig. 7. The hemispherical pit with its diminution on sides and with its middlemost depth (vedha).](media/p09_page.webp)
 
 *Fig. 7. The hemispherical pit with its diminution on sides and with its middlemost depth (vedha).*
 

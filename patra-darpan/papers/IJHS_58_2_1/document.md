@@ -274,12 +274,12 @@ Table 14 Comparing apsidal rate-of-motion
 | Saturn | 5128 | 3.1 |
 
 ---
-<!-- figure-resolved-page-render-hidden: image=media/p08_page.png caption="Fig. 4. Variation of Best-fit Shifts in Time" -->
+<!-- figure-resolved-page-render-hidden: image=media/p08_page.webp caption="Fig. 4. Variation of Best-fit Shifts in Time" -->
 <!-- figure-meta: page=8, position=top, type=graph -->
 
-![Fig. 5. Variation of Nodal and Apsis Error using Best-Fit Schemes](media/p08_page.png)
+![Fig. 5. Variation of Nodal and Apsis Error using Best-Fit Schemes](media/p08_page.webp)
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp -->
 <!-- figure-meta: page=8, position=top, type=graph -->
 Table 5 gives us the locations of the outer-planet nodes (e.g.: $40.17^\circ, 79.76^\circ, 100.71^\circ$) per the *Sūrya-Siddhānta*, while Table 6 gives us the locations of their aphelions (e.g.: $129.93^\circ, 170.87^\circ, 236.60^\circ$).
 Recall that the Indian system uses a fixed (sidereal) origin, whereas modern formulae employ a movable (tropical) origin. Thus, for any heavenly body, the longitudes in both systems will differ, although the difference will be a constant, for that epoch.

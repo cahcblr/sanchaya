@@ -299,9 +299,9 @@ $$SHDIA = 2 \times (p + p' - s) \dots \dots (6.1)$$
 
 where $p$ and $p'$ are the horizontal parallax of the Sun and the Moon and $s$ is the Sun’s angular semi-diameter (see fig 6.1).
 
-![Fig. 6.1. Angular diameter of the Shadow-cone](media/p06_page.png)
+![Fig. 6.1. Angular diameter of the Shadow-cone](media/p06_page.webp)
 
-<!-- figure-resolved-page-render: page=6 image=media/p06_page.png -->
+<!-- figure-resolved-page-render: page=6 image=media/p06_page.webp -->
 <!-- figure-meta: page=6, position=bottom, type=diagram -->
 ANGULAR DIAMETERS (*BIMBA*) OF THE SUN, MOON AND EARTH’S SHADOW 123
 In Fig 6.1, the angular diameter of the cross-section of the shadow cone is represented by arc $MN$. Let the semi-angle $MEV$ subtended by $MN$ at the centre of the earth be $\alpha$.

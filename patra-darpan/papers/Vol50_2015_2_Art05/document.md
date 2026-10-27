@@ -606,9 +606,9 @@ In verses 40-43 of the chapter on *Aṅkapāśa*, Nārāyaṇa defines the tabul
 स्थानमेकाधिकं यावदन्तिमाः कोष्ठपङ्क्तयः॥
 मुक्ता स्वोर्ध्वादिमं कोष्ठं द्वितीयस्याधगत्पराः।
 
-![Fig. 15. Needle sequence calculation diagram](media/p15_page.png)
+![Fig. 15. Needle sequence calculation diagram](media/p15_page.webp)
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 <!-- figure-meta: page=15, position=bottom, type=diagram -->
 
 242 INDIAN JOURNAL OF HISTORY OF SCIENCE

@@ -36,11 +36,11 @@ The *khagola* is now attached to two hallow cylinders in which the polar axis is
 by means of two other hollow cylinders, a third sphere in which the circles forming both the spheres *khagola* and *bhagola* are mixed together. For this reason this third sphere is called *dṛggola*, the double sphere. Thus the *bhagola* is firmly fixed to the polar axis which can be rotated without disturbing the two outer spheres.
 To find the time since sun-rise and the *lagna* at that time the armillary sphere is set so that the east point is exactly towards the east and the horizon as level as water. The position of the Sun on the ecliptic is now obtained by calculation and the *bhagola* is rotated to bring this point of the ecliptic on the eastern horizon and a pin is fixed here to mark the position of the Sun. A pin is also fixed for mark the point of the equinoctial in the *bhagola* intersected by the eastern horozon, viz. east point. The *bhagola* is now rotated westward till the Sun throws its shadow on the centre of the Earth. The distance between the mark made on the equinoctial and the new eastern point of the horizon will represent the time from sun-rise. The point of the ecliptic now cut by the horizon will be the *lagna* or orient ecliptic point.
 
-![Fig. 10.1](media/p03_page.png)
+![Fig. 10.1](media/p03_page.webp)
 
 *Fig. 10.1*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=middle, type=diagram -->
 
@@ -50,17 +50,17 @@ Some of the circles are partly shown in fig. 10.1. NPZSZ'N is the meridian circl
 
 ASTRONOMICAL INSTRUMENTS | 311
 
-<!-- figure-resolved-page-render-hidden: image=media/p04_page.png caption="Fig. 10.2" -->
+<!-- figure-resolved-page-render-hidden: image=media/p04_page.webp caption="Fig. 10.2" -->
 
 <!-- figure-meta: page=4, position=top, type=diagram -->
 
 Fig. 10.2 shows the projection of the circles in fig. 10.1 on the meridian circle. U is the point where the Sun rises and S' is its position at a certain time. OG is the gnomon and GH its mid-day shadow on the equinoctial day. This and the other perpendiculars will be needed in later discussions. Similarly fig. 10.3 is the projection of fig. 10.1 on the equinoctial and fig. 4 is its projection on the diurnal circle. These will also be needed in later discussion. In fig. 10.4 UU' is the *udayāsta-Sūtra*.
 
-![Fig. 10.3](media/p04_page.png)
+![Fig. 10.3](media/p04_page.webp)
 
 *Fig. 10.3*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=bottom, type=diagram -->
 
@@ -68,7 +68,7 @@ Fig. 10.2 shows the projection of the circles in fig. 10.1 on the meridian circl
 
 312 | HISTORY OF ASTRONOMY IN INDIA
 
-<!-- figure-resolved-page-render-hidden: image=media/p05_page.png caption="Fig. 10.4" -->
+<!-- figure-resolved-page-render-hidden: image=media/p05_page.webp caption="Fig. 10.4" -->
 
 <!-- figure-meta: page=5, position=top, type=diagram -->
 
@@ -76,11 +76,11 @@ Fig. 10.2 shows the projection of the circles in fig. 10.1 on the meridian circl
 
 The *Nāḍīvalaya*—This instrument is shown in figure 10.5. It is a large circular wooden disc with an axis in the centre. It is divided into $60$ *ghaṭikās* and also into $12$ signs of the ecliptic which do not occupy equal arcs of the circumference but such variable arcs as correspond with the periods of their risings in the place of observation. The twelve periods thus marked are again subdivided into two *horās*, three *dreṣkāṇas*, into ninths, twelfths and thirtieths. These are called the *ṣaḍvargas* or six classes. The signs, however, must be inscribed in the reverse order of the signs, that is first Aries, then Taurus to the West of Aries and so on.
 
-![Fig. 10.5—Nāḍīvalaya. The spaces on the circumference for the different signs are in proportion to their rising times at Delhi.](media/p05_page.png)
+![Fig. 10.5—Nāḍīvalaya. The spaces on the circumference for the different signs are in proportion to their rising times at Delhi.](media/p05_page.webp)
 
 *Fig. 10.5—Nāḍīvalaya. The spaces on the circumference for the different signs are in proportion to their rising times at Delhi.*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=bottom, type=diagram -->
 <!-- /decode-chunk -->
@@ -160,11 +160,11 @@ The gnomon was generally of a standard length. But for greater accuracy one coul
 The first use of the gnomon in India appears to be to fix the cardinal points. For this purpose the gnomon is placed on a plastered surface, made level with a water-level, and a circle of any desired size is drawn on the surface with its centre at the gnomon. The two points where the shadow touches the circle in the forenoon and afternoon are marked and with these points as centres, a fish figure is drawn. Then the line passing through the mouth and the tail of the fish will be the north-south line.
 This method of finding the north-south line would have been correct if the declination of the Sun remains unaltered between the forenoon and the afternoon positions. On account of the motion of the Sun on the ecliptic, the declination changes and the line joining the forenoon and afternoon points is not in the east-west direction.
 
-![Fig. 10.6.](media/p11_page.png)
+![Fig. 10.6.](media/p11_page.webp)
 
 *Fig. 10.6.*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=bottom, type=diagram -->
 
@@ -195,11 +195,11 @@ $$BC - AH = - \frac{H}{\cos \phi} (\sin \delta_2 - \sin \delta_1), \text{ since 
 
 tive sign. Since $\delta_1$ and $\delta_2$ can be calculated, we can obtain the correct value of the $bhuja\ DF$ by applying this correction. The fish figures drawn from $D$ and $A$ as centres will give the correct north-south and east-west directions. By a repetition of the same process, the intermediate points of direction can be obtained.
 
-![Fig. 10.7.](media/p12_page.png)
+![Fig. 10.7.](media/p12_page.webp)
 
 *Fig. 10.7.*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=bottom, type=diagram -->
 
@@ -288,11 +288,11 @@ Bhāskara II says that some former astronomers have given the following rule for
 ASTRONOMICAL INSTRUMENTS 325
 quotient will be the time sought. But Brahmagupta had already criticized this rough method of determining time. According to him, the *iṣṭahṛti* should be obtained by multiplying the sine of angular height by the radius of the diurnal circle and the equinoctial shadow and dividing the product by the gnomon length and the time determined as already explained in the section on determining time by the gnomon.
 
-![Fig. 10.8.](media/p18_page.png)
+![Fig. 10.8.](media/p18_page.webp)
 
 *Fig. 10.8.*
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 
@@ -332,11 +332,11 @@ Along the twelfth division on the side on which the viewing tube is placed, the 
 328 HISTORY OF ASTRONOMY IN INDIA
 the shadow of a gnomon of length equal to 12 units at any time. On the equinoctial day, this will give the length of the equinoctial shadow and the position of the index rod on the outer circle will give the latitude of the place of observation.
 
-![Fig. 10.9. The Phalaka-Yantra](media/p21_page.png)
+![Fig. 10.9. The Phalaka-Yantra](media/p21_page.webp)
 
 *Fig. 10.9. The Phalaka-Yantra*
 
-<!-- figure-resolved-page-render: page=21 image=media/p21_page.png -->
+<!-- figure-resolved-page-render: page=21 image=media/p21_page.webp -->
 
 <!-- figure-meta: page=21, position=middle, type=diagram -->
 
@@ -350,11 +350,11 @@ The Phalaka-Yantra described by Bhāskara II, though similar to the Cakra-Yantra
 
 ASTRONOMICAL INSTRUMENTS 329
 
-![Fig. 10.10.](media/p22_page.png)
+![Fig. 10.10.](media/p22_page.webp)
 
 *Fig. 10.10.*
 
-<!-- figure-resolved-page-render: page=22 image=media/p22_page.png -->
+<!-- figure-resolved-page-render: page=22 image=media/p22_page.webp -->
 
 <!-- figure-meta: page=22, position=top, type=diagram -->
 
@@ -371,11 +371,11 @@ The rough ascensional differences in palas determined by the *khaṇḍakas* or 
 The $R\sin\text{ (ascensional difference)}=R\tan\phi\tan\delta$, and the rough values of the arcs corresponding to the first, second and third signs at a place, when the equinoctial shadow is one *aṅgula*, are 10, 8 and $3\frac{1}{3}$ *palas* respectively. These are the values when $R=3438$. When the radius is 30, the arcs corresponding to the three signs will be these values multiplied by 30 and divided by 3438. If we wish to find the arcs in asus, they will have to be further multiplied by 6. Hence the arcs in *asus* corresponding to the three signs will be $(10,\,8,\,3\frac{1}{3})\times\frac{30\times 6}{3438}=(10,\,8,\,3\frac{1}{3})/19$. These will be the values for the instrument devised by Bhāskara II. Since the arcs involved are small the *jyā* corresponding to these values will also approximately be the same.
 The numbers 4, 11, 17, 18, 13, 5 multiplied severally by the equinoctial hypotenuse and divided by 12, will be the *khaṇḍakas* or portions at the given place; each of these being for each 15 degrees (of the *bhuja* of the Sun's longitude) respectively. The *sāyana* longitude of the Sun should be found by applying the correction due to the precession of the equinoxes and adding together as many *khaṇḍakas* or portions as correspond the *bhuja* of the Sun's longitude above found, and the sum should be divided by 60 and the quotient obtained should be added to the equinoctial hypotenuse. The result is now multiplied by 10 and divided by 4. The quotient here is called *yaṣṭi* in digits and the number of digits thus found is to be marked off on the arms of the *paṭṭikā* counting from its hole penetrated by the axis.
 
-![Fig. 10.11.](media/p23_page.png)
+![Fig. 10.11.](media/p23_page.webp)
 
 *Fig. 10.11.*
 
-<!-- figure-resolved-page-render: page=23 image=media/p23_page.png -->
+<!-- figure-resolved-page-render: page=23 image=media/p23_page.webp -->
 
 <!-- figure-meta: page=23, position=middle, type=diagram -->
 
@@ -474,11 +474,11 @@ This is a simple little tube formed generally of bamboo. Its use is only to veri
 In actual practice the Nalaka-Yantra is mounted on two bamboo sticks, so that its lower end is at the height of the eye and it is pointing the direction of the *chāyākarṇa*. In the case of the Sun, one can actually observe the gnomon shadow or one can compute it knowing the declination etc. In the case of a planet, the shadow cannot be seen. But its *koṭi* and *bhuja* can be calculated from its computed position and its declination. The Nalaka-Yantra will then verify the correctness of the computation.
 One can see the reflection of the planet in water. Since the angle of incidence is equal to the angle of reflection, the reflected light will be making the same angle with the surface of water but will be directed upwards in the plane of the incident ray. The Nalaka-Yantra will have thus to be directed downwards by the same amount as it was previously raised upwards while making the direct observations.
 
-![Fig. 10.12.](media/p26_page.png)
+![Fig. 10.12.](media/p26_page.webp)
 
 *Fig. 10.12.*
 
-<!-- figure-resolved-page-render: page=26 image=media/p26_page.png -->
+<!-- figure-resolved-page-render: page=26 image=media/p26_page.webp -->
 
 <!-- figure-meta: page=26, position=middle, type=diagram -->
 
@@ -502,11 +502,11 @@ $$R \cos \delta \sin \theta = \frac{d'd''}{2} = R \sin \delta \tan \phi,$$
 or $R \sin \theta = R \tan \delta \tan \phi$
 which is the *cara-dala-jyā*. The corresponding angle is the right ascension. Similarly we can get the *vināḍikās* corresponding to Aries + Taurus and Aries + Taurus + Gemini from the intersection $CP$ with $tt'$ and $gg'$ respectively and the two circles with radii $tt'$ and $gg'$ which have not been drawn in fig. 10.12.
 
-![Fig. 10.13.](media/p27_page.png)
+![Fig. 10.13.](media/p27_page.webp)
 
 *Fig. 10.13.*
 
-<!-- figure-resolved-page-render: page=27 image=media/p27_page.png -->
+<!-- figure-resolved-page-render: page=27 image=media/p27_page.webp -->
 
 <!-- figure-meta: page=27, position=bottom, type=diagram -->
 

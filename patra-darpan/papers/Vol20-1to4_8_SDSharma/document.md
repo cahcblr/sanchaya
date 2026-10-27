@@ -201,13 +201,13 @@ In the last century of Vikrama Samvat and also in the last forty years of presen
 
 If the Sun and Moon have equal declinations with same sign in different *ayanas*, the *yoga* was termed *vyatipāta* and if the signs were opposite but still the magnitudes were equal in same *ayanas* then it was termed as *vaidhṛti* (See fig. 7.1(a)(b)). In later developments the *yogas* were given a much more general meaning and these
 
-![Fig. 196. diagram](media/p09_page.png)
+![Fig. 196. diagram](media/p09_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=196 corrected_page=9 strategy=printed-page-offset -->
 <!-- figure-meta: page=196, position=bottom, type=diagram -->
 Fig. 7.1 (a)
 
-![Fig. 197. diagram](media/p10_page.png)
+![Fig. 197. diagram](media/p10_page.webp)
 
 <!-- figure-placeholder-warning: page_meta_out_of_range original_page=197 corrected_page=10 strategy=printed-page-offset -->
 <!-- figure-meta: page=197, position=top, type=diagram -->
@@ -250,9 +250,9 @@ $R_p = OP$
 $= $ distance of planet
 $p = <APO = lambana$.
 
-![Fig. 7.2](media/p11_page.png)
+![Fig. 7.2](media/p11_page.webp)
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 <!-- figure-meta: page=11, position=middle, type=diagram -->
 It may be remarked that the parallax was appearing in the data on lunar observations in early astronomical traditions of pre-siddhāntic period, because the observations were being performed at the time of moonrise and moonset. In these cases maximum value of parallax (horizontal parallax) appeared in their data. In *Purāṇas* and in Jaina literature in Prākṛta[^12] there are statements in which it is mentioned that Moon generating its *maṇḍalas* travels higher than the Sun. The statement is usually misinterpreted as mentioning Moon being at larger distance from Earth than the Sun. In fact in such statements the "height" means the latitudinal or declinational height in the daily diurnal motion in *maṇḍalas* (i.e. in spiral-like paths). It is evident that Moon goes upto declinational height of $28^{\circ}.5$ and Sun only upto the declinational height of $23^{\circ}.5$ in Jambūdvīpa. In fact the statements give heights in units of *yojanas* which are just the heights like the ones above sea level. Thus the statements in *Purāṇas* and Jaina astronomical texts like *Sūrya-prajñapti* mentioning Moon travelling above the Sun, are justified. It is found that[^22] $510 \text{ yojanas} = 2 \delta_{\text{max}}$
 
@@ -268,9 +268,9 @@ $$\text{parallax} = 4 \sin (\text{hour angle of Sun}) \text{ ghaṭis.} \quad (1
 
 In *Sūrya-siddhānta* we do not find much details in defining parallax geometrically but the later texts of the siddhāntic tradition have all relevant details. *Sūrya-siddhānta* starts discussing parallax in longitude and latitude stating that parallax in longitude (*harija*) of Sun is zero when it is in the position of *madhya-lagna*[^26] (ascendant$-90^{\circ}$) and the parallax correction in latitude (*nati* or *avanati*) is zero where the northern declination of the *madhya-lagna* equals the latitude of the place of observation. These facts can be easily visualised applying spherical trigonometrical formulae to solve the relevant spherical triangles. *Sūrya-siddhānta* and other texts in Indian traditional astronomy discuss the parallax corrections in longitude and latitude only.
 
-![Fig. 7.3](media/p12_page.png)
+![Fig. 7.3](media/p12_page.webp)
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 <!-- figure-meta: page=12, position=middle, type=diagram -->
 In *Āryabhaṭīya* the parallax is computed as follows:[^27]
 Let $Z$ be the zenith and $M$ the point of intersection of the ecliptic and $ZM$ the meridian of the place of observation. $C$ is the point of shortest distance of the ecliptic from the zenith (i.e. $ZC$ perpendicular from $Z$ to the ecliptic (Fig. 7.3).
@@ -305,9 +305,9 @@ $$dṛggatijy\bar{a} = \sqrt{\sin^2 \widehat{(ZP)} - (dṛkkṣepajy\bar{a})^2} 
 where $\widehat{ZP} = $ zenith distance, $\sin \widehat{(ZP)}$ is called $dṛgjy\bar{a}$.
 $\therefore (dṛggatijy\bar{a})^2 = (dṛgjy\bar{a})^2 - (dṛkkṣepajy\bar{a})^2$.
 
-![Fig. 7.4](media/p13_page.png)
+![Fig. 7.4](media/p13_page.webp)
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 <!-- figure-meta: page=13, position=middle, type=diagram -->
 This formula[^28] can be proved as follows:
 In Fig. 7.4, $CP$ is the ecliptic, $P$ being the planet. $K$ is the pole of ecliptic, $Z$ the zenith of the observer, $ZA$ the perpendicular from $Z$ on the secondary $KP$. Since $ZC \perp CP$ and $ZA \perp KP$, $\sin^2 (ZA) = \sin^2 \widehat{(ZP)} - \sin^2 \widehat{(ZC)}$
@@ -450,9 +450,9 @@ From Vedic and Post-Vedic literature, it can be easily inferred that the phenome
 ECLIPSES, PARALLAX AND PRECESSION OF EQUINOXES 205
 winter solstice marked the beginning of year and according to the second tradition the beginning of the year was with Sun's passage at spring equinox. At the time of the *Śatapatha Brāhmaṇa* the spring equinox was near the constellation Kṛttikās (pleiades).[^42]
 
-![Fig. 7. The Zodiac through ages.](media/p18_page.png)
+![Fig. 7. The Zodiac through ages.](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 **MAGNITUDES**
 First ●
@@ -477,9 +477,9 @@ Although Hipparchus (2nd century B.C.)[^44] is accredited with the discovery and
 ECLIPSES, PARALLAX AND PRECESSION OF EQUINOXES 207
 Muñjāla believed in uniform regression of equinoctial point up to complete cycle, while present *Sūrya-siddhānta* uses the hypothesis of oscillatory motion (trepidation) of equinoxes. (This hypothesis will be discussed in details in the next section). The rate of precession according to Viṣṇucandra is about $56''.9$ P.A. (number of cycles in a *kalpa* $= 189411$). According to Muñjāla the rate is $59''.2$ P.A. (number of cycles in a *kalpa* $= 199669$). These are uniform regressional motions. According to *Sūrya-siddhānta* the cycle of oscillatory motion has a period of 7200 years, but it is strange that rate of precession is again uniform $54''$ P.A. and it is not oscillatory which is against laws of oscillatory motion.
 
-![Fig. 7. The technique used for horizontal observation in Sūrya-prajñāpti and Śulba-Sūtras.](media/p20_page.png)
+![Fig. 7. The technique used for horizontal observation in Sūrya-prajñāpti and Śulba-Sūtras.](media/p20_page.webp)
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 <!-- figure-meta: page=20, position=middle, type=diagram -->
 Fig. 7.6
 The technique used for horizontal observation in *Sūrya-prajñāpti* and *Śulba-Sūtras*.

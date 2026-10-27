@@ -165,15 +165,15 @@ Thus, from (8) and (9), we obtain (5).[^12]
 <!-- /decode-chunk -->
 
 <!-- decode-chunk: pages=4-4 source_sha256=d21dc7879264df3411dbd5510935d19cb47602ae162db684efa19e2e9c723e9e -->
-<!-- figure-resolved-page-render-hidden: image=media/p04_page.png caption="Fig. 1. Schematic representation of the celestial sphere from the west. (a) Sun with northern declination. (b) Sun with southern declination." -->
+<!-- figure-resolved-page-render-hidden: image=media/p04_page.webp caption="Fig. 1. Schematic representation of the celestial sphere from the west. (a) Sun with northern declination. (b) Sun with southern declination." -->
 
 <!-- figure-meta: page=4, position=top-left, type=diagram -->
 
-![Fig. 2. Schematic representation of the celestial sphere from the east at the same instant as Fig. 1. (a) $S'$, a point $90^\circ$ ahead of the Sun, having southern declination. (b) $S'$, a point $90^\circ$ ahead of the Sun, having northern declination.](media/p04_page.png)
+![Fig. 2. Schematic representation of the celestial sphere from the east at the same instant as Fig. 1. (a) $S'$, a point $90^\circ$ ahead of the Sun, having southern declination. (b) $S'$, a point $90^\circ$ ahead of the Sun, having northern declination.](media/p04_page.webp)
 
 *Fig. 2. Schematic representation of the celestial sphere from the east at the same instant as Fig. 1. (a) $S'$, a point $90^\circ$ ahead of the Sun, having southern declination. (b) $S'$, a point $90^\circ$ ahead of the Sun, having northern declination.*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=top-right, type=diagram -->
 
@@ -386,11 +386,11 @@ $$\begin{aligned}
 
 Thus, we obtain (19) and (20), respectively.
 
-![Fig. 3. Determining the samalagna from the bhuja and the koṭi](media/p07_page.png)
+![Fig. 3. Determining the samalagna from the bhuja and the koṭi](media/p07_page.webp)
 
 *Fig. 3. Determining the samalagna from the bhuja and the koṭi*
 
-<!-- figure-resolved-page-render: page=7 image=media/p07_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=7 image=media/p07_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=7, position=top, type=diagram -->
 
@@ -424,11 +424,11 @@ $$\sin BE = \frac{\sin \Gamma B \times \sin \epsilon}{\sin \phi},$$
 
 which is equivalent to (32). The corresponding cosine, $OX = R\cos BE$ in Fig. 4, is stated to be the *samaprabhā*.
 
-![Fig. 4. Visualising the samaśaṅku](media/p08_page.png)
+![Fig. 4. Visualising the samaśaṅku](media/p08_page.webp)
 
 *Fig. 4. Visualising the samaśaṅku*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=8, position=top, type=diagram -->
 
@@ -508,11 +508,11 @@ bhaktā dhanarṇaṃ mṛgakarkaṭādyoḥ |
 trijyāhṛte’ntyāpamalambaghāte  
 kuryāttadā syādayanāntabāhuḥ ||72||
 
-![Fig. 5. The dṛkkṣepa (D) and the samadṛggati (G) lie in opposite hemispheres](media/p10_page.png)
+![Fig. 5. The dṛkkṣepa (D) and the samadṛggati (G) lie in opposite hemispheres](media/p10_page.webp)
 
 *Fig. 5. The dṛkkṣepa (D) and the samadṛggati (G) lie in opposite hemispheres*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=10, position=top, type=diagram -->
 
@@ -706,11 +706,11 @@ $$
 $[90 < \alpha_e < 270]$
 All the above relations for the computation of the *viṣuvaccalana* are conditional upon the presence of *ayanāntabāhu* in *mṛgādi* ($270^\circ$ to $90^\circ$) or *karkaṭādi* ($90^\circ$ to $270^\circ$). As we have noted in our discussion of verse 72, the second term in the expression for the *ayanāntabāhu* in (37) is applied positively or negatively depending upon whether the *kālalagna* is in the first and fourth quadrants, or the second and third quadrants, respectively. Thus, the given relations are to be understood to be conditional upon the quadrant in which the *kālalagna* is present.
 
-![Fig. 6. Visualising the paramā bhujā](media/p13_page.png)
+![Fig. 6. Visualising the paramā bhujā](media/p13_page.webp)
 
 *Fig. 6. Visualising the paramā bhujā*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=top, type=diagram -->
 
@@ -840,11 +840,11 @@ $$
 $$
 where $\Gamma B_{min}$ is determined using the appropriate expressions from (43)–(46). When the *kālalagna* is in the third quadrant, $\Gamma B_{min}$ is to be computed using (44) or (46), and when the *kālalagna* is in the fourth quadrant, $\Gamma B_{min}$ is to be computed using (43) or (45).
 
-![Fig. 7. Visualising the viṣuvaccalana when kālalagna is in different quadrants](media/p15_page.png)
+![Fig. 7. Visualising the viṣuvaccalana when kālalagna is in different quadrants](media/p15_page.webp)
 
 *Fig. 7. Visualising the viṣuvaccalana when kālalagna is in different quadrants*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=top, type=diagram -->
 
@@ -944,11 +944,11 @@ $$R \cos BE = \frac{R \sin z_d \times R}{R \sin B}. \tag{64}$$
 The above two relations are identical to (61) and (62), which we have derived in our discussion of the previous verse. It may be recalled[^37] that the *samaśaṅku* is the perpendicular dropped from the *samalagna* onto the plane of the horizon, corresponding to the line segment $BX = R \sin BE$ in Fig. 4, while the *samaprabhā* is the corresponding cosine $OX = R \cos BE$.
 ---
 
-![Fig. 8. Schematic representation of spherical triangles necessary for computing paramā bhujā, samaśaṅku, samaprabhā and samadṛggati](media/p17_page.png)
+![Fig. 8. Schematic representation of spherical triangles necessary for computing paramā bhujā, samaśaṅku, samaprabhā and samadṛggati](media/p17_page.webp)
 
 *Fig. 8. Schematic representation of spherical triangles necessary for computing paramā bhujā, samaśaṅku, samaprabhā and samadṛggati*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=17, position=top, type=diagram -->
 

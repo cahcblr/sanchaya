@@ -52,22 +52,22 @@ A *Samrāṭ yantra* is an equinoctial sundial. Jai Singh turned this simple dia
 
 Fig. 1 illustrates a *Samrāṭ*'s principle. The instrument consists of a meridian wall ABC, in the shape of a right triangle, with its hypotenuse or the gnomon CA pointing toward the north celestial pole and its base BC horizontal along a north-south line. The angle ACB between the hypotenuse and the base equals the latitude of the place. Projecting upward from a point S near the base of the triangle are two quadrants $\text{SQ}_1$ and $\text{SQ}_2$ of radius DS, in a plane parallel to the equatorial plane. The center of the two "quadrant arcs" lies at point D on the hypotenuse. The length and radius of the quadrants are such that, if put together, they would form a semicircle in the plane of the equator.
 
-![Fig. 1. Samrāṭ yantra: Principle and Operation.](media/p03_page.png)
+![Fig. 1. Samrāṭ yantra: Principle and Operation.](media/p03_page.webp)
 
 *Fig. 1. Samrāṭ yantra: Principle and Operation.*
 
-<!-- figure-resolved-page-render: page=3 image=media/p03_page.png -->
+<!-- figure-resolved-page-render: page=3 image=media/p03_page.webp -->
 
 <!-- figure-meta: page=3, position=bottom, type=diagram -->
 
 The quadrants are graduated into equal-length divisions of time measuring units, such as *ghaṭikās* and *palas* according to the Hindu system;[^2] or hours, minutes and seconds, according to the Western system. The upper two ends $\text{Q}_1$ and $\text{Q}_2$ of the quadrants indicate either the 15 *ghaṭikā* marks for the Hindu system, or the 6 a.m. and the 6 p.m. marks according to the Western system. The bottommost point of both quadrants, on the other hand, indicates the Zero *ghaṭikā* or 12 noon.
 The hypotenuse or the gnomon edge AC is graduated to read the angle of declination. The declination scale is a tangential scale in which the division-lengths gradually increase in proportion to the tangent of the declination angle as illustrated[^3] in Fig. 2. The zero marking of this scale is at point D. Further, the gnomon scale AC is divided into two sections, such that the section DA reads the angle of declination to the north of the celestial equator, and the section DC to the south as illustrated in Fig. 2.
 
-![Fig. 2. The tangential scale over a Samrāṭ gnomon. The scale indicates the angle of declination, $\delta$.](media/p04_page.png)
+![Fig. 2. The tangential scale over a Samrāṭ gnomon. The scale indicates the angle of declination, $\delta$.](media/p04_page.webp)
 
 *Fig. 2. The tangential scale over a Samrāṭ gnomon. The scale indicates the angle of declination, $\delta$.*
 
-<!-- figure-resolved-page-render: page=4 image=media/p04_page.png -->
+<!-- figure-resolved-page-render: page=4 image=media/p04_page.webp -->
 
 <!-- figure-meta: page=4, position=middle, type=diagram -->
 
@@ -81,11 +81,11 @@ Since a *samrāṭ*, like any other sundial, measures the local time or apparent
 For measuring the declination of the sun the observer moves a rod over the gnomon surface AC, up or down (Fig. 1) until the rod's shadow falls on a quadrant scale below. The location of the rod on the gnomon scale then gives the declination of the sun. The declination measurement of a star or a planet requires the collaboration of two observers. One observer stays near the quadrants below, and sighting the star through his sighting device, guides his assistant, who moves a rod up or down along the gnomon scale. This is done until the vantage point V on a quadrant edge below aligns with the gnomon edge above where the rod is placed and with the star. The location of the rod on the gnomon scale then indicates the declination of the object. In this exercise, a torch bearer may also be necessary to shine light on the rod on the gnomon edge so that the principal observer near the quadrants below may see it clearly.
 In actual practice, a quadrants of the *Samrāṭ* are not thin arcs as illustrated in Fig. 1 but curved surfaces of finite width over thick walls and engraved with two parallel time measuring scales near their edges, (See Fig. 3.). With this arrangement time can be
 
-![Fig. 3. Samrāṭ yantra, perspective. The gnomon and quadrants of a Samrāṭ are walls of finite width.](media/p05_page.png)
+![Fig. 3. Samrāṭ yantra, perspective. The gnomon and quadrants of a Samrāṭ are walls of finite width.](media/p05_page.webp)
 
 *Fig. 3. Samrāṭ yantra, perspective. The gnomon and quadrants of a Samrāṭ are walls of finite width.*
 
-<!-- figure-resolved-page-render: page=5 image=media/p05_page.png -->
+<!-- figure-resolved-page-render: page=5 image=media/p05_page.webp -->
 
 <!-- figure-meta: page=5, position=bottom, type=diagram -->
 
@@ -109,11 +109,11 @@ measured by two observers simultaneously and then compared for accuracy. For mea
 Jai Singh built his *Samrāṭs* in several sizes with varying degrees of accuracy. His smallest unit, with a least count of 1 minute, is located at Varanasi, whereas the largest, the Great *Samrāṭ*, almost ten times as big and having a least count of 2 sec, is at Jaipur. The Great *Samrāṭ* of Jaipur is the largest sundial in the world. The gnomon of this instrument consists of a 2.35 m wide and 22.62 m high triangular wall with a 44.58-meter base, and a 50.09 m long hypotenuse. The quadrants on either side of the gnomon have a radius of $15.15 \pm 0.01\text{ m}$ and are 2.84 m wide.
 The instrument of Delhi is the second largest *Samrāṭ* of Jai Singh. It has a base length of 34.59 m, a hypotenuse of 39.2 m and a quadrant radius of 15.1 m. The least count of the instrument is 2 sec in time or the same as that of the Jaipur instrument and the average length of a division 2.2 mm. Unfortunately, the instrument currently is in bad shape and needs extensive restoration (Photograph 1).
 
-![Photo 1. The Great Samrāṭ of Jaipur. A pair of Ṣaṣṭhāṃśas are located in an enclosed chamber attached to the west quadrant of the Samrāṭ on the right.](media/p06_fig01.png)
+![Photo 1. The Great Samrāṭ of Jaipur. A pair of Ṣaṣṭhāṃśas are located in an enclosed chamber attached to the west quadrant of the Samrāṭ on the right.](media/p06_fig01.webp)
 
 *Photo 1. The Great Samrāṭ of Jaipur. A pair of Ṣaṣṭhāṃśas are located in an enclosed chamber attached to the west quadrant of the Samrāṭ on the right.*
 
-<!-- figure-resolved-extracted: page=6 image=media/p06_fig01.png -->
+<!-- figure-resolved-extracted: page=6 image=media/p06_fig01.webp -->
 
 <!-- figure-meta: page=6, position=bottom, type=photograph -->
 
@@ -136,31 +136,31 @@ Another source of inaccuracy directly attributed to the penumbra is the fact tha
 The penumbra effect, just discussed, becomes quite evident and at the same time perplexing when one observes the noon hour at the quadrants. Theoretically, at the noon hour, the shadow of the gnomon, disappearing from the west quadrant must reappear immediately on the east quadrant. However, in actual practice this does not occur. At the Great *Samrāṭ* of Jaipur, the shadow after disappearing from the west quadrant, takes about 80 sec to reappear on the east[^8].
 The lapse of 80 seconds or so the shadow takes to travel from one side to the other and the discrepancy of time-readings at the two quadrant-scales may be understood as follows: The width of the penumbra in mid January produced by the entire disc of the sun should be as wide as the disc of the sun, which is 1/2 degree (See Fig. 4). A one-half degree wide penumbra would be about 14.3 cm across at the Great *Samrāṭ* of Jaipur;[^9] and, ideally, the midpoint of this penumbra, corresponding to the midpoint of the sun, should indicate the true local time. However, the visible part of the penumbra in midmorning, say, around 10 o'clock, is only about 3 cm wide. It is not produced by the entire disc of the sun but a part of it or, more precisely, by its western 1/5 part only[^10]. Any point selected in this 3-cm wide region, as a result, does not correspond to the midpoint of the sun and, therefore, does not indicate the true local time. The point that we selected, while reading time with a string in the morning hours, corresponds to a point somewhere within the one-fifth of the disc measured from the sun's western edge. As a consequence, the time readings of the western quadrant are always ahead of true local time. In the afternoon the situation becomes quite the reverse. In the afternoon, the visible penumbra is cast by the eastern 1/5 of the disc, and then any point within it, selected as the edge of the shadow to indicate the time is behind the true local time.
 
-![Fig. 4. The penumbra of the sun is one-half degree wide. The figure shows a highly exaggerated version of the effect.](media/p08_page.png)
+![Fig. 4. The penumbra of the sun is one-half degree wide. The figure shows a highly exaggerated version of the effect.](media/p08_page.webp)
 
 *Fig. 4. The penumbra of the sun is one-half degree wide. The figure shows a highly exaggerated version of the effect.*
 
-<!-- figure-resolved-page-render: page=8 image=media/p08_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=8 image=media/p08_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=8, position=bottom, type=diagram -->
 
 The discrepancy regarding the noon hour arises due to this penumbral effect. As pointed out above, the visible-penumbra marking the edge of the shadow is cast by 1/5 disc of the sun. The edge of the shadow from the west quadrant disappears as soon as a little over 1/5 of the sun's disc crosses the meridian, (See Fig. 5a.). The shadow-edge or the visible-penumbra on the eastern quadrant is cast, on the other hand, by the eastern 1/5 of the disc of the sun. This edge appears on the east quadrant when most of the sun has crossed the meridian, and only its eastern 1/5 remains behind, (See Fig. 5b). In other words, no shadow appears on the east quadrant until the 3/5 disc of the sun, around its midpoint, has crossed the meridian, which takes about 72 seconds. The time lag thus calculated comes close to our observation of 80 seconds which is in reasonable agreement in view of the various uncertainties in the measurement of time intervals.
 
-![Fig. 5a. Noon-hour at the west quadrant of a Samrāṭ. The penumbra indicating the shadow-edge corresponds to the western one-fifth disc of the sun.](media/p09_page.png)
+![Fig. 5a. Noon-hour at the west quadrant of a Samrāṭ. The penumbra indicating the shadow-edge corresponds to the western one-fifth disc of the sun.](media/p09_page.webp)
 
 *Fig. 5a. Noon-hour at the west quadrant of a Samrāṭ. The penumbra indicating the shadow-edge corresponds to the western one-fifth disc of the sun.*
 
-<!-- figure-resolved-page-render: page=9 image=media/p09_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=9 image=media/p09_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=9, position=bottom, type=diagram -->
 
 It should be emphasized that the errors arising from penumbra can be eliminated by applying proper corrections. It is not known, however, if Jai Singh's astronomers applied any such corrections to their data.
 
-![Fig. 5b. Noon-hour at the east quadrant of a Samrāṭ. The penumbra indicating the shadow-edge corresponds to the eastern one-fifth of the sun's disc.](media/p10_page.png)
+![Fig. 5b. Noon-hour at the east quadrant of a Samrāṭ. The penumbra indicating the shadow-edge corresponds to the eastern one-fifth of the sun's disc.](media/p10_page.webp)
 
 *Fig. 5b. Noon-hour at the east quadrant of a Samrāṭ. The penumbra indicating the shadow-edge corresponds to the eastern one-fifth of the sun's disc.*
 
-<!-- figure-resolved-page-render: page=10 image=media/p10_page.png reason=no-extracted-figure -->
+<!-- figure-resolved-page-render: page=10 image=media/p10_page.webp reason=no-extracted-figure -->
 
 <!-- figure-meta: page=10, position=middle, type=diagram -->
 
@@ -180,11 +180,11 @@ At every *Samrāṭ* we examined, the gnomon edges AC or A′C′ deviated from 
 
 With reference to Fig. 6, let ABC represent the true edge of the gnomon and let A'B'B repesent the actual edge. Further, let BB', or the distance S, representing the linear deviation from the true edge, make an angle $\phi$ with the vertical. Let the rays of the sun be incident at an angle $\theta$ with the vertical. If the solar rays are displaced by a distance d, due to the deviation, then $\text{d} = \text{S}\sin(\theta + \phi)$. Hence the error arising from the nonlinearity changes continuously as the angle $(\theta + \phi)$ changes during the course of a day. Or the error varies as the shadow of the gnomon travels from one end of a quadrant to the other during the hours of observation. It is maximum when the rays fall perpendicularly to BB', or when the sun of the two angles $\theta$ and $\phi$ equals 90 deg.
 
-![Fig. 6. Deviation of gnomon edge from linearity. In the figure, B is the true edge and B' the deviated edge.](media/p11_page.png)
+![Fig. 6. Deviation of gnomon edge from linearity. In the figure, B is the true edge and B' the deviated edge.](media/p11_page.webp)
 
 *Fig. 6. Deviation of gnomon edge from linearity. In the figure, B is the true edge and B' the deviated edge.*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=middle, type=diagram -->
 
@@ -204,11 +204,11 @@ Lieutenant A. ff. Garrett, who supervised the restoration of the Jaipur observat
 
 We also investigated the error caused by variations in the radius of curvature of a quadrant from one place to the other. We noted that such deviation at the Great *Samrāṭ*, which has a radius of 15.15 m, is less than 1 cm. We found that the error caused in time measurement by such small variations would be negligible[^14].
 
-![Fig. 7. Deviation of the gnomon edge from the polar axis.](media/p13_page.png)
+![Fig. 7. Deviation of the gnomon edge from the polar axis.](media/p13_page.webp)
 
 *Fig. 7. Deviation of the gnomon edge from the polar axis.*
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 
 <!-- figure-meta: page=13, position=top, type=diagram -->
 
@@ -229,11 +229,11 @@ According to the theory of the instrument, the plane in which the quadrants are 
 Referring to Fig. 8, let the light from a point source such as a star fall on point P of the quadrant scale. Let $\phi$ be the hour angle of the star. Let $\omega$ be the angular separation between the equatorial plane and the plane of the quadrant. Let $\Delta\text{s}$ be the linear separation between the two planes at P. If r is the perpendicular distance of point P from the horizontal line passing through the lower end of the quadrant, then as a first order approximation, $\Delta\text{s} = \text{r}\omega$. The linear separation $\Delta\text{s}$ will show up as an error in the measurement of declination. For an object on the equator, such as the sun at equinox, the value of r is equal to $(\text{R} - \text{R}\cos\phi)$ where R is the radius of the quadrant. Therefore, $\Delta\text{s}$ would be largest for objects at the horizon for which $\phi = 90\text{ deg}$. Under these conditions, the error $\Delta\text{s}$, becomes equal to $\text{R}\omega$. This shows up as a shift of the zero markings of the declination either to the north or to the south of the line joining the two 6 o' clock marks. By measuring this shift, the angle $\omega$ (equal to $\Delta\text{s}/\text{R}$) can be determined.
 At the Great *Samrāṭ* of Jaipur, the zero of the declination scale of the gnomon corresponding to the west quadrant was noted to be shifted by about 3 cm toward the south. This suggests that the quadrant plane deviates from the true equatorial plane by 3 cm/15.15 m = 8 arc-minute. The corresponding numbers for the east quadrant are 5 cm to the south and 13' of arc. We have noted defects of this kind and magnitude in almost all of the *Samrāṭ* we have examined.
 
-![Fig. A / Fig. B: Deviation of the quadrant plane from the equatorial plane. See text for details.](media/p15_page.png)
+![Fig. A / Fig. B: Deviation of the quadrant plane from the equatorial plane. See text for details.](media/p15_page.webp)
 
 *Fig. A / Fig. B: Deviation of the quadrant plane from the equatorial plane. See text for details.*
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 
 <!-- figure-meta: page=15, position=middle, type=diagram -->
 
@@ -262,11 +262,11 @@ To check the current accuracy of the declination scales of the Great *Samrāt* f
 
 A *Ṣaṣṭhāṃśa Yantra* is a 60-deg arc built in the plane of meridian within a dark chamber. The instrument is used for measuring the declination, zenith distance and diameter of the sun. Fig. 9 explains the principle of its operation. The figure represents
 
-![Fig. 9. The principle of a *Ṣaṣṭhāṃśa yantra*. The instrument displays a pinhole image of the sun on a sixty-degree meridian scale. The image of the sun is highly exaggerated in the diagram.](media/p17_page.png)
+![Fig. 9. The principle of a *Ṣaṣṭhāṃśa yantra*. The instrument displays a pinhole image of the sun on a sixty-degree meridian scale. The image of the sun is highly exaggerated in the diagram.](media/p17_page.webp)
 
 *Fig. 9. The principle of a *Ṣaṣṭhāṃśa yantra*. The instrument displays a pinhole image of the sun on a sixty-degree meridian scale. The image of the sun is highly exaggerated in the diagram.*
 
-<!-- figure-resolved-page-render: page=17 image=media/p17_page.png -->
+<!-- figure-resolved-page-render: page=17 image=media/p17_page.webp -->
 
 <!-- figure-meta: page=17, position=bottom, type=diagram -->
 
@@ -392,11 +392,11 @@ The observatory of Delhi had a large *Dakṣiṇottara Bhitti* once, but it has 
 The observatory of Jaipur has a well-built *Dakṣiṇottara Bhitti yantra*. The instrument is of relatively recent origin. It was constructed in 1876 to replace the original that had to give way to a road passing next to the observatory. The instrument of Jaipur has in fact two separate *Dakṣiṇottara Bhitti* units-one a double quadrant and the other a semicircle-both inscribed on white marble on the outer walls of a narrow north-south chamber. The double quadrants are inscribed on the east wall of the chamber, and their radius is 6.06 m each. On the west-facing wall of the same chamber, the semicircle is inscribed with its center near the top end of the wall (Photograph 2). At the center of the semicircle, an iron style has been fixed. The diameter of the semicircle is 12.13 m. The least count of this instrument, for both sides, is 2' of arc, and the average division length is 3.53 mm.
 In December 1981 and January 1982, we took numerous readings with the instrument and compared them with those calculated from an ephemeris. We found that readings with the instrument on the east-facing wall invariably were lower by an amount anywhere from 17' to 24' of arc. The difference was too large to be accounted for by the uncertainty of the penumbra only, which was about 10' of arc due to the finite width (1.5 cm) of the rod casting the shadow. The west-facing unit of the instrument did slightly better, however. There the dial read approximately 10'-15' higher[^50]. The instrument needs to be investigated further in order to ascertain the source of this error. A few entries from a set of our readings for the noon-hour sun are given in Table 5.
 
-![Photo 2. The west-facing unit of the Dakṣiṇottara Bhitti yantra of Jaipur.](media/p23_fig01.png)
+![Photo 2. The west-facing unit of the Dakṣiṇottara Bhitti yantra of Jaipur.](media/p23_fig01.webp)
 
 *Photo 2. The west-facing unit of the Dakṣiṇottara Bhitti yantra of Jaipur.*
 
-<!-- figure-resolved-extracted: page=23 image=media/p23_fig01.png -->
+<!-- figure-resolved-extracted: page=23 image=media/p23_fig01.webp -->
 
 <!-- figure-meta: page=23, position=bottom, type=photograph -->
 

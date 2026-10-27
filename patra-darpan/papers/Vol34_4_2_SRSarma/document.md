@@ -244,11 +244,11 @@ Of the first four plates, 1 a, b; 2 a, b; 3 b; 4 a, b are sexpartite, that is to
 
 KAṬAPAYĀDI NOTATION ON A SANSKRIT ASTROLABE [283]
 
-![Fig. 11. Detail of the plate for latitutde $18^\circ$, showing the altitude circles drawn for each $6''$ and labelled in the Kaṭapayādi notation](media/p11_page.png)
+![Fig. 11. Detail of the plate for latitutde $18^\circ$, showing the altitude circles drawn for each $6''$ and labelled in the Kaṭapayādi notation](media/p11_page.webp)
 
 *Fig. 11. Detail of the plate for latitutde $18^\circ$, showing the altitude circles drawn for each $6''$ and labelled in the Kaṭapayādi notation*
 
-<!-- figure-resolved-page-render: page=11 image=media/p11_page.png -->
+<!-- figure-resolved-page-render: page=11 image=media/p11_page.webp -->
 
 <!-- figure-meta: page=11, position=top, type=photograph -->
 
@@ -270,11 +270,11 @@ It may be seen that a majority of forms terminates in the long vowel *e*. It is 
 In Islamic astrolabes, whether produced in the west or east, all the numerical legends are written in the alphabetical notation known as *Abjad* notation.[^22] In the course of this project, I have ascertained the existence of more than 70 Sanskrit astrolabes. Of these I
 [284] INDIAN JOURNAL OF HISTORY OF SCIENCE
 
-![Fig. 12. Detail of the plate for latitude $28^\circ$ *Vaṃśāvalīnagara*, showing the altitude circles drawn for each $3''$ and labelled in the Kaṭapayādi notation](media/p12_page.png)
+![Fig. 12. Detail of the plate for latitude $28^\circ$ *Vaṃśāvalīnagara*, showing the altitude circles drawn for each $3''$ and labelled in the Kaṭapayādi notation](media/p12_page.webp)
 
 *Fig. 12. Detail of the plate for latitude $28^\circ$ *Vaṃśāvalīnagara*, showing the altitude circles drawn for each $3''$ and labelled in the Kaṭapayādi notation*
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 
 <!-- figure-meta: page=12, position=top, type=photograph -->
 

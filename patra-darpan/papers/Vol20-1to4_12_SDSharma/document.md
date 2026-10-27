@@ -17,9 +17,9 @@ In astronomical lore of ancients there were very few simple instruments. Naked e
 We find a simple stick (or a *nalikā*, tube) and a thread being used for determining the diurnal rising and setting of Sun, Moon and planets, in the horizon of the locality[^2]. This was the simplest instrument prepared by drawing a circle on ground and a stick was being used for pointing towards the disc of Sun, Moon or planet at the time of rising or setting. The thread (*davarikā* as sometimes it is called) was being used to draw geometrically the chords in the experiments as shown in fig. 11.1.
 This is probably the first instrument in open-air observatory used for planetary observations. A simple stick and a tube too served the purpose to observe planets’ conjunction etc. Along with it a gnomon [^3] was being used for determining time. The gnomon might have been used for standardizing the amount of water in clepsydra on equinoctial days[^4]. These two instruments might have been used simultaneously for defining *muhūrtas*[^5] during day and also during night from observations of Moon’s shadow[^6]. The observatories evolved from these open air collections having these simple instruments. We do not have any record of old observatories but there are scattered references like those of Emperor Babur mentioning the old observatory of Vikramāditya’s time[^7]. There is no doubt that the instruments were evolving gradually as evidenced from studies of astronomical texts in chronological fashion. When the spherical nature of shape of the Earth was established, a geometrical globe was developed as described in last chapter of *Sūrya-siddhānta*[^8]. This instrument gave birth to a celestial globe when the astronomical circles like celestial equator, ecliptic etc. were defined. The *khagola* (celestial sphere) was prepared by using wires or wooden splinters. The present recension of *Sūrya-siddhānta* mentions the setting of this instru-
 
-![Fig. 11. Cardinal coordinates used for celestial bodies at the time of rising due to diurnal motion in ancient astronomical tradition as in Vedaṅgajyotiṣa, Śulbasūtras Sūryaprajñapti etc.](media/p02_page.png)
+![Fig. 11. Cardinal coordinates used for celestial bodies at the time of rising due to diurnal motion in ancient astronomical tradition as in Vedaṅgajyotiṣa, Śulbasūtras Sūryaprajñapti etc.](media/p02_page.webp)
 
-<!-- figure-resolved-page-render: page=2 image=media/p02_page.png -->
+<!-- figure-resolved-page-render: page=2 image=media/p02_page.webp -->
 <!-- figure-meta: page=2, position=top, type=diagram -->
 Fig. 11.1.
 1. Cardinal coordinates used for celestial bodies at the time of rising due to diurnal motion in ancient astronomical tradition as in Vedaṅgajyotiṣa, Śulbasūtras Sūryaprajñapti etc.
@@ -143,9 +143,9 @@ There were also two circles and a square. This construction too is quite confusi
 
 Towards north of the *Bhitti-yantra* somewhat in the eastern part there is another big instrument called *Yantra Samrāṭ*. This has a gnomon wall which is set in the precisely determined north south direction and is made up of limebrick stones. This is 3 hands in thickness and 24 hands in length. Its upper part is slanting, made up of stones and points towards Polaris. In the south the root side is $4\frac{1}{2}$ hands in height and on the front side in the north it is 15 hands less 3 *aṅgulas* in height. It has ladders in between. On the eastern and western sides there are two stony arcs with radii 6 hands and somewhat more than a quadrant each in size. These have breadth somewhat less than 4 hands and their thickness is $9\frac{1}{2}$ *aṅgulas*. Their centres lie on the *śarkupālīs* (the edges of the gnomon wall). On each arc there are quadrants which on edges have divisions in 15 equal *ghaṭīs*. Each division is further graduated in uniform six subdivisions which are somewhat less than an *aṅgula* in measure. On the *śarkupālīs* (on both edges of the gnomon wall) there are two small iron rings, whose centres coincide with the centres of the *cāpa-pālīs* (the edges of the arcs). In this instrument, during day time, from the root of the gnomon upto the shadow on the *cāpa-pālī* (in units of *ghaṭī*-timings or the *nata-ghaṭīs*). If the shadow of the gnomon falls on the western side then take these (*nata-ghaṭīs*) to be the time left for midday and if the shadow falls on the eastern side then take these to be the time past midday. In order to see keenly the shadow from nearby positions there are made stony riding passages on both the arcs. But now because of excessive weights, the arcs are little inclined from the actual positions near the terminal edges. So in these parts the shadow gives time which is somewhat erroneous.
 
-![Fig. 11.3. Yantra Samrāṭ diagram](media/p12_page.png)
+![Fig. 11.3. Yantra Samrāṭ diagram](media/p12_page.webp)
 
-<!-- figure-resolved-page-render: page=12 image=media/p12_page.png -->
+<!-- figure-resolved-page-render: page=12 image=media/p12_page.webp -->
 <!-- figure-meta: page=12, position=middle, type=diagram -->
 Fig. 11.3.
 These shadow of the *śarkupālī* from the Moon is not so clear as it is from the Sun. Moreover the planets and stars do not produce shadow at all, so how the hour angles of the planets Mars etc. and those of stars can be determined with the help of this instrument ? For the here we give the method:
@@ -158,9 +158,9 @@ In order to find the *viṣuvakāla* (right ascension expressed in units of time
 1. At the time of sun-set note down the hour angle $H'_s$ of the Sun and after sun-set note down the time $t$, the star $X$ takes to be just visible. In the diagram (Fig. 11.4) $S_2$ and $S_2$ are the positions of Sun on its diurnal path at the time of setting and at the time of star being visible. (The diurnal path of the Sun is not shown here).
 Here in fact $t$ must include also the angle traversed by the Sun due to its apparent motion during this time. $\gamma$ is the vernal equinox, $P$ is the pole of celestial equator and $PM$ is the meridian of the place of observation, $D$ is the culminating point of ecliptic (intersection of ecliptic with the meridian towards zenith side). $D$ is usually referred to as *daśama-lagna* in the traditional Indian astronomical terminology.
 
-![Fig. 11.4. viṣuvakāla diagram](media/p13_page.png)
+![Fig. 11.4. viṣuvakāla diagram](media/p13_page.webp)
 
-<!-- figure-resolved-page-render: page=13 image=media/p13_page.png -->
+<!-- figure-resolved-page-render: page=13 image=media/p13_page.webp -->
 <!-- figure-meta: page=13, position=bottom, type=diagram -->
 Fig. 11.4.
 At the time of observation of the star, the hour angle of the sun $H_s = H'_s + t$.
@@ -174,9 +174,9 @@ It is clear that if the star is towards west of *daśama-lagna* then $H$ is to b
 
 There is set another stony instrument called *Nāḍī-maṇḍala* towards eastern direction. Its plane lies in the plane of equator. On northern side of it there is made a circle, whose diameter is 3 hands and 2 *aṅgulas*. It is divided in four parts by vertical and horizontal lines. In each quadrant there are graduated 90 degrees. At the centre of this circle there is an iron peg pointing towards the Polaris. From the shadow of this rod, when the Sun or the *nakṣatra* is in the northern hemisphere, its hour angle is known. Also the south-facing side of this instrument has a circle with diameter equal to 1 hand and 13 *aṅgulas*. This too like the north-facing side is divided into quadrants by vertical and horizontal lines and graduated in degrees. This circle is to know the hour angle of the *nakṣatra* or the Sun in the southern hemisphere.
 
-![Fig. 11.5. Photograph of Nāḍī-maṇḍala](media/p14_page.png)
+![Fig. 11.5. Photograph of Nāḍī-maṇḍala](media/p14_page.webp)
 
-<!-- figure-resolved-page-render: page=14 image=media/p14_page.png -->
+<!-- figure-resolved-page-render: page=14 image=media/p14_page.webp -->
 <!-- figure-meta: page=14, position=middle, type=photograph -->
 Fig. 11.5. *Nāḍī-maṇḍala*
 
@@ -185,9 +185,9 @@ Fig. 11.5. *Nāḍī-maṇḍala*
 Near this very instrument there is Cakra yantra. It lies in between two walls. It is made of iron and is capable of rotating. On the outer periphery, there is covering with pittal-foil. Its diameter is towards Polaris. The periphery is 3 *aṅgulas* broad and $\frac{1}{2}$ *aṅgula* in thickness. On edges it is graduated in degrees and each degree is further divided into four equal parts. There is a *paṭṭi* (tube device) made up of pittal. It is 3 *aṅgulas* broad and passes through the peg at the centre. The same has a thread with a mark (Index) in the middle.
 To know the declination of a planet or star with the help of this, move the instrument and the *paṭṭi* in such a way that the celestial body, whose declination is to be determined is visible along the thread to the eye placed below the *paṭṭi*. From the diameter perpendicular to the one facing the pole, the degrees on the periphery upto the *paṭṭi* is the declination of the planet or the star.
 
-![Fig. 11.6. Cakra-yantra diagram](media/p15_page.png)
+![Fig. 11.6. Cakra-yantra diagram](media/p15_page.webp)
 
-<!-- figure-resolved-page-render: page=15 image=media/p15_page.png -->
+<!-- figure-resolved-page-render: page=15 image=media/p15_page.webp -->
 <!-- figure-meta: page=15, position=middle, type=diagram -->
 Fig. 11.6
 In this very instrument there were base circles etc. for determining hour angles of planets and stars, but these have been erased now. The *paṭṭi* is bent so with the help of this as described above, the declination can not be determined correctly. This instrument is somewhat similar to meridian circle or transit instrument of present times, which is fitted with a telescope instead of a Vedha *paṭṭi* and is set always in meridian for observations at transits only.
@@ -206,9 +206,9 @@ Now, let us come to those points which are not clarified by Bāpudeva śāstrī.
 
 On the eastern side of this instrument there is a big Digamśa yantra (an instrument for knowing diagamśa or azimuthal angle). At its middle there is a pillar having diameter equal to two hands and $10$ *aṅgulas* and height equal to $2\frac{3}{4}$ hands. At its centre there is fixed a gnomon with a hole at its bottom (see Fig. 11.7). From this pillar at a distance of five hands minus four *aṅgulas* there is an enclosing (circular) wall. Its height is equal to that of the pillar and thickness is one hand. From this wall too somewhat more than $2$ hands away towards the outer side there is another enclosing wall. Its height is double that of the first one and the breadth is $1\frac{1}{2}$ hands. The upper sides of both the walls are graduated in directions and degrees. On the outer wall there are pivoted iron pegs in the four directions.
 
-![Fig. 11.7](media/p16_page.png)
+![Fig. 11.7](media/p16_page.webp)
 
-<!-- figure-resolved-page-render: page=16 image=media/p16_page.png -->
+<!-- figure-resolved-page-render: page=16 image=media/p16_page.webp -->
 <!-- figure-meta: page=16, position=middle, type=diagram -->
 The instrument of this type is used to find the azimuth. A thread is fastened to the eastern and western pegs and another one to the similar pegs fixed at the north
 ASTRONOMICAL OBSERVATORIES 353
@@ -231,9 +231,9 @@ The observatory of Kāśī has no Jai Prakāśa yantra and Rāma yantra which to
 354 HISTORY OF ASTRONOMY IN INDIA
 visible to us. It consists of a concave hemisphere dug in the ground (See Fig. 11.8). The rim represents the horizon of the place of observation and is graduated in degrees and minutes. Here $EW$ and $NS$ are east-west and north-south lines. $NPS$ is the meridian passing through the zenith of the place of observation and the north south points. Here $P$ represents the south. With $P$ as centre and radii $\pi/3 \pm \epsilon$ ($\epsilon$ being obliquity of the ecliptic) draw two circles. These will evidently represent the circles described by the ecliptic around the pole. Both these are marked in signs (*rāśis*) degrees minutes and second. On these circles mark points indicating position of $12$ *rāśis* representing their rising from west to east. Taking these as centre draw $12$ circles which will represent $12$ positions of the Sun in *rāśis* on the ecliptic. With the lowest point of the hemisphere as centre and spherical radii $6^\circ, 12^\circ, 18^\circ, \dots, 90^\circ$ describe $15$ circles, the lowest one being the horizon. Through $O$ draw sixty circles of azimuth and a hole is made at the lowermost bottom point of the bowl. The rays of the Sun fall through this hole inside the hemisphere and revolve as the Sun describes diurnal motion. At all instants its position can be directly read from the graduations. In the hemisphere, the paths are dug out for observer to go inside the hemisphere for taking readings. Since the dug portions can not have graduations, there is made another complementary hemisphere in which the part dug in the 1st hemisphere is not dug, instead have graduations and whichever parts are graduated in 1st one, are dug in the second hemisphere. Thus with the help of two complementary hemispheres, position can be read for any instant. The duplicate Jai Prakāśa yantras in Delhi and Jaipur have five passages each.
 
-![Fig. 11. 8.](media/p18_page.png)
+![Fig. 11. 8.](media/p18_page.webp)
 
-<!-- figure-resolved-page-render: page=18 image=media/p18_page.png -->
+<!-- figure-resolved-page-render: page=18 image=media/p18_page.webp -->
 <!-- figure-meta: page=18, position=middle, type=diagram -->
 G. R. Kaye[^42] has speculated Berosus' Bowl to be the basis of Jai Prakāśa yantra. L. V. Gurjar[^43] has contradicted his view and proved the same to be baseless arguing that Berosus (A priest at Bel in Babylon) is not accredited with any invention of Bowl-like device. He (Kaye) himself accepts that the Berosus' Bowl was not fully graduated and may be Jai Singh never knew of it and developed Jai Prakāśa yantra independently. In fact Jai Prakāśa yantra originated from Armillary sphere described in *Sūrya-siddhānta*, *Siddhānta Śiromaṇi* and other texts of Indian Astronomical tradition.
 
@@ -243,9 +243,9 @@ This consists of a cylindrical vertical graduated wall of diameter $24$ feet and
 ASTRONOMICAL OBSERVATORIES 355
 fig. 11.9). There is another complementary identical Rāma yantra which differs from the first one in graduated and cut passage portions of the wall. This instrument gives altitudes and azimuth of planets and stars.
 
-![Fig. 11.9. Rāma Yantra](media/p19_page.png)
+![Fig. 11.9. Rāma Yantra](media/p19_page.webp)
 
-<!-- figure-resolved-page-render: page=19 image=media/p19_page.png -->
+<!-- figure-resolved-page-render: page=19 image=media/p19_page.webp -->
 <!-- figure-meta: page=19, position=top, type=photograph -->
 
 ### (4) *Miśra-yantra*
@@ -259,9 +259,9 @@ In Jaipur, the collection has a Samrāṭ yantra, Saṣṭyaṃśa yantra, Rāś
 356 HISTORY OF ASTRONOMY IN INDIA
 valaya yantra, Yāmyottara-bhitti yantra, two big astrolabes, a Unnatāṃśa yantra, Cakra-yantra, Dhruvadarśaka yantra, and a Krānti-vṛtta-yantra of $17.5$ feet diameter.
 
-![Fig. 11.10. Misra Yantra](media/p20_page.png)
+![Fig. 11.10. Misra Yantra](media/p20_page.webp)
 
-<!-- figure-resolved-page-render: page=20 image=media/p20_page.png -->
+<!-- figure-resolved-page-render: page=20 image=media/p20_page.webp -->
 <!-- figure-meta: page=20, position=top, type=photograph -->
 Rāśi-valaya-yantra is a combination of $12$ Samrāṭ-yantra-like structure one for each *rāśi* (sign). The cylindrical wall is not in the equatorial plane; instead it is in the plane of the respective *rāśi*. Kapāla yantra is a hemispherical bowl similar to the Jai Prakāśa yantra but it is used for studying rising *rāśis*, knowing time, azimuth, longitude, *lagna* etc.[^45] Unnatāṃśa-yantra (altitude instrument) is made up of metal and is used to determine altitudes of heavenly bodies. In Jaipur observatory it is made up of circular metal of $18$ ft diameter graduated to $1/10$th parts of a degree. The circle can be rotated about its vertical diameter. A pointer was attached to a hole at its centre. The instrument is fixed at an elevation so that readings can be taken by standing at any point. Dhruva-darśaka yantra is a triangular gnomon of sand stone with elevation $= 27^\circ$. The north face is at right angles to the base. Such an instrument was a big help to astronomers, navigators in determining directions, in setting instruments and in knowing local mean time with the help of *dhruva-matsya* (polar fish). Garret et al.[^46] described all instruments in Jaipur observatory with good drawings in details.
 
@@ -333,9 +333,9 @@ The 48 divisions of sky were used by Ptolemy but the astrolabes of Jai Singh use
 
 362 HISTORY OF ASTRONOMY IN INDIA
 
-![Fig. 11.14. gig. 11.14.](media/p26_page.png)
+![Fig. 11.14. gig. 11.14.](media/p26_page.webp)
 
-<!-- figure-resolved-page-render: page=26 image=media/p26_page.png -->
+<!-- figure-resolved-page-render: page=26 image=media/p26_page.webp -->
 <!-- figure-meta: page=26, position=top, type=diagram -->
 It is to be pointed out that Indian astrolabes do have their specialities in markings (like in *laṅkodayas* rising of signs etc.) and different styles in workmanship. For comparison all astrolabes of essentially Hindu tradition must be studied for final conclusions. It may be remarked that in India there are no astrolabes of much antiquity available anywhere. Even we do not find astrolabes of the times of Mahendra Suri or other authorities on astrolabe-making before the time of Jai Singh. The instruments might have been destroyed or taken off during invasions. We do not hope to find any old ones and under these circumstances, the only way is to study the works of Mahendra Suri etc. and compare with the features of astrolabes of Arabic and European origins. Also the comparison of existing instruments in a quantitative fashion will reveal the originality in the features of these instruments.
 The observatory at Mathurā[^55] was located on the banks of Yamunā. Jai Singh Sawāī a staunch devotee of Lord Kṛṣṇa usually visited Mathurā and built a temple of Lord Kṛṣṇa. For observatory, he chose a fort built by his ancestor Rāja Māna Singh of Amber (end of 16th century A.D.). Due to attacks by religious fanatics there are not even debris of the Vedhaśālā (observatory) there. This observatory had Laghu-Samrāṭ-yantra, Dhūpa-ghaṭī (Sun dial), Yamyottara-bhitti-yantra (Meridian wall). Here yantras were of smaller size, in comparison with the similar ones in Jaipur. The last remains of the Vedhaśālā were put to oblivion in 1857 A.D. when Jyoti Prasad, a contractor bought the fort and demolished every bit of the Vedhaśālā.
